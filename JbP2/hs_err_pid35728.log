@@ -1,0 +1,158 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_IN_PAGE_ERROR (0xc0000006) at pc=0x00007ffcf8f1c963, pid=35728, tid=3904
+#
+# JRE version:  (10.0.1+10) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (10.0.1+10, mixed mode, aot, tiered, compressed oops, g1 gc, windows-amd64)
+# Problematic frame:
+# C  [msvcr120.dll+0x3c963]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Dfile.encoding=Cp1252 --module-path=C:\Users\gerard\eclipse-workspace\JbP2\target\classes;C:\Users\gerard\.m2\repository\org\jdom\jdom2\0.0.6-BETA\jdom2-0.0.6-BETA.jar -Djdk.module.main=JbP2 JbP2/main.JabberPoint
+
+Host: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, 8 cores, 22G,  Windows 10 , 64 bit Build 17134 (10.0.17134.753)
+Time: Wed Feb 19 19:52:25 2020 West-Europa (standaardtijd) elapsed time: 0 seconds (0d 0h 0m 0s)
+
+---------------  T H R E A D  ---------------
+
+Current thread is native thread
+
+Stack: [0x000000a21d900000,0x000000a21da00000],  sp=0x000000a21d9ff780,  free space=1021k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [msvcr120.dll+0x3c963]
+C  0x0000000000010000
+
+
+siginfo: EXCEPTION_IN_PAGE_ERROR (0xc0000006), writing address 0x000001dc4af70000
+
+
+Registers:
+RAX=0x0000000000000000, RBX=0x000001dc4af70000, RCX=0x0000000000010000, RDX=0x0000000000000000
+RSP=0x000000a21d9ff780, RBP=0x0000000000010000, RSI=0x000001dc496b21d0, RDI=0x000001dc4af70000
+R8 =0x0000000000010000, R9 =0x0000000000010000, R10=0x0000000000000000, R11=0x000001dc4af70000
+R12=0x0000000000000000, R13=0x0000000067aa2b80, R14=0x000001dc496a97a0, R15=0x000000a21d9ffcc8
+RIP=0x00007ffcf8f1c963, EFLAGS=0x0000000000010207
+
+Top of Stack: (sp=0x000000a21d9ff780)
+0x000000a21d9ff780:   0000000000010000 0000000067b1a6db
+0x000000a21d9ff790:   000001dc4b781dc0 0000000000000103
+0x000000a21d9ff7a0:   000001dc4b78fcf5 000001dc496ac1e0
+0x000000a21d9ff7b0:   0000000000010000 0000000000000000
+0x000000a21d9ff7c0:   000001dc00000000 0000000000000af0
+0x000000a21d9ff7d0:   000000a200000000 000000006760b71a
+0x000000a21d9ff7e0:   000000a21d9ffbd8 000000006760b71a
+0x000000a21d9ff7f0:   0000000000000020 000000a21d9ffa10
+0x000000a21d9ff800:   000000a21d9ffcc0 0000000000000020
+0x000000a21d9ff810:   000000a21d9ffcc0 0000000067b18c40
+0x000000a21d9ff820:   0000000000010000 000000a21d9ffbd8
+0x000000a21d9ff830:   0000000000010000 000000a21d9ffa10
+0x000000a21d9ff840:   0000000067f05888 0000000067b182e2
+0x000000a21d9ff850:   0000000000010000 0000000000000000
+0x000000a21d9ff860:   0000000000000000 0000000000000000
+0x000000a21d9ff870:   0000000000000000 000001dc49661000 
+
+Instructions: (pc=0x00007ffcf8f1c963)
+0x00007ffcf8f1c943:   0f b6 d2 49 83 f8 10 0f 82 5c 01 00 00 0f ba 25
+0x00007ffcf8f1c953:   00 4e 0a 00 01 73 0e 57 48 8b f9 8b c2 49 8b c8
+0x00007ffcf8f1c963:   f3 aa 5f eb 6d 49 b9 01 01 01 01 01 01 01 01 49
+0x00007ffcf8f1c973:   0f af d1 0f ba 25 da 4d 0a 00 02 0f 82 9c 00 00 
+
+
+
+---------------  P R O C E S S  ---------------
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+
+[error occurred during error reporting (printing compressed oops mode), id 0xc0000006]
+
+Deoptimization events (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff784220000 - 0x00007ff78425e000 	C:\Program Files\Java\jdk-10.0.1\bin\javaw.exe
+0x00007ffd2a510000 - 0x00007ffd2a6f1000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffd29fc0000 - 0x00007ffd2a071000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffd268c0000 - 0x00007ffd26b33000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffd27cc0000 - 0x00007ffd27d61000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffd296b0000 - 0x00007ffd2974e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffd295c0000 - 0x00007ffd2961b000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffd29410000 - 0x00007ffd29534000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffd298d0000 - 0x00007ffd29a61000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffd27050000 - 0x00007ffd27070000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffd293e0000 - 0x00007ffd29408000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffd26db0000 - 0x00007ffd26f41000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffd278e0000 - 0x00007ffd2797f000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffd27070000 - 0x00007ffd27168000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffd16330000 - 0x00007ffd16599000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1130_none_d3ff42617c90becf\COMCTL32.dll
+0x00007ffd187c0000 - 0x00007ffd187ca000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffd29c90000 - 0x00007ffd29fb1000 	C:\WINDOWS\System32\combase.dll
+0x00007ffd26b40000 - 0x00007ffd26bb9000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffd27b20000 - 0x00007ffd27b4d000 	C:\WINDOWS\System32\IMM32.DLL
+0x00007ffcf8ee0000 - 0x00007ffcf8fcf000 	C:\Program Files\Java\jdk-10.0.1\bin\msvcr120.dll
+0x00007ffd0ab10000 - 0x00007ffd0abb6000 	C:\Program Files\Java\jdk-10.0.1\bin\msvcp120.dll
+0x0000000067550000 - 0x0000000067fc0000 	C:\Program Files\Java\jdk-10.0.1\bin\server\jvm.dll
+0x00007ffd29c80000 - 0x00007ffd29c88000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffd23680000 - 0x00007ffd236a3000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffd165a0000 - 0x00007ffd165a9000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffd29b60000 - 0x00007ffd29bcc000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ffd23650000 - 0x00007ffd2367a000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffd27000000 - 0x00007ffd27049000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x00007ffd235e0000 - 0x00007ffd235ef000 	C:\Program Files\Java\jdk-10.0.1\bin\verify.dll
+0x00007ffd154b0000 - 0x00007ffd15679000 	C:\WINDOWS\SYSTEM32\DBGHELP.DLL
+0x00007ffd15220000 - 0x00007ffd15249000 	C:\WINDOWS\SYSTEM32\dbgcore.DLL
+0x00007ffd11ea0000 - 0x00007ffd11ec7000 	C:\Program Files\Java\jdk-10.0.1\bin\java.dll
+
+dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
+symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Program Files\Java\jdk-10.0.1\bin;C:\WINDOWS\SYSTEM32;C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1130_none_d3ff42617c90becf;C:\Program Files\Java\jdk-10.0.1\bin\server
+
+VM Arguments:
+jvm_args: -Dfile.encoding=Cp1252 --module-path=C:\Users\gerard\eclipse-workspace\JbP2\target\classes;C:\Users\gerard\.m2\repository\org\jdom\jdom2\0.0.6-BETA\jdom2-0.0.6-BETA.jar -Djdk.module.main=JbP2 
+java_command: JbP2/main.JabberPoint
+java_class_path (initial): C:\Users\gerard\.m2\repository\javax\xml\jaxp-api\1.4\jaxp-api-1.4.jar
+Launcher Type: SUN_STANDARD
+
+Logging:
+Log output configuration:
+#0: stdout all=warning uptime,level,tags
+#1: stderr all=off uptime,level,tags
+
+Environment Variables:
+PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\IIS Express\PHP\v5.3;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Utilities\;C:\Program Files (x86)\MySQL\MySQL Utilities\Doctrine extensions for PHP\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\WinMerge;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Git\bin;;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\gerard\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\gerard\AppData\Local\Programs\Python\Python35-32\;C:\Program Files\smartmontools\bin;C:\Users\gerard\AppData\Local\Microsoft\WindowsApps;e:\Program Files (x86)\Overlook Fing 2.2\bin;e:\Program Files (x86)\Overlook Fing 3.0\bin;C:\Users\gerard\AppData\Local\GitHubDesktop\bin;C:\Users\gerard\AppData\Roaming\Composer\vendor\bin;C:\Users\gerard\AppData\Local\atom\bin;C:\Users\gerard\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-10.0.1\bin;C:\Users\gerard\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\
+USERNAME=gerard
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10 , 64 bit Build 17134 (10.0.17134.753)
+
+CPU:total 8 (initial active 8) 
+
+Memory: 4k page, physical 24053112k(12579684k free), swap 24053112k(12428980k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (10.0.1+10) for windows-amd64 JRE (10.0.1+10), built on Mar 27 2018 02:27:48 by "mach5one" with MS VC++ 12.0 (VS2013)
+
+END.
