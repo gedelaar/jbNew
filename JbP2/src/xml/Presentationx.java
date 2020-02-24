@@ -1,6 +1,6 @@
 package xml;
 
-public class Presentation {
+public class Presentationx {
 	private String showtitle;
 	private String slide;
 	private String title;

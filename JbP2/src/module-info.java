@@ -1,5 +1,9 @@
 module JbP2 {
 	requires java.xml;
-	requires jdom2;
+	
 	requires jdk.jdeps;
+	requires java.base;
+	//requires org.junit.jupiter.api;
+	//requires org.junit.platform.runner;
+
 }

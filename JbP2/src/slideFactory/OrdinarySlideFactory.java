@@ -1,27 +1,22 @@
 package slideFactory;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import slide.OrdinarySlide;
 import slide.Slide;
 
 public class OrdinarySlideFactory implements SlideAbstractFactory {
 
-	List<Slide> slide = new ArrayList<>();
-	
-	@Override
-	public Slide createSlide(String naam) {
-		
-		return new OrdinarySlide(naam);
-	}
+  Slide ordinarySlide = new OrdinarySlide();
 
-	@Override
-	public Slide getSlide() {
-		
-		return (Slide) slide;
-	}
+  @Override
+  public Slide createSlide(Slide slide) {
+    ordinarySlide = (OrdinarySlide) slide;
+    return ordinarySlide;
+  }
 
-	
+  @Override
+  public OrdinarySlide getSlide(int index) {
+    return (OrdinarySlide) ordinarySlide.getItem(index);
+  }
 
+  
 }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import item.Item;
 
-public class OrdinarySlide implements Slide {
+public class OrdinarySlide extends Slide {
 
 	private String naam;
 	private List<Item> items = new ArrayList<>();
@@ -27,8 +27,8 @@ public class OrdinarySlide implements Slide {
 		return items;
 	}
 
-	public void setNaam(String naam) {
-		this.naam = naam;
+	public String setNaam(String naam) {
+		return this.naam = naam;
 	}
 
 	public void setItems(List<Item> items) {
@@ -49,6 +49,24 @@ public class OrdinarySlide implements Slide {
 	public List<Item> items() {
 		// TODO Auto-generated method stub
 		return items;
+	}
+
+	@Override
+	public String setSubNaam(String subNaam) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getSubNaam() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item getItem(int index) {
+		// TODO Auto-generated method stub
+		return items.get(index);
 	}
 
 	

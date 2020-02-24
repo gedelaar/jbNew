@@ -5,26 +5,21 @@ import java.util.List;
 
 import item.Item;
 
-public class TitleSlide implements Slide {
+public class TitleSlide extends Slide {
 	private String subNaam;
 	private String naam;
-	private List<Item> text = new ArrayList<>();
-
-	public TitleSlide(String naam, String subNaam) {
-		this.naam = naam;
-		this.subNaam = subNaam;
-	}
-
-	public TitleSlide(String naam) {
-		this(naam, null);
-	}
+	private List<Item> items = new ArrayList<>();
 
 	public TitleSlide() {
 	}
 
+	public TitleSlide(Slide slide) {
+		this.naam = slide.getNaam();
+		this.subNaam = slide.getSubNaam();
+	}
+
 	@Override
 	public String getNaam() {
-		// TODO Auto-generated method stub
 		return naam;
 	}
 
@@ -33,20 +28,41 @@ public class TitleSlide implements Slide {
 	}
 
 	@Override
+	public List<Item> items() {
+		// TODO Auto-generated method stub
+		return items;
+	}
+	
+	
+
+	@Override
+	public String setNaam(String naam) {
+		// TODO Auto-generated method stub
+		return this.naam = naam;
+	}
+
+	@Override
+	public String setSubNaam(String subNaam) {
+		return this.subNaam = subNaam;
+	}
+
+	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
-		builder.append("TitleSlide [naam=");
-		builder.append(naam);
-		builder.append(", subNaam=");
+		builder.append("TitleSlide [subNaam=");
 		builder.append(subNaam);
+		builder.append(", naam=");
+		builder.append(naam);
+		builder.append(", text=");
+		builder.append(items);
 		builder.append("]");
 		return builder.toString();
 	}
 
 	@Override
-	public List<Item> items() {
+	public Item getItem(int index) {
 		// TODO Auto-generated method stub
-		return text	;
+		return items.get(index);
 	}
 
 }
