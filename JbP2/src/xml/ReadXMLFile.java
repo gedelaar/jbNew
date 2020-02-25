@@ -18,18 +18,24 @@ public class ReadXMLFile {
       Document document = ConvertToXmlDocument.convertFileToXMLDocument();
 
       if (document.hasChildNodes()) {
-	ReadXMLNode readXMLNode = new ReadXMLNode();
+	ReadXMLSlideNode readXMLNode = new ReadXMLSlideNode();
 
-	List<Slide> slideList = (List<Slide>) readXMLNode.readXMLNode(document.getChildNodes());
-	//System.out.println(slideList);
+	List<Slide> slideList = (List<Slide>) readXMLNode.readXMLSlideNode(document.getChildNodes());
+	// System.out.println(slideList);
+	int i = 0;
 	for (Slide slide : slideList) {
+
 	  if (slide.getClass().getTypeName() == "slide.OrdinarySlide") {
 	    SlideAbstractFactory slideAbstractFactory = new OrdinarySlideFactory();
 	    slideAbstractFactory.createSlide(slide);
-	    slideListAbstractFactory.add(new OrdinarySlideFactory());
+	    // System.out.println("slide items" + slide.items());
+	    // slideListAbstractFactory.add(new OrdinarySlideFactory());
+	    slideListAbstractFactory.add(slideAbstractFactory);
+	    System.out.println("slideListAbstractFactory1->" + slideListAbstractFactory.get(i).getSlide().getItem(0));
+	    System.out.println("slideListAbstractFactory2->" + slideListAbstractFactory.get(i).getSlide().getItem(0).getNodeAttributes());
+	    i++;
 	  }
 	}
-	
 
       }
 
@@ -37,7 +43,7 @@ public class ReadXMLFile {
     catch (Exception e) {
       e.printStackTrace();
     }
-    //System.out.println(slideListAbstractFactory);
+    // System.out.println(slideListAbstractFactory);
     return slideListAbstractFactory;
   }
 

@@ -3,14 +3,17 @@ package item;
 import java.util.List;
 
 public interface Item {
-	String/* No type specified! */ getLine();
+  String/* No type specified! */ getLine();
 
-	void writeLine();
+  void writeLine();
 
-	void node();
-	
-	String setNodeNaam(String naam);
-	String getNodeNaam();
+  void node();
 
-	NodeAttribute getNodeAttribute(int index);
+  String setNodeNaam(String naam);
+
+  String getNodeNaam();
+
+  NodeAttribute getNodeAttribute(int index);
+
+  List<NodeAttribute> getNodeAttributes();
 }

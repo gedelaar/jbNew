@@ -13,7 +13,7 @@ import org.xml.sax.SAXException;
 
 import slide.OrdinarySlide;
 import xml.ConvertToXmlDocument;
-import xml.ReadXMLNode;
+import xml.ReadXMLSlideNode;
 
 class ReadXMLNodeTest {
 //@formatter:off
@@ -29,7 +29,7 @@ class ReadXMLNodeTest {
       + "     </slide>" 
       + "</presentation>";
 //@formatter:on
-  ReadXMLNode node = new ReadXMLNode();
+  ReadXMLSlideNode node = new ReadXMLSlideNode();
 
   @BeforeAll
   static void setUpBeforeClass() throws Exception {
@@ -42,7 +42,7 @@ class ReadXMLNodeTest {
   @Test
   void testReadXMLNode() throws SAXException, IOException {
     Document doc = ConvertToXmlDocument.convertStringToXMLDocument(xmlStr);
-    OrdinarySlide slide = (OrdinarySlide) node.readXMLNode(doc.getChildNodes());
+    OrdinarySlide slide = (OrdinarySlide) node.readXMLSlideNode(doc.getChildNodes());
     assertEquals("gelijk","title for Jabberpoint2", slide.getItems().get(0).getLine());
     assertNotEquals("ongelijk","title for Jabberpoint2", slide.getItems().get(1).getLine());
   }

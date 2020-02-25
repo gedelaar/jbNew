@@ -66,4 +66,10 @@ public class TextItem implements Item {
 	  this.nodeAttribute = nodeAttribute;
 	}
 
+	@Override
+	public List<NodeAttribute> getNodeAttributes() {
+	  // TODO Auto-generated method stub
+	  return nodeAttribute;
+	}
+
 }

@@ -49,6 +49,7 @@ public class SlideShow implements IPresentation {
     System.out.println(slides.isEmpty());
     System.out.println(slides.size());
     System.out.println(slides.toString());
+    //System.out.println(slides.get(0));
     return slides;
 
   }
@@ -60,6 +61,7 @@ public class SlideShow implements IPresentation {
 
       //Slide slide = slideFactory.getSlide(0);
       System.out.println( slideFactory);
+     // System.out.println(slideFactory);
       //System.out.println("slidenaam : " + slide.getNaam());
       //System.out.println("slideItems: " + slide.items());
       // }
