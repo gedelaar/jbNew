@@ -1,6 +1,6 @@
 package item;
 
-public interface NodeAttribute {
+public interface Attribute {
 
   String getNaam();
 

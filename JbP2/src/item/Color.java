@@ -1,6 +1,6 @@
 package item;
 
-public class Color implements Item
+public class Color extends Item
 {
 
 	@Override

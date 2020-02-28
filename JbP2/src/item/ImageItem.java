@@ -2,32 +2,14 @@ package item;
 
 import java.util.List;
 
-public class TextItem extends Item {
+public class ImageItem extends Item {
   private String line;
   private String naam;
   private List<Attribute> itemAttributes;
 
-  public TextItem(String line) {
-    super();
-    this.line = line;
-  }
-
-  public TextItem() {
-  }
-
+  @Override
   public String getLine() {
-    return line;
-  }
-
-  public void writeLine() {
-  }
-
-  public void setItemNaam(String naam) {
-    this.naam = naam;
-  }
-
-  public String getItemNaam() {
-    return this.naam;
+    return this.line;
   }
 
   @Override
@@ -36,9 +18,17 @@ public class TextItem extends Item {
   }
 
   @Override
-  public void setItemAttributes(List<Attribute> itemAttributes) {
-    this.itemAttributes = itemAttributes;
+  public void writeLine() {
+  }
 
+  @Override
+  public void setItemNaam(String naam) {
+    this.naam = naam;
+  }
+
+  @Override
+  public String getItemNaam() {
+    return this.naam;
   }
 
   @Override
@@ -47,9 +37,14 @@ public class TextItem extends Item {
   }
 
   @Override
+  public void setItemAttributes(List<Attribute> itemAttributes) {
+    this.itemAttributes = itemAttributes;
+  }
+
+  @Override
   public String toString() {
     StringBuilder builder = new StringBuilder();
-    builder.append("TextItem [line=");
+    builder.append("ImageItem [line=");
     builder.append(line);
     builder.append(", naam=");
     builder.append(naam);

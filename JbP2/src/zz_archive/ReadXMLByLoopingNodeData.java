@@ -1,4 +1,4 @@
-package xml;
+package zz_archive;
 
 import java.util.List;
 

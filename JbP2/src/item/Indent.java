@@ -1,6 +1,6 @@
 package item;
 
-public class Indent implements Item{
+public class Indent extends Item{
 
 	@Override
 	public String getLine() {

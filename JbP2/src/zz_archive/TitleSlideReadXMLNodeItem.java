@@ -1,4 +1,4 @@
-package xml;
+package zz_archive;
 
 import org.w3c.dom.Node;
 
@@ -10,7 +10,7 @@ import slideFactory.SlideAbstractFactory;
 import slideFactory.TitleSlideFactory;
 import xml.xmlenum.XMLType.XMLTypes;
 
-public class TitleSlideReadXMLNodeItem implements ReadXMLNodeItem {
+public class TitleSlideReadXMLNodeItem implements XmlElementNodeItem {
 
 	@Override
 	public Slide SlideNode(Node tempNode) {

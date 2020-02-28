@@ -5,18 +5,17 @@ import slide.TitleSlide;
 
 public class TitleSlideFactory implements SlideAbstractFactory {
 
-	TitleSlide titleSlide = new TitleSlide();
+  Slide titleSlide = new TitleSlide();
 
-	@Override
-	public Slide createSlide(Slide slide) {
-		titleSlide = (TitleSlide) slide;
-		return new TitleSlide(titleSlide);
-	}
+  @Override
+  public Slide createSlide(Slide slide) {
+    this.titleSlide = slide;
+    return slide;
+  }
 
-	@Override
-	public TitleSlide getSlide() {
-		return titleSlide;
-	}
+  @Override
+  public Slide getSlide() {
+    return this.titleSlide;
+  }
 
-	
 }

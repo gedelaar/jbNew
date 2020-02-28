@@ -1,17 +1,20 @@
 package presentation;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import slide.Slide;
-import slideFactory.OrdinarySlideFactory;
-import slideFactory.SlideAbstractFactory;
-import xml.ReadXMLFile;
+import org.xml.sax.SAXException;
 
-@XmlRootElement (name = "presentation")
+import item.Attribute;
+import item.Item;
+import slide.Slide;
+import slideFactory.SlideAbstractFactory;
+import xml.RecursiveDOM;
+
+@XmlRootElement(name = "presentation")
 public class SlideShow implements IPresentation {
   /**
    * <pre>
@@ -21,71 +24,79 @@ public class SlideShow implements IPresentation {
    * </pre>
    */
 
-  List<SlideAbstractFactory> slideFactory = new ArrayList<>();
-  
-
+  List<SlideAbstractFactory> slideFactories = new ArrayList<>();
 
   String showTitle;
+  Slide slide;
 
   @Override
   public IPresentation load() {
-    // TODO Auto-generated method stub
     return null;
   }
 
   @Override
   public void save() {
-    // TODO Auto-generated method stub
-
   }
 
-  
+  // lees de xml file
   public List<SlideAbstractFactory> open() {
+    List<SlideAbstractFactory> slideAbstractFactories = null;
+    try {
+      RecursiveDOM recursiveDom = new RecursiveDOM();
+      slideAbstractFactories = recursiveDom.recursiveDOM();
+      System.out.println("  ");
 
-    ReadXMLFile xmlFile = new ReadXMLFile();
-    List<SlideAbstractFactory> slides = new ArrayList<>();
-    // lees de xml file
-    slides = xmlFile.readXML();
-    System.out.println(slides.isEmpty());
-    System.out.println(slides.size());
-    System.out.println(slides.toString());
-    //System.out.println(slides.get(0));
-    return slides;
+      for (SlideAbstractFactory slideAbsFact : slideAbstractFactories) {
+	System.out.println(slideAbsFact.getSlide().getNaam());
 
+	for (Item item : slideAbsFact.getSlide().items()) {
+	  System.out.println(item);
+	  for (Attribute att : item.itemAttributes()) {
+	    System.out.println(att);
+	  }
+	}
+	System.out.println("  ");
+      }
+    }
+    catch (SAXException e) {
+      e.printStackTrace();
+    }
+    catch (IOException e) {
+      e.printStackTrace();
+    }
+    return slideAbstractFactories;
   }
 
   public void checkSlideList(List<SlideAbstractFactory> slideList) {
 
-    for (SlideAbstractFactory slideFactory : slideList) {
-      // for (SlideFactory slideF : slideFactory) {
-
-      //Slide slide = slideFactory.getSlide(0);
-      System.out.println( slideFactory);
-     // System.out.println(slideFactory);
-      //System.out.println("slidenaam : " + slide.getNaam());
-      //System.out.println("slideItems: " + slide.items());
-      // }
-    }
-
   }
 
- 
   public String getShowTitle() {
     return showTitle;
   }
 
-  @XmlElement(name = "showtitle")
   public void setShowTitle(String showTitle) {
     this.showTitle = showTitle;
   }
-  
-  Slide slide;
-  @XmlElement(name = "slide")
+
   public void setSlide(Slide slide) {
     this.slide = slide;
   }
-  
+
   public Slide getSlide() {
     return slide;
+  }
+
+  @Override
+  public String toString() {
+    StringBuilder builder = new StringBuilder();
+    builder.append("SlideShow [slideFactories=");
+    builder.append(slideFactories);
+    builder.append(", showTitle=");
+    builder.append(showTitle);
+    builder.append(", slide=");
+    builder.append(slide);
+    builder.append("]");
+    return builder.toString();
   }
 }

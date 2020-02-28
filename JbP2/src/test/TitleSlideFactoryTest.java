@@ -1,6 +1,5 @@
 package test;
 
-import static org.junit.Assert.fail;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeAll;
@@ -10,40 +9,42 @@ import org.junit.jupiter.api.Test;
 import slide.Slide;
 import slide.TitleSlide;
 import slideFactory.TitleSlideFactory;
- 
 
 class TitleSlideFactoryTest {
-	TitleSlideFactory titleSlideFactory = new TitleSlideFactory();
-	
-	@BeforeAll
-	static void setUpBeforeClass() throws Exception {
-		
-	}
+  TitleSlideFactory titleSlideFactory = new TitleSlideFactory();
 
-	@BeforeEach
-	void setUp() throws Exception {
-	}
+  @BeforeAll
+  static void setUpBeforeClass() throws Exception {
 
-	@Test
-	void testCreateSlide() {
-		Slide slide = new TitleSlide();
-		slide.setNaam("test");
-		slide.setSubNaam("test2");
-		Slide slideReturn = titleSlideFactory.createSlide(slide);
-		//System.out.println(this.getClass());
-		//System.out.println(slideReturn);
-		assertEquals("TitleSlide [naam=test, subNaam=test2]", slideReturn.toString(),"gelijk");
-		
-	}
+  }
 
-	@Test
-	void testGetSlide() {
-		TitleSlide slide = new TitleSlide();
-		slide.setNaam("test");
-		slide.setSubNaam("test2");
-		titleSlideFactory.createSlide(slide);
-		//System.out.println(titleSlideFactory.getSlide());
-		assertEquals("test", titleSlideFactory.getSlide().getNaam(),"gelijk");
-	}
+  @BeforeEach
+  void setUp() throws Exception {
+    
+  }
+
+  @Test
+  void testCreateSlide() {
+    String naam = "test";
+    String subNaam = "test2";
+    Slide slide = new TitleSlide();
+    slide.setNaam(naam);
+    slide.setSubNaam(subNaam);
+    Slide slideReturn = titleSlideFactory.createSlide(slide);
+    assertEquals(naam, titleSlideFactory.getSlide().getNaam(), "gelijk");
+    assertEquals(subNaam, titleSlideFactory.getSlide().getSubNaam(), "gelijk");
+
+  }
+
+  @Test
+  void testGetSlide() {
+    String naam = "test";
+    String subNaam = "test2";
+    TitleSlide slide = new TitleSlide();
+    slide.setNaam(naam);
+    slide.setSubNaam(subNaam);
+    titleSlideFactory.createSlide(slide);
+    assertEquals(naam, titleSlideFactory.getSlide().getNaam(), "gelijk");
+  }
 
 }

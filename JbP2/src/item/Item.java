@@ -2,18 +2,20 @@ package item;
 
 import java.util.List;
 
-public interface Item {
-  String/* No type specified! */ getLine();
+public abstract class Item {
 
-  void writeLine();
+  public abstract void setLine(String line);
 
-  void node();
+  public abstract String getLine();
 
-  String setNodeNaam(String naam);
+  public abstract void writeLine();
 
-  String getNodeNaam();
+  public abstract void setItemNaam(String naam);
 
-  NodeAttribute getNodeAttribute(int index);
+  public abstract String getItemNaam();
 
-  List<NodeAttribute> getNodeAttributes();
+  public abstract void setItemAttributes(List<Attribute> itemAttributes);
+
+  public abstract List<Attribute> itemAttributes();
+
 }

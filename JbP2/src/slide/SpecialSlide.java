@@ -4,7 +4,7 @@ import java.util.List;
 
 import item.Item;
 
-public class SpecialSlide implements Slide {
+public class SpecialSlide extends Slide {
 	private String naam;
 
 	public SpecialSlide(String naam) {

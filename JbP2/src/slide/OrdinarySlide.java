@@ -6,68 +6,51 @@ import item.Item;
 
 public class OrdinarySlide extends Slide {
 
-	private String naam;
-	private List<Item> items = new ArrayList<>();
+  private String naam;
+  private String subNaam;
+  private List<Item> items = new ArrayList<>();
 
-	public OrdinarySlide(String naam) {
-		super();
-		this.naam = naam;
-	}
+  public OrdinarySlide(String naam) {
+    super();
+    this.naam = naam;
+  }
 
-	public OrdinarySlide() {
-		super();
-	}
+  public OrdinarySlide() {
+    super();
+  }
 
-	public String getNaam() {
-		// TODO Auto-generated method stub
-		return naam;
-	}
+  public String getNaam() {
+    return naam;
+  }
 
-	public List<Item> getItems() {
-		return items;
-	}
+  public String setNaam(String naam) {
+    return this.naam = naam;
+  }
 
-	public String setNaam(String naam) {
-		return this.naam = naam;
-	}
+  public List<Item> items() {
+    return items;
+  }
 
-	public void setItems(List<Item> items) {
-		this.items = items;
-	}
+  @Override
+  public void setSubNaam(String subNaam) {
+      }
 
-	@Override
-	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append("OrdinarySlide [naam=");
-		builder.append(naam);
-		builder.append(", items=");
-		builder.append(items);
-		builder.append("]");
-		return builder.toString();
-	}
+  @Override
+  public String getSubNaam() {
+    return null;
+  }
 
-	public List<Item> items() {
-		// TODO Auto-generated method stub
-		return items;
-	}
+  @Override
+  public String toString() {
+    StringBuilder builder = new StringBuilder();
+    builder.append("OrdinarySlide [naam=");
+    builder.append(naam);
+    builder.append(", subNaam=");
+    builder.append(subNaam);
+    builder.append(", items=");
+    builder.append(items);
+    builder.append("]");
+    return builder.toString();
+  }
 
-	@Override
-	public String setSubNaam(String subNaam) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public String getSubNaam() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public Item getItem(int index) {
-		// TODO Auto-generated method stub
-		return items.get(index);
-	}
-
-	
 }

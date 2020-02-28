@@ -1,6 +1,6 @@
 package item;
 
-public class LevelItem implements Item {
+public class LevelItem extends Item {
 
 	String value;
 

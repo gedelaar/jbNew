@@ -1,8 +1,8 @@
-package xml;
+package zz_archive;
 
 import item.Item;
 
-public class TitleXmlSlideNode implements XMLSlideNode {
+public class ItemXmlSlideNode implements IXMLSlideNode {
 
 	@Override
 	public Item readXMLLine() {

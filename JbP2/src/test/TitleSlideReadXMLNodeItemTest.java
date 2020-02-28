@@ -12,8 +12,8 @@ import org.w3c.dom.Node;
 import org.xml.sax.SAXException;
 
 import xml.ConvertToXmlDocument;
-import xml.ReadXMLNodeItem;
-import xml.TitleSlideReadXMLNodeItem;
+import zz_archive.TitleSlideReadXMLNodeItem;
+import zz_archive.XmlElementNodeItem;
 
 class TitleSlideReadXMLNodeItemTest {
 	/*
@@ -22,7 +22,7 @@ class TitleSlideReadXMLNodeItemTest {
 	 * "<showtitle>XML-Based Presentation for Jabberpoint</showtitle>" +
 	 * "<item>XML-Based Presentation for Jabberpoint2</item>" + "</presentation>";
 	 */
-	ReadXMLNodeItem ti = new TitleSlideReadXMLNodeItem();
+	XmlElementNodeItem ti = new TitleSlideReadXMLNodeItem();
 	final String xmlStr1 = "title voor showtitle";
 	final String xmlStr2 = "XML-Based Presentation for Jabberpoint";
 

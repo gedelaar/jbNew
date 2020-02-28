@@ -1,6 +1,6 @@
 package item;
 
-public class Font implements Item {
+public class Font extends Item {
 
 	@Override
 	public String getLine() {

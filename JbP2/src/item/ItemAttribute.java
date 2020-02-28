@@ -1,8 +1,8 @@
 package item;
 
-public class ItemAttribute implements NodeAttribute {
-  String naam;
-  String value;
+public class ItemAttribute implements Attribute {
+  private String naam;
+  private String value;
 
   public String getNaam() {
     return naam;
