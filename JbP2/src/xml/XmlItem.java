@@ -8,36 +8,55 @@ import item.Attribute;
 import item.ImageItem;
 import item.Item;
 import item.TextItem;
+import xml.xmlenum.XMLAttributeValue.XMLAttributeValues;
 
 public class XmlItem {
 
-  public Item getItemValues(Node n) {
-    List<Attribute> attributes;
+  public Item itemValueXMLWrapper(Node node) {
+    String naam = node.getNodeName();
+    String line = node.getTextContent();
+
+    List<Attribute> attributes = null;
     XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
     Item item = null;
 
-    if (n.hasAttributes()) {
-      attributes = xmlItemAttribute.getXMLAttributes(n);
-      switch (attributes.get(0).getValue()) {
-	case "text":
-	  item = new TextItem();
-	  break;
-	case "image":
-	  item = new ImageItem();
-	  break;
+    if (node.hasAttributes()) {
+      attributes = xmlItemAttribute.AttributeXMLWrapper(node);
+      item = getItemType(attributes);
+      item.setItemAttributes(attributes);
+    }
 
+    item = setItemValues(naam, line, attributes);
+    return item;
+
+  }
+
+  public Item setItemValues(String naam, String line, List<Attribute> attributes) {
+    Item item = null;
+
+    if (null != attributes) {
+      item = getItemType(attributes);
+      item.setItemAttributes(attributes);
+    }
+
+    if (null == item) {
+      item = new TextItem();
+    }
+    item.setItemNaam(naam);
+    item.setLine(line);
+    return item;
+  }
+
+  private Item getItemType(List<Attribute> attributes) {
+    for (int i = 0; i < attributes.size(); i++) {
+      XMLAttributeValues attrValue = XMLAttributeValues.valueOf(attributes.get(i).getValue().toUpperCase());
+      switch (attrValue) {
+	case IMAGE:
+	  return new ImageItem();
 	default:
-	  break;
-      }
-
-      if (null != item) {
-	item.setItemNaam(n.getNodeName());
-	item.setLine(n.getTextContent());
-
-	item.setItemAttributes(attributes);
-
+	  return new TextItem();
       }
     }
-    return item;
+    return new TextItem();
   }
 }

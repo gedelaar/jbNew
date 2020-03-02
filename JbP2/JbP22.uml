@@ -4,7 +4,7 @@
     <eAnnotations xmi:id="_hWB1gFpWEeqMoOHlbNi6Hg" source="http://ns.yatta.de/umllab">
       <contents xmi:type="ecore:EAnnotation" xmi:id="_hWCckFpWEeqMoOHlbNi6Hg" source="codegen">
         <details xmi:id="_hWCckVpWEeqMoOHlbNi6Hg" key="codegenDirectory" value="/JbP2/src"/>
-        <details xmi:id="_pjMEMFpWEeqMoOHlbNi6Hg" key="AssociatedSourceCode" value="/JbP2/src/jabberpoint/JabberPoint.java;4031800401/1;/JbP2/src/slideFactory/OrdinarySlideFactory.java;3930065380/1;/JbP2/src/slideFactory/SlideAbstractFactory.java;1834647791/1;/JbP2/src/slideFactory/SlideFactory.java;789699382/1;/JbP2/src/slideFactory/SpecialSlideFactory.java;1717697054/1;/JbP2/src/slideFactory/TitleSlideFactory.java;3820871452/1;/JbP2/src/xml/BaseFileParser.java;4152645293/1;/JbP2/src/xml/CSVFileParser.java;3398476391/1;/JbP2/src/xml/Client.java;428914815/1;/JbP2/src/xml/ConvertToXmlDocument.java;1350603210/1;/JbP2/src/xml/IXmlSlideHandler.java;3491400399/1;/JbP2/src/xml/RecursiveDOM.java;4157764927/1;/JbP2/src/xml/XMLFileParser.java;221051017/1;/JbP2/src/xml/XmlItem.java;3116358131/1;/JbP2/src/xml/XmlItemAttribute.java;1111710166/1;/JbP2/src/xml/XmlNode.java;1058019948/1;/JbP2/src/xml/XmlSlideHandler.java;3242850905/1;/JbP2/src/xml/XmlTitle.java;3242407762/1;/JbP2/src/xml/XmlTitleSlideHandler.java;825892796/1;/JbP2/src/xml/xmlenum/EnumXMLAttributeValues.java;3770974786/1;/JbP2/src/xml/xmlenum/XMLAttributes.java;3314124943/1;/JbP2/src/xml/xmlenum/XMLType.java;3712213346/1;/JbP2/src/slide/EnumSlides.java;3671473548/1;/JbP2/src/slide/OrdinarySlide.java;2869229779/1;/JbP2/src/slide/Slide.java;1101098274/1;/JbP2/src/slide/SpecialSlide.java;2818127170/1;/JbP2/src/slide/TitleSlide.java;2254465215/1;/JbP2/src/presentation/IPresentation.java;3793129396/1;/JbP2/src/presentation/SlideShow.java;34914976/1;/JbP2/src/item/Attribute.java;1632266431/1;/JbP2/src/item/Color.java;4191773712/1;/JbP2/src/item/Font.java;3632303993/1;/JbP2/src/item/FontSize.java;1594325711/1;/JbP2/src/item/ImageItem.java;3373984659/1;/JbP2/src/item/Indent.java;2785399576/1;/JbP2/src/item/Item.java;3884723006/1;/JbP2/src/item/ItemAttribute.java;2453022622/1;/JbP2/src/item/LevelItem.java;74157344/1;/JbP2/src/item/TextItem.java;869853212/1;/JbP2/src/test/ReadXMLNodeTest.java;2108794357/1;/JbP2/src/test/TitleSlideFactoryTest.java;150220379/1;/JbP2/src/test/TitleSlideReadXMLNodeItemTest.java;3300558535/1;/JbP2/src/test/TitleSlideTest.java;690481132/1;/JbP2/src/xpath/XPathExample.java;3749504778/1;/JbP2/src/xpath/XpathSlide.java;4160454517/1;/JbP2/src/zz_archive/IXMLSlideNode.java;3591635761/1;/JbP2/src/zz_archive/ItemXmlSlideNode.java;2777265722/1;/JbP2/src/zz_archive/OrdinarySlideReadXMLNodeItem.java;1004880343/1;/JbP2/src/zz_archive/Presentationx.java;1474706966/1;/JbP2/src/zz_archive/PrintXml.java;2388259837/1;/JbP2/src/zz_archive/ReadXMLByLoopingNodeData.java;4145051026/1;/JbP2/src/zz_archive/TitleSlideReadXMLNodeItem.java;2525776830/1;/JbP2/src/zz_archive/TitleXmlSlideNode.java;3782721265/1;/JbP2/src/zz_archive/XmlElementNode.java;1511787538/1;/JbP2/src/zz_archive/XmlElementNodeItem.java;833048019/1;/JbP2/src/zz_archive/XmlFile.java;3233815323/1;/JbP2/src/zz_archive/XmlNodeAttribute.java;2356358857/1;/JbP2/src/zz_archive/XmlSlideNode.java;3918461089/1;"/>
+        <details xmi:id="_pjMEMFpWEeqMoOHlbNi6Hg" key="AssociatedSourceCode" value="/JbP2/src/jabberpoint/JabberPoint.java;2781825536/1;/JbP2/src/slideFactory/OrdinarySlideFactory.java;2536401286/1;/JbP2/src/slideFactory/SlideAbstractFactory.java;3869237922/1;/JbP2/src/slideFactory/SlideFactory.java;789699382/1;/JbP2/src/slideFactory/SpecialSlideFactory.java;1717697054/1;/JbP2/src/slideFactory/TitleSlideFactory.java;3820871452/1;/JbP2/src/xml/BaseFileParser.java;4152645293/1;/JbP2/src/xml/CSVFileParser.java;3398476391/1;/JbP2/src/xml/Client.java;428914815/1;/JbP2/src/xml/ConvertToXmlDocument.java;1350603210/1;/JbP2/src/xml/IXmlSlideHandler.java;8807703/1;/JbP2/src/xml/RecursiveDOM.java;33577801/1;/JbP2/src/xml/XMLFileParser.java;221051017/1;/JbP2/src/xml/XmlItem.java;159142076/1;/JbP2/src/xml/XmlItemAttribute.java;2655657698/1;/JbP2/src/xml/XmlNode.java;1058019948/1;/JbP2/src/xml/XmlSlideHandler.java;1024348157/1;/JbP2/src/xml/xmlenum/XMLType.java;2880110455/1;/JbP2/src/slide/EnumSlides.java;3671473548/1;/JbP2/src/slide/OrdinarySlide.java;2869229779/1;/JbP2/src/slide/Slide.java;1101098274/1;/JbP2/src/slide/SpecialSlide.java;2818127170/1;/JbP2/src/slide/TitleSlide.java;2639677180/1;/JbP2/src/presentation/IPresentation.java;550852308/1;/JbP2/src/item/Attribute.java;1632266431/1;/JbP2/src/item/ImageItem.java;3373984659/1;/JbP2/src/item/Item.java;2449206882/1;/JbP2/src/item/ItemAttribute.java;2453022622/1;/JbP2/src/item/TextItem.java;1169645352/1;/JbP2/src/test/ReadXMLNodeTest.java;2108794357/1;/JbP2/src/test/TitleSlideFactoryTest.java;150220379/1;/JbP2/src/test/TitleSlideReadXMLNodeItemTest.java;3300558535/1;/JbP2/src/test/TitleSlideTest.java;872767126/1;/JbP2/src/presentation/Presentation.java;133074781/1;/JbP2/src/style/Color.java;3568315209/1;/JbP2/src/style/Font.java;319128617/1;/JbP2/src/style/FontSize.java;3525176762/1;/JbP2/src/style/Indent.java;3450144743/1;/JbP2/src/style/Level.java;3504780200/1;"/>
       </contents>
     </eAnnotations>
     <elementImport xmi:id="_iE2qYFpWEeqMoOHlbNi6Hg">
@@ -42,60 +42,6 @@
         <ownedAttribute xmi:id="_iIU1IFpWEeqMoOHlbNi6Hg" name="value">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iIU1IVpWEeqMoOHlbNi6Hg" name="Color">
-        <generalization xmi:id="_PGwY8FpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWqzIFpWEeqMoOHlbNi6Hg" name="getLine" specification="_iIVcMFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWqzIVpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iIVcMFpWEeqMoOHlbNi6Hg" name="getLine" method="_iWqzIFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iIXRYFpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iIZGkFpWEeqMoOHlbNi6Hg" name="writeLine"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iIaUsFpWEeqMoOHlbNi6Hg" name="Font">
-        <generalization xmi:id="_PHCs0FpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWvEkFpWEeqMoOHlbNi6Hg" name="getLine" specification="_iIa7wFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWvEkVpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iIa7wFpWEeqMoOHlbNi6Hg" name="getLine" method="_iWvEkFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iIbi0FpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iIcJ4lpWEeqMoOHlbNi6Hg" name="writeLine"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iIdYAFpWEeqMoOHlbNi6Hg" name="FontSize">
-        <generalization xmi:id="_PHZSIFpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWvEklpWEeqMoOHlbNi6Hg" name="getLine" specification="_iId_EFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWvEk1pWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iId_EFpWEeqMoOHlbNi6Hg" name="getLine" method="_iWvEklpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iIemIFpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iIfNMlpWEeqMoOHlbNi6Hg" name="writeLine"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iIgbUFpWEeqMoOHlbNi6Hg" name="ImageItem">
         <generalization xmi:id="_PHv3cFpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
@@ -182,24 +128,6 @@
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iIyvMFpWEeqMoOHlbNi6Hg" name="Indent">
-        <generalization xmi:id="_PICLUFpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWw5wlpWEeqMoOHlbNi6Hg" name="getLine" specification="_iIzWQFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWw5w1pWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iIzWQFpWEeqMoOHlbNi6Hg" name="getLine" method="_iWw5wlpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iIz9UFpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iI0kYlpWEeqMoOHlbNi6Hg" name="writeLine"/>
-      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iJAKkFpWEeqMoOHlbNi6Hg" name="ItemAttribute">
         <ownedAttribute xmi:id="_iV9ogFpWEeqMoOHlbNi6Hg" name="naam">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -229,48 +157,6 @@
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iJD08FpWEeqMoOHlbNi6Hg" name="LevelItem">
-        <generalization xmi:id="_PISqAFpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
-        <ownedAttribute xmi:id="_iV-PkFpWEeqMoOHlbNi6Hg" name="value" visibility="package">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWyH4FpWEeqMoOHlbNi6Hg" name="LevelItem" specification="_iJFDEFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWyH4VpWEeqMoOHlbNi6Hg" name="value">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iWyH4lpWEeqMoOHlbNi6Hg" type="_iJD08FpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>super();&#xD;
-		this.value = value;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWyH41pWEeqMoOHlbNi6Hg" name="getLine" specification="_iJGRMFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iWyH5FpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return value;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iJFDEFpWEeqMoOHlbNi6Hg" name="LevelItem" method="_iWyH4FpWEeqMoOHlbNi6Hg">
-          <eAnnotations xmi:id="_iJFqIFpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-            <details xmi:id="_iJFqIVpWEeqMoOHlbNi6Hg" key="create"/>
-          </eAnnotations>
-          <ownedParameter xmi:id="_iJFDEVpWEeqMoOHlbNi6Hg" name="value">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iJFqIlpWEeqMoOHlbNi6Hg" type="_iJD08FpWEeqMoOHlbNi6Hg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iJGRMFpWEeqMoOHlbNi6Hg" name="getLine" method="_iWyH41pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iJGRMVpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iJG4Q1pWEeqMoOHlbNi6Hg" name="writeLine"/>
-      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iJJUgFpWEeqMoOHlbNi6Hg" name="TextItem">
         <generalization xmi:id="_PIoBMFpnEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
         <ownedAttribute xmi:id="_iV-2oVpWEeqMoOHlbNi6Hg" name="line" visibility="public" isReadOnly="true">
@@ -281,6 +167,9 @@
         </ownedAttribute>
         <ownedAttribute xmi:id="_iWAEwVpWEeqMoOHlbNi6Hg" name="itemAttributes" visibility="private" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_iXggo1pWEeqMoOHlbNi6Hg">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iWAEwlpWEeqMoOHlbNi6Hg" value="*"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_wfewgFvNEeqXF6Hs4tyljg" name="type" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iWyH5VpWEeqMoOHlbNi6Hg" name="TextItem" specification="_iJKioFpWEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_iWyH5lpWEeqMoOHlbNi6Hg" name="line">
@@ -307,6 +196,8 @@
  builder.append(naam);&#xD;
  builder.append(&quot;, itemAttributes=&quot;);&#xD;
  builder.append(itemAttributes);&#xD;
+ builder.append(&quot;, type=&quot;);&#xD;
+ builder.append(type);&#xD;
  builder.append(&quot;]&quot;);&#xD;
  return builder.toString();&#xD;
   </body>
@@ -350,6 +241,16 @@
           <language>java</language>
           <body>this.itemAttributes = itemAttributes;&#xD;
 &#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_75kDoVvMEeqXF6Hs4tyljg" name="setItemType" specification="_75i1gFvMEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_75kDolvMEeqXF6Hs4tyljg" name="ITEM" type="_iUjTQFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_75kDo1vMEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return this.type = ITEM.toString().toLowerCase();&#xD;
   </body>
         </ownedBehavior>
         <ownedOperation xmi:id="_iJKioFpWEeqMoOHlbNi6Hg" name="TextItem" method="_iWyH5VpWEeqMoOHlbNi6Hg">
@@ -396,6 +297,12 @@
         <ownedOperation xmi:id="_Zs6jgFpgEeqMoOHlbNi6Hg" name="setItemAttributes" method="_Zs9m0FpgEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_Zs7KkFpgEeqMoOHlbNi6Hg" name="itemAttributes" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_75i1gFvMEeqXF6Hs4tyljg" name="setItemType" method="_75kDoVvMEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_75i1gVvMEeqXF6Hs4tyljg" name="ITEM" type="_iUjTQFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_75kDoFvMEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_iXf5kVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXf5klpWEeqMoOHlbNi6Hg _iV7MQVpWEeqMoOHlbNi6Hg">
         <ownedEnd xmi:id="_iXf5klpWEeqMoOHlbNi6Hg" name="" type="_iIgbUFpWEeqMoOHlbNi6Hg" association="_iXf5kVpWEeqMoOHlbNi6Hg"/>
@@ -404,6 +311,21 @@
         <ownedEnd xmi:id="_iXggpFpWEeqMoOHlbNi6Hg" name="" type="_iJJUgFpWEeqMoOHlbNi6Hg" association="_iXggo1pWEeqMoOHlbNi6Hg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_PGdeAVpnEeqXF6Hs4tyljg" name="Item" isAbstract="true">
+        <ownedAttribute xmi:id="_aQ8HMFvMEeqXF6Hs4tyljg" name="naam" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_HM6AIFvNEeqXF6Hs4tyljg" name="type" isReadOnly="true">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_aQ8HMlvMEeqXF6Hs4tyljg" name="setItemType" specification="_romPQFsLEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_aQ8HM1vMEeqXF6Hs4tyljg" name="ITEM" type="_iUjTQFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_aQ8HNFvMEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return this.naam = ITEM.toString().toLowerCase();&#xD;
+  </body>
+        </ownedBehavior>
         <ownedOperation xmi:id="_7TQuYFpoEeqXF6Hs4tyljg" name="setLine" isAbstract="true">
           <ownedParameter xmi:id="_7TQuYVpoEeqXF6Hs4tyljg" name="line">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -433,6 +355,12 @@
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_romPQFsLEeqXF6Hs4tyljg" name="setItemType" isAbstract="true" method="_aQ8HMlvMEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_rom2UFsLEeqXF6Hs4tyljg" name="ITEM" type="_iUjTQFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_aQ7gIFvMEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_iFPr8FpWEeqMoOHlbNi6Hg" name="java">
@@ -441,68 +369,57 @@
         <packagedElement xmi:type="uml:Class" xmi:id="_iTduIFpWEeqMoOHlbNi6Hg" name="ArrayList"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_iF-rwFpWEeqMoOHlbNi6Hg" name="io">
+        <packagedElement xmi:type="uml:Package" xmi:id="__vSmwFvGEeqXF6Hs4tyljg" name="ObjectInputStream">
+          <packagedElement xmi:type="uml:Class" xmi:id="__vbwsFvGEeqXF6Hs4tyljg" name="GetField"/>
+        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_iTeVMVpWEeqMoOHlbNi6Hg" name="IOException"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_iUaJU1pWEeqMoOHlbNi6Hg" name="File"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_iUawYVpWEeqMoOHlbNi6Hg" name="StringReader"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_iUtrUFpWEeqMoOHlbNi6Hg" name="InputStream"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_iVS6IFpWEeqMoOHlbNi6Hg" name="lang">
+        <packagedElement xmi:type="uml:Package" xmi:id="_pVQnYFrOEeqXF6Hs4tyljg" name="reflect"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_iVS6IVpWEeqMoOHlbNi6Hg" name="Exception"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_iF7BYFpWEeqMoOHlbNi6Hg" name="presentation">
       <packagedElement xmi:type="uml:Interface" xmi:id="_iJiWEFpWEeqMoOHlbNi6Hg" name="IPresentation">
         <ownedOperation xmi:id="_iJi9IFpWEeqMoOHlbNi6Hg" name="load">
-          <ownedParameter xmi:id="_iTeVMFpWEeqMoOHlbNi6Hg" type="_iJiWEFpWEeqMoOHlbNi6Hg" direction="return"/>
+          <ownedParameter xmi:id="_iTeVMFpWEeqMoOHlbNi6Hg" type="_4ZJPkFrJEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_iJjkMFpWEeqMoOHlbNi6Hg" name="save"/>
-        <ownedOperation xmi:id="_iJkLQFpWEeqMoOHlbNi6Hg" name="open" visibility="package">
-          <ownedParameter xmi:id="_iJkLQVpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iJkLQlpWEeqMoOHlbNi6Hg" value="*"/>
+        <ownedOperation xmi:id="_iJkLQFpWEeqMoOHlbNi6Hg" name="open" visibility="public">
+          <ownedParameter xmi:id="_iJkLQVpWEeqMoOHlbNi6Hg" type="_4ZJPkFrJEeqXF6Hs4tyljg" isOrdered="true" direction="return">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iJkLQlpWEeqMoOHlbNi6Hg" value="1"/>
           </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_3PPUUFrhEeqXF6Hs4tyljg" name="save">
+          <ownedParameter xmi:id="_3PPUUVrhEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iJmAcFpWEeqMoOHlbNi6Hg" name="SlideShow">
-        <ownedAttribute xmi:id="_iWB58FpWEeqMoOHlbNi6Hg" name="slideFactories" visibility="package" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_iXhuwVpWEeqMoOHlbNi6Hg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iWChAFpWEeqMoOHlbNi6Hg" value="*"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWChAVpWEeqMoOHlbNi6Hg" value="new ArrayList&lt;>()"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWDIEFpWEeqMoOHlbNi6Hg" name="showTitle" visibility="package">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWDvIFpWEeqMoOHlbNi6Hg" name="slide" visibility="package" type="_PJZdQFpnEeqXF6Hs4tyljg" association="_iXhuxFpWEeqMoOHlbNi6Hg"/>
-        <interfaceRealization xmi:id="_iTgxcVpWEeqMoOHlbNi6Hg" client="_iJmAcFpWEeqMoOHlbNi6Hg" supplier="_iJiWEFpWEeqMoOHlbNi6Hg" contract="_iJiWEFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW2ZUFpWEeqMoOHlbNi6Hg" name="load" specification="_iJn1oFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iW2ZUVpWEeqMoOHlbNi6Hg" type="_iJiWEFpWEeqMoOHlbNi6Hg" direction="return">
+      <packagedElement xmi:type="uml:Class" xmi:id="_C81uQFq-EeqXF6Hs4tyljg" name="Presentation">
+        <interfaceRealization xmi:id="_C82VUVq-EeqXF6Hs4tyljg" client="_C81uQFq-EeqXF6Hs4tyljg" supplier="_iJiWEFpWEeqMoOHlbNi6Hg" contract="_iJiWEFpWEeqMoOHlbNi6Hg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_C8-RIFq-EeqXF6Hs4tyljg" name="load" specification="_C828YFq-EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_Hyqc8FvrEeqXF6Hs4tyljg" type="_4ZJPkFrJEeqXF6Hs4tyljg" direction="return">
             <name xsi:nil="true"/>
           </ownedParameter>
           <language>java</language>
-          <body>return null;&#xD;
+          <body>DemoPresentation demoPresentation = new DemoPresentation();&#xD;
+ SlideShow slideShow = demoPresentation.loadFile();&#xD;
+ return slideShow;&#xD;
+&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW2ZUlpWEeqMoOHlbNi6Hg" name="open" specification="_iJpq0lpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iW2ZU1pWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_4ZKdsFrJEeqXF6Hs4tyljg" name="open" specification="_C83jclq-EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_U43_kFrKEeqXF6Hs4tyljg" type="_4ZJPkFrJEeqXF6Hs4tyljg" isOrdered="true" direction="return">
             <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iW2ZVFpWEeqMoOHlbNi6Hg" value="*"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_U43_kVrKEeqXF6Hs4tyljg" value="1"/>
           </ownedParameter>
           <language>java</language>
-          <body>List&lt;SlideAbstractFactory> slideAbstractFactories = null;&#xD;
+          <body>SlideShow slideShow = new SlideShow();&#xD;
+ RecursiveDOM recursiveDom = new RecursiveDOM();&#xD;
+&#xD;
  try {&#xD;
-   RecursiveDOM recursiveDom = new RecursiveDOM();&#xD;
-   slideAbstractFactories = recursiveDom.recursiveDOM();&#xD;
-   System.out.println(&quot;  &quot;);&#xD;
-&#xD;
-   for (SlideAbstractFactory slideAbsFact : slideAbstractFactories) {&#xD;
-	System.out.println(slideAbsFact.getSlide().getNaam());&#xD;
-&#xD;
-	for (Item item : slideAbsFact.getSlide().items()) {&#xD;
-	  System.out.println(item);&#xD;
-	  for (Attribute att : item.itemAttributes()) {&#xD;
-	    System.out.println(att);&#xD;
-	  }&#xD;
-	}&#xD;
-	System.out.println(&quot;  &quot;);&#xD;
-   }&#xD;
+   slideShow = recursiveDom.recursiveDOM();&#xD;
  }&#xD;
  catch (SAXException e) {&#xD;
    e.printStackTrace();&#xD;
@@ -510,97 +427,61 @@
  catch (IOException e) {&#xD;
    e.printStackTrace();&#xD;
  }&#xD;
- return slideAbstractFactories;&#xD;
+&#xD;
+ // checkSlideShow(slideShow);&#xD;
+ return slideShow;&#xD;
+&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW2ZV1pWEeqMoOHlbNi6Hg" name="getShowTitle" specification="_iJq48FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iW2ZWFpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_W0eCMFrNEeqXF6Hs4tyljg" name="checkSlideShow" specification="_W0cNAFrNEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_W0eCMVrNEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
           <language>java</language>
-          <body>return showTitle;&#xD;
+          <body>System.out.println(&quot;slideshow: &quot; + slideShow.toString());&#xD;
+ for (SlideAbstractFactory slideAbF : slideShow.slideAbstractFactories()) {&#xD;
+   System.out.println(&quot;&quot;);&#xD;
+   System.out.println(&quot;  slideAbF: &quot; + slideAbF.toString());&#xD;
+   System.out.println(&quot;  slides: &quot; + slideAbF.getSlide());&#xD;
+   for (Item item : slideAbF.getSlide().items()) {&#xD;
+	System.out.println(&quot;    slideItems: &quot; + item);&#xD;
+	if (null != item.itemAttributes()) {&#xD;
+	  for (Attribute att : item.itemAttributes()) {&#xD;
+	    System.out.println(&quot;      Attribute&quot; + att.toString());&#xD;
+	  }&#xD;
+	}&#xD;
+   }&#xD;
+ }&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW3AYFpWEeqMoOHlbNi6Hg" name="setShowTitle" specification="_iJrgAVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iW3AYVpWEeqMoOHlbNi6Hg" name="showTitle">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_3prNkVrhEeqXF6Hs4tyljg" name="save" specification="_3pmVEFrhEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_3prNklrhEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
           <language>java</language>
-          <body>this.showTitle = showTitle;&#xD;
+          <body>SlideShowSave slideShowSave = new SlideShowSave();&#xD;
+ try {&#xD;
+   slideShowSave.saveSlideShow(slideShow);&#xD;
+ }&#xD;
+ catch (Exception e) {&#xD;
+   e.printStackTrace();&#xD;
+ }&#xD;
+&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW3AZFpWEeqMoOHlbNi6Hg" name="getSlide" specification="_iJsuIFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKY7wFpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
-            <name xsi:nil="true"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return slide;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_m0-JcFphEeqMoOHlbNi6Hg" name="setSlide" specification="_m07GIFphEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKYUsFpnEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
-          <language>java</language>
-          <body>this.slide = slide;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_m0-Jc1phEeqMoOHlbNi6Hg" name="toString" specification="_m07tMFphEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_m0-JdFphEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>StringBuilder builder = new StringBuilder();&#xD;
- builder.append(&quot;SlideShow [slideFactories=&quot;);&#xD;
- builder.append(slideFactories);&#xD;
- builder.append(&quot;, showTitle=&quot;);&#xD;
- builder.append(showTitle);&#xD;
- builder.append(&quot;, slide=&quot;);&#xD;
- builder.append(slide);&#xD;
- builder.append(&quot;]&quot;);&#xD;
- return builder.toString();&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iJn1oFpWEeqMoOHlbNi6Hg" name="load" method="_iW2ZUFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iThYgFpWEeqMoOHlbNi6Hg" type="_iJiWEFpWEeqMoOHlbNi6Hg" direction="return"/>
+        <ownedOperation xmi:id="_C828YFq-EeqXF6Hs4tyljg" name="load" method="_C8-RIFq-EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_C828YVq-EeqXF6Hs4tyljg" type="_4ZJPkFrJEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_iJpDwFpWEeqMoOHlbNi6Hg" name="save"/>
-        <ownedOperation xmi:id="_iJpq0lpWEeqMoOHlbNi6Hg" name="open" method="_iW2ZUlpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iJpq01pWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iJpq1FpWEeqMoOHlbNi6Hg" value="*"/>
+        <ownedOperation xmi:id="_C83jclq-EeqXF6Hs4tyljg" name="open" visibility="public" method="_4ZKdsFrJEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_C83jc1q-EeqXF6Hs4tyljg" type="_4ZJPkFrJEeqXF6Hs4tyljg" isOrdered="true" direction="return">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_C83jdFq-EeqXF6Hs4tyljg" value="1"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_iJq48FpWEeqMoOHlbNi6Hg" name="getShowTitle" method="_iW2ZV1pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iJq48VpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
+        <ownedOperation xmi:id="_W0cNAFrNEeqXF6Hs4tyljg" name="checkSlideShow" visibility="private" method="_W0eCMFrNEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_W0cNAVrNEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_iJrgAVpWEeqMoOHlbNi6Hg" name="setShowTitle" method="_iW3AYFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iJrgAlpWEeqMoOHlbNi6Hg" name="showTitle">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iJsuIFpWEeqMoOHlbNi6Hg" name="getSlide" method="_iW3AZFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iTh_kVpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iVJwMFpWEeqMoOHlbNi6Hg" name="checkSlideList">
-          <ownedParameter xmi:id="_iVJwMVpWEeqMoOHlbNi6Hg" name="slideList" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_m07GIFphEeqMoOHlbNi6Hg" name="setSlide" method="_m0-JcFphEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_m07GIVphEeqMoOHlbNi6Hg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_m07tMFphEeqMoOHlbNi6Hg" name="toString" method="_m0-Jc1phEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_m09iYFphEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
+        <ownedOperation xmi:id="_3pmVEFrhEeqXF6Hs4tyljg" name="save" method="_3prNkVrhEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_3pm8IFrhEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXhuwVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXhuwlpWEeqMoOHlbNi6Hg _iWB58FpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXhuwlpWEeqMoOHlbNi6Hg" name="" type="_iJmAcFpWEeqMoOHlbNi6Hg" association="_iXhuwVpWEeqMoOHlbNi6Hg"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXhuxFpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXhuxVpWEeqMoOHlbNi6Hg _iWDvIFpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXhuxVpWEeqMoOHlbNi6Hg" name="" type="_iJmAcFpWEeqMoOHlbNi6Hg" association="_iXhuxFpWEeqMoOHlbNi6Hg"/>
-      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_Q7sNwFrJEeqXF6Hs4tyljg" name="public"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_SJqnUFrKEeqXF6Hs4tyljg" name="SlideShow"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_iF7BYVpWEeqMoOHlbNi6Hg" name="slideFactory">
       <packagedElement xmi:type="uml:Class" xmi:id="_iKVAQFpWEeqMoOHlbNi6Hg" name="OrdinarySlideFactory">
@@ -609,14 +490,18 @@
         </ownedAttribute>
         <interfaceRealization xmi:id="_iUK4wFpWEeqMoOHlbNi6Hg" client="_iKVAQFpWEeqMoOHlbNi6Hg" supplier="_iKYDkFpWEeqMoOHlbNi6Hg" contract="_iKYDkFpWEeqMoOHlbNi6Hg"/>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW9HAFpWEeqMoOHlbNi6Hg" name="getSlide" specification="_iKVnUFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKaJ4lpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+          <ownedParameter xmi:id="_PKaJ4lpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
           <language>java</language>
           <body>return this.ordinarySlide;&#xD;
   </body>
         </ownedBehavior>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_pOx6cFpWEeqMoOHlbNi6Hg" name="createSlide" specification="_pOp-oFpWEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_PKaJ4FpnEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
-          <ownedParameter xmi:id="_PKaJ4VpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+          <ownedParameter xmi:id="_PKaJ4VpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
           <language>java</language>
           <body>this.ordinarySlide = slide;&#xD;
  return slide;&#xD;
@@ -710,14 +595,18 @@
         </ownedAttribute>
         <interfaceRealization xmi:id="_iUPKMFpWEeqMoOHlbNi6Hg" client="_iKeKMFpWEeqMoOHlbNi6Hg" supplier="_iKYDkFpWEeqMoOHlbNi6Hg" contract="_iKYDkFpWEeqMoOHlbNi6Hg"/>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW-VI1pWEeqMoOHlbNi6Hg" name="getSlide" specification="_iKexQFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKaw8lpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+          <ownedParameter xmi:id="_PKaw8lpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
           <language>java</language>
           <body>return this.titleSlide;&#xD;
   </body>
         </ownedBehavior>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_pOzIkFpWEeqMoOHlbNi6Hg" name="createSlide" specification="_pOuQEFpWEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_PKaw8FpnEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
-          <ownedParameter xmi:id="_PKaw8VpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+          <ownedParameter xmi:id="_PKaw8VpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
           <language>java</language>
           <body>this.titleSlide = slide;&#xD;
  return slide;&#xD;
@@ -752,16 +641,11 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iW1yQlpWEeqMoOHlbNi6Hg" value="*"/>
           </ownedParameter>
           <language>java</language>
-          <body>IPresentation presentation = new SlideShow();&#xD;
- presentation.load();&#xD;
-&#xD;
- List&lt;SlideAbstractFactory> slideList = new ArrayList&lt;>();&#xD;
- slideList = presentation.open();&#xD;
- SlideShow slideShow = new SlideShow();&#xD;
- slideShow.checkSlideList(slideList);&#xD;
-&#xD;
- System.out.println(&quot;hello&quot;);&#xD;
-&#xD;
+          <body>IPresentation presentation = new Presentation();&#xD;
+ SlideShow slideShowDemo= presentation.load();&#xD;
+ presentation.save(slideShowDemo);&#xD;
+ SlideShow slideShow = presentation.open();&#xD;
+ presentation.save(slideShow);&#xD;
   </body>
         </ownedBehavior>
         <ownedOperation xmi:id="_iJhvAFpWEeqMoOHlbNi6Hg" name="main" isStatic="true" method="_iW1yQFpWEeqMoOHlbNi6Hg">
@@ -1005,15 +889,6 @@
  this.subNaam = slide.getSubNaam();&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW7R01pWEeqMoOHlbNi6Hg" name="setSubNaam" specification="_iKNEcFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_9sSl0FppEeqXF6Hs4tyljg" name="subNaam">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_9sSl0VppEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>this.subNaam=subNaam;&#xD;
-  </body>
-        </ownedBehavior>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW745VpWEeqMoOHlbNi6Hg" name="toString" specification="_iKR88FpWEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_iW745lpWEeqMoOHlbNi6Hg" direction="return">
             <name xsi:nil="true"/>
@@ -1040,17 +915,19 @@
           <body>return items;&#xD;
   </body>
         </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_V5ktEFvGEeqXF6Hs4tyljg" name="setSubNaam" specification="_V5je8FvGEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_V5ktEVvGEeqXF6Hs4tyljg" name="subNaam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>this.subNaam = subNaam;&#xD;
+  </body>
+        </ownedBehavior>
         <ownedOperation xmi:id="_iKLPQFpWEeqMoOHlbNi6Hg" name="TitleSlide">
           <eAnnotations xmi:id="_iKLPQVpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
             <details xmi:id="_iKL2UFpWEeqMoOHlbNi6Hg" key="create"/>
           </eAnnotations>
           <ownedParameter xmi:id="_iKMdYFpWEeqMoOHlbNi6Hg" type="_iKJaEFpWEeqMoOHlbNi6Hg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iKNEcFpWEeqMoOHlbNi6Hg" name="setSubNaam" method="_iW7R01pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iKNEcVpWEeqMoOHlbNi6Hg" name="subNaam">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iKNrgFpWEeqMoOHlbNi6Hg" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_iKR88FpWEeqMoOHlbNi6Hg" name="toString" method="_iW745VpWEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_iKR88VpWEeqMoOHlbNi6Hg" direction="return">
@@ -1067,6 +944,11 @@
         <ownedOperation xmi:id="_GiPPoFpmEeqMoOHlbNi6Hg" name="items" method="_GiQdwFpmEeqMoOHlbNi6Hg">
           <ownedParameter xmi:id="_GiPPoVpmEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" isOrdered="true" direction="return">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GiPPolpmEeqMoOHlbNi6Hg" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_V5je8FvGEeqXF6Hs4tyljg" name="setSubNaam" method="_V5ktEFvGEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_V5je8VvGEeqXF6Hs4tyljg" name="subNaam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
@@ -1113,55 +995,37 @@
         <packagedElement xmi:type="uml:Package" xmi:id="_iG7uAVpWEeqMoOHlbNi6Hg" name="XMLType">
           <packagedElement xmi:type="uml:Enumeration" xmi:id="_iUjTQFpWEeqMoOHlbNi6Hg" name="XMLTypes"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Enumeration" xmi:id="_iLk9cFpWEeqMoOHlbNi6Hg" name="EnumXMLAttributeValues">
-          <ownedOperation xmi:id="_Zd-SIFpsEeqXF6Hs4tyljg" name="toXMLLowerCaseValue" method="_Zd_gQFpsEeqXF6Hs4tyljg">
-            <ownedParameter xmi:id="_Zd-5MFpsEeqXF6Hs4tyljg" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-          </ownedOperation>
-          <ownedOperation xmi:id="_Zd-5MVpsEeqXF6Hs4tyljg" name="from" method="_Zd_gQlpsEeqXF6Hs4tyljg">
-            <ownedParameter xmi:id="_Zd-5MlpsEeqXF6Hs4tyljg" name="status">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_Zd-5M1psEeqXF6Hs4tyljg" type="_iUjTQFpWEeqMoOHlbNi6Hg" direction="return"/>
-          </ownedOperation>
-          <ownedLiteral xmi:id="_iLlkgVpWEeqMoOHlbNi6Hg" name="TEXT"/>
-          <ownedLiteral xmi:id="_iLlkglpWEeqMoOHlbNi6Hg" name="IMAGE"/>
-        </packagedElement>
-        <packagedElement xmi:type="uml:Enumeration" xmi:id="_iLmLkFpWEeqMoOHlbNi6Hg" name="XMLAttributes">
-          <ownedOperation xmi:id="_AAEUYFpsEeqXF6Hs4tyljg" name="toXMLLowerCaseValue" method="_AAFigFpsEeqXF6Hs4tyljg">
-            <ownedParameter xmi:id="_AAE7cFpsEeqXF6Hs4tyljg" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-          </ownedOperation>
-          <ownedOperation xmi:id="_AAE7cVpsEeqXF6Hs4tyljg" name="from" method="_AAFiglpsEeqXF6Hs4tyljg">
-            <ownedParameter xmi:id="_AAE7clpsEeqXF6Hs4tyljg" name="status">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_AAE7c1psEeqXF6Hs4tyljg" type="_iUjTQFpWEeqMoOHlbNi6Hg" direction="return"/>
-          </ownedOperation>
-          <ownedLiteral xmi:id="_iLmyoVpWEeqMoOHlbNi6Hg" name="KIND"/>
-          <ownedLiteral xmi:id="_iLmyolpWEeqMoOHlbNi6Hg" name="LEVEL"/>
-        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_iLnZsFpWEeqMoOHlbNi6Hg" name="XMLType">
           <nestedClassifier xmi:type="uml:Enumeration" xmi:id="_iLon0FpWEeqMoOHlbNi6Hg" name="XMLTypes">
-            <ownedOperation xmi:id="_iLpO5FpWEeqMoOHlbNi6Hg" name="toXMLLowerCaseValue" method="_iXFp5VpWEeqMoOHlbNi6Hg">
-              <ownedParameter xmi:id="_iLp18FpWEeqMoOHlbNi6Hg" direction="return">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-              </ownedParameter>
-            </ownedOperation>
-            <ownedOperation xmi:id="_iLp18VpWEeqMoOHlbNi6Hg" name="from" method="_iXFp51pWEeqMoOHlbNi6Hg">
-              <ownedParameter xmi:id="_iLp18lpWEeqMoOHlbNi6Hg" name="status">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-              </ownedParameter>
-              <ownedParameter xmi:id="_iUqoAFpWEeqMoOHlbNi6Hg" type="_iUjTQFpWEeqMoOHlbNi6Hg" direction="return"/>
-            </ownedOperation>
             <ownedLiteral xmi:id="_iLon0VpWEeqMoOHlbNi6Hg" name="PRESENTATION"/>
             <ownedLiteral xmi:id="_iLpO4FpWEeqMoOHlbNi6Hg" name="SHOWTITLE"/>
             <ownedLiteral xmi:id="_iLpO4VpWEeqMoOHlbNi6Hg" name="SLIDE"/>
             <ownedLiteral xmi:id="_iLpO4lpWEeqMoOHlbNi6Hg" name="TITLE"/>
             <ownedLiteral xmi:id="_iLpO41pWEeqMoOHlbNi6Hg" name="ITEM"/>
+            <ownedLiteral xmi:id="_9fRncFq_EeqXF6Hs4tyljg" name="DATE"/>
+            <ownedLiteral xmi:id="_9fSOgFq_EeqXF6Hs4tyljg" name="SHOWSUBTITLE"/>
+            <ownedLiteral xmi:id="_9fSOgVq_EeqXF6Hs4tyljg" name="PRESENTER"/>
           </nestedClassifier>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_wdkEoFq_EeqXF6Hs4tyljg" name="XMLAttributes">
+          <nestedClassifier xmi:type="uml:Enumeration" xmi:id="_wdkEoVq_EeqXF6Hs4tyljg" name="XMLAttributes">
+            <ownedOperation xmi:id="_wdkrslq_EeqXF6Hs4tyljg" name="toXMLLowerCaseValue" method="_wdmg4Vq_EeqXF6Hs4tyljg">
+              <ownedParameter xmi:id="_wdkrs1q_EeqXF6Hs4tyljg" direction="return">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+            </ownedOperation>
+            <ownedOperation xmi:id="_wdlSwFq_EeqXF6Hs4tyljg" name="from" method="_wdmg41q_EeqXF6Hs4tyljg">
+              <ownedParameter xmi:id="_wdlSwVq_EeqXF6Hs4tyljg" name="status">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+              <ownedParameter xmi:id="_wdmg4Fq_EeqXF6Hs4tyljg" type="_wdkEoFq_EeqXF6Hs4tyljg" direction="return"/>
+            </ownedOperation>
+            <ownedLiteral xmi:id="_wdkrsFq_EeqXF6Hs4tyljg" name="KIND"/>
+            <ownedLiteral xmi:id="_wdkrsVq_EeqXF6Hs4tyljg" name="LEVEL"/>
+          </nestedClassifier>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="_tpkCMFufEeqXF6Hs4tyljg" name="XMLAttributeValue">
+          <packagedElement xmi:type="uml:Enumeration" xmi:id="_tpoToFufEeqXF6Hs4tyljg" name="XMLAttributeValues"/>
         </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLEnIFpWEeqMoOHlbNi6Hg" name="BaseFileParser" isAbstract="true">
@@ -1273,91 +1137,88 @@
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Interface" xmi:id="_iLL74FpWEeqMoOHlbNi6Hg" name="IXmlSlideHandler">
-        <ownedOperation xmi:id="_iVYZsFpWEeqMoOHlbNi6Hg" name="handleXmlSlide">
-          <ownedParameter xmi:id="_iVYZsVpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVZAwFpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVZAwVpWEeqMoOHlbNi6Hg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVZAwlpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iVaO4FpWEeqMoOHlbNi6Hg" name="handleXmlSlideElement">
-          <ownedParameter xmi:id="_iVaO4VpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVaO4lpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedOperation xmi:id="_ovjRQFrZEeqXF6Hs4tyljg" name="handleXmlSlide">
+          <ownedParameter xmi:id="_ovjRQVrZEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_ovjRQlrZEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_ovjRQ1rZEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return"/>
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLOYIFpWEeqMoOHlbNi6Hg" name="RecursiveDOM">
+        <ownedAttribute xmi:id="_pfp4gFrZEeqXF6Hs4tyljg" name="slideAbstractFactories" visibility="package" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_pfrGoFrZEeqXF6Hs4tyljg">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pfqfkFrZEeqXF6Hs4tyljg" value="*"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_pfqfkVrZEeqXF6Hs4tyljg" value="new ArrayList&lt;>()"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_2NNwQFrZEeqXF6Hs4tyljg" name="isFirstSlide" visibility="package">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_2NNwQVrZEeqXF6Hs4tyljg" value="true"/>
+        </ownedAttribute>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXB_gFpWEeqMoOHlbNi6Hg" name="recursiveDOM" specification="_iLO_MFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXB_gVpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+          <ownedParameter xmi:id="_41t20FrJEeqXF6Hs4tyljg" type="_4ZJPkFrJEeqXF6Hs4tyljg" isOrdered="true" direction="return">
             <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXB_glpWEeqMoOHlbNi6Hg" value="*"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_41t20VrJEeqXF6Hs4tyljg" value="1"/>
           </ownedParameter>
           <language>java</language>
           <body>Document doc = ConvertToXmlDocument.convertFileToXMLDocument();&#xD;
- List&lt;SlideAbstractFactory> slideAbstractFactories = new ArrayList&lt;>();&#xD;
- parse(doc, doc.getDocumentElement(), slideAbstractFactories);&#xD;
+ SlideShow slideShow = new SlideShow();&#xD;
+ parse(doc.getDocumentElement(), slideShow);&#xD;
+ slideShow.slideAbstractFactories().addAll(slideAbstractFactories);&#xD;
 &#xD;
- return slideAbstractFactories;&#xD;
+ return slideShow;&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXCmkFpWEeqMoOHlbNi6Hg" name="parse" specification="_iVa18FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXCmkVpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iXCmklpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iXCmk1pWEeqMoOHlbNi6Hg" key="final"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_PIKnYFrZEeqXF6Hs4tyljg" name="parse" specification="_PIJZQFrZEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_PIKnYVrZEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_PIKnYlrZEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_PIKnY1rZEeqXF6Hs4tyljg" key="final"/>
             </eAnnotations>
           </ownedParameter>
-          <ownedParameter xmi:id="_iXCmlFpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iXCmlVpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iXCmllpWEeqMoOHlbNi6Hg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iXCml1pWEeqMoOHlbNi6Hg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_PIKnZFrZEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
           <language>java</language>
           <body>final NodeList children = e.getChildNodes();&#xD;
- XMLTypes slideType = xml.xmlenum.XMLType.XMLTypes.SLIDE;&#xD;
- XMLTypes showtitleType = xml.xmlenum.XMLType.XMLTypes.SHOWTITLE;&#xD;
 &#xD;
  for (int i = 0; i &lt; children.getLength(); i++) {&#xD;
    final Node n = children.item(i);&#xD;
    if (n.getNodeType() == Node.ELEMENT_NODE) {&#xD;
 &#xD;
-	if (n.getNodeName().equals(slideType.toXMLLowerCaseValue())) {&#xD;
-	  Slide slide = (new XmlSlideHandler()).handleXmlSlide(doc, (Element) n, slideAbstractFactories);&#xD;
-	  if (null != slide) {&#xD;
-	    SlideAbstractFactory ordinarySlideFactory = new OrdinarySlideFactory();&#xD;
-	    ordinarySlideFactory.createSlide(slide);&#xD;
-	    slideAbstractFactories.add(ordinarySlideFactory);&#xD;
-	  }&#xD;
-	}&#xD;
+	XMLTypes nodeName = XMLTypes.valueOf(n.getNodeName().toUpperCase());&#xD;
+	switch (nodeName) {&#xD;
+	  case SLIDE:&#xD;
+	    SlideAbstractFactory slideAbstractFactory = (new XmlSlideHandler()).handleXmlSlideWrapper((Element) n,&#xD;
+		isFirstSlide);&#xD;
+	    if (null != slideAbstractFactory) {&#xD;
+	      isFirstSlide = false;&#xD;
+	      slideAbstractFactories.add(slideAbstractFactory);&#xD;
+	    }&#xD;
+	    break;&#xD;
+	  case SHOWTITLE:&#xD;
+	    slideShow.setShowTitle(n.getTextContent());&#xD;
+	    break;&#xD;
+	  case SHOWSUBTITLE:&#xD;
+	    slideShow.setShowTitle(n.getTextContent());&#xD;
+	    break;&#xD;
 &#xD;
-	if (n.getNodeName().equals(showtitleType.toXMLLowerCaseValue())) {&#xD;
-	  Slide slide = (new XmlTitleSlideHandler()).handleXmlSlideElement((Element) n);&#xD;
-	  if (null != slide) {&#xD;
-	    SlideAbstractFactory titleSlideFactory = new TitleSlideFactory();&#xD;
-	    titleSlideFactory.createSlide(slide);&#xD;
-	    slideAbstractFactories.add(titleSlideFactory);&#xD;
-	  }&#xD;
+	  default:&#xD;
+	    break;&#xD;
 	}&#xD;
-	parse(doc, (Element) n, slideAbstractFactories);&#xD;
+	parse((Element) n, slideShow);&#xD;
    }&#xD;
  }&#xD;
   </body>
         </ownedBehavior>
         <ownedOperation xmi:id="_iLO_MFpWEeqMoOHlbNi6Hg" name="recursiveDOM" method="_iXB_gFpWEeqMoOHlbNi6Hg" raisedException="_iTgKYVpWEeqMoOHlbNi6Hg _iTeVMVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLO_MVpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iLO_MlpWEeqMoOHlbNi6Hg" value="*"/>
+          <ownedParameter xmi:id="_iLO_MVpWEeqMoOHlbNi6Hg" type="_4ZJPkFrJEeqXF6Hs4tyljg" isOrdered="true" direction="return">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iLO_MlpWEeqMoOHlbNi6Hg" value="1"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_iVa18FpWEeqMoOHlbNi6Hg" name="parse" visibility="private" method="_iXCmkFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVa18VpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iVbdAVpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iVbdAlpWEeqMoOHlbNi6Hg" key="final"/>
+        <ownedOperation xmi:id="_PIJZQFrZEeqXF6Hs4tyljg" name="parse" visibility="private" method="_PIKnYFrZEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_PIKAUFrZEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_PIKAUlrZEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_PIKAU1rZEeqXF6Hs4tyljg" key="final"/>
             </eAnnotations>
           </ownedParameter>
-          <ownedParameter xmi:id="_iVa18lpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iVbdA1pWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iVbdBFpWEeqMoOHlbNi6Hg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iVbdAFpWEeqMoOHlbNi6Hg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_PIKAUVrZEeqXF6Hs4tyljg" name="slideShow" type="_4ZJPkFrJEeqXF6Hs4tyljg"/>
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLSCgFpWEeqMoOHlbNi6Hg" name="XMLFileParser">
@@ -1370,77 +1231,167 @@
         <ownedOperation xmi:id="_iLSpkFpWEeqMoOHlbNi6Hg" name="parseFile" method="_iXCmmFpWEeqMoOHlbNi6Hg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLTQoFpWEeqMoOHlbNi6Hg" name="XmlItem">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXCmmVpWEeqMoOHlbNi6Hg" name="getItemValues" specification="_iVcrIFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKbYAFpnEeqXF6Hs4tyljg" name="n" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKbYAVpnEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return">
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_tpo6sVufEeqXF6Hs4tyljg" name="getItemType" specification="_tpkpQFufEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_tpo6slufEeqXF6Hs4tyljg" name="attributes" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_tpo6s1ufEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return">
             <name xsi:nil="true"/>
           </ownedParameter>
           <language>java</language>
-          <body>List&lt;Attribute> attributes;&#xD;
+          <body>for (int i = 0; i &lt; attributes.size(); i++) {&#xD;
+   XMLAttributeValues attrValue = XMLAttributeValues.valueOf(attributes.get(i).getValue().toUpperCase());&#xD;
+   switch (attrValue) {&#xD;
+	case IMAGE:&#xD;
+	  return new ImageItem();&#xD;
+	default:&#xD;
+	  return new TextItem();&#xD;
+   }&#xD;
+ }&#xD;
+ return new TextItem();&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_Bq8gsFv_EeqXF6Hs4tyljg" name="itemValueXMLWrapper" specification="_Bq7SkFv_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_Bq8gsVv_EeqXF6Hs4tyljg" name="node" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_Bq8gslv_EeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>String naam = node.getNodeName();&#xD;
+ String line = node.getTextContent();&#xD;
+&#xD;
+ List&lt;Attribute> attributes = null;&#xD;
  XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();&#xD;
  Item item = null;&#xD;
 &#xD;
- if (n.hasAttributes()) {&#xD;
-   attributes = xmlItemAttribute.getXMLAttributes(n);&#xD;
-   switch (attributes.get(0).getValue()) {&#xD;
-	case &quot;text&quot;:&#xD;
-	  item = new TextItem();&#xD;
-	  break;&#xD;
-	case &quot;image&quot;:&#xD;
-	  item = new ImageItem();&#xD;
-	  break;&#xD;
-&#xD;
-	default:&#xD;
-	  break;&#xD;
-   }&#xD;
-&#xD;
-   if (null != item) {&#xD;
-	item.setItemNaam(n.getNodeName());&#xD;
-	item.setLine(n.getTextContent());&#xD;
-&#xD;
-	item.setItemAttributes(attributes);&#xD;
-&#xD;
-   }&#xD;
+ if (node.hasAttributes()) {&#xD;
+   attributes = xmlItemAttribute.AttributeXMLWrapper(node);&#xD;
+   item = getItemType(attributes);&#xD;
+   item.setItemAttributes(attributes);&#xD;
  }&#xD;
+&#xD;
+ item = setItemValues(naam, line, attributes);&#xD;
+ return item;&#xD;
+&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_UBR-0Fv_EeqXF6Hs4tyljg" name="setItemValues" specification="_UBG_sFv_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_UBR-0Vv_EeqXF6Hs4tyljg" name="naam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_UBR-0lv_EeqXF6Hs4tyljg" name="line">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_UBR-01v_EeqXF6Hs4tyljg" name="attributes" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_UBR-1Fv_EeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>Item item = null;&#xD;
+&#xD;
+ if (null != attributes) {&#xD;
+   item = getItemType(attributes);&#xD;
+   item.setItemAttributes(attributes);&#xD;
+ }&#xD;
+&#xD;
+ if (null == item) {&#xD;
+   item = new TextItem();&#xD;
+ }&#xD;
+ item.setItemNaam(naam);&#xD;
+ item.setLine(line);&#xD;
  return item;&#xD;
   </body>
         </ownedBehavior>
-        <ownedOperation xmi:id="_iVcrIFpWEeqMoOHlbNi6Hg" name="getItemValues" method="_iXCmmVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVcrIVpWEeqMoOHlbNi6Hg" name="n" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVcrIlpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedOperation xmi:id="_tpkpQFufEeqXF6Hs4tyljg" name="getItemType" visibility="private" method="_tpo6sVufEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_tpkpQVufEeqXF6Hs4tyljg" name="attributes" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_tpkpQlufEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_Bq7SkFv_EeqXF6Hs4tyljg" name="itemValueXMLWrapper" method="_Bq8gsFv_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_Bq7SkVv_EeqXF6Hs4tyljg" name="node" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_Bq7Sklv_EeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_UBG_sFv_EeqXF6Hs4tyljg" name="setItemValues" method="_UBR-0Fv_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_UBG_sVv_EeqXF6Hs4tyljg" name="naam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_UBHmwFv_EeqXF6Hs4tyljg" name="line">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_UBHmwVv_EeqXF6Hs4tyljg" name="attributes" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_UBHmwlv_EeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLVF0FpWEeqMoOHlbNi6Hg" name="XmlItemAttribute">
-        <ownedAttribute xmi:id="_iWZtYFpWEeqMoOHlbNi6Hg" name="itemAttributes" visibility="package" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_iXn1YFpWEeqMoOHlbNi6Hg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iWZtYVpWEeqMoOHlbNi6Hg" value="*"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWZtYlpWEeqMoOHlbNi6Hg" value="new ArrayList&lt;>()"/>
+        <ownedAttribute xmi:id="_h9ON4FwCEeqXF6Hs4tyljg" name="attributes" visibility="package" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_h9PcAFwCEeqXF6Hs4tyljg">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h9ON4VwCEeqXF6Hs4tyljg" value="*"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_h9ON4lwCEeqXF6Hs4tyljg" value="new ArrayList&lt;>()"/>
         </ownedAttribute>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXDNoFpWEeqMoOHlbNi6Hg" name="getXMLAttributes" specification="_iVdSMFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXDNoVpWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iXDNolpWEeqMoOHlbNi6Hg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="__BNW8FwBEeqXF6Hs4tyljg" name="AttributeXMLWrapper" specification="__BMI0FwBEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="__BNW8VwBEeqXF6Hs4tyljg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="__BNW8lwBEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
             <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXDNo1pWEeqMoOHlbNi6Hg" value="*"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__BNW81wBEeqXF6Hs4tyljg" value="*"/>
           </ownedParameter>
           <language>java</language>
-          <body>NamedNodeMap nodeMap = tempNode.getAttributes();&#xD;
+          <body>String naam = null;&#xD;
+ String value = null;&#xD;
+ NamedNodeMap nodeMap = tempNode.getAttributes();&#xD;
 &#xD;
  for (int j = 0; j &lt; nodeMap.getLength(); j++) {&#xD;
-   ItemAttribute itemAttribute = new ItemAttribute();&#xD;
+   Attribute attribute;&#xD;
    Node node = nodeMap.item(j);&#xD;
 &#xD;
-   itemAttribute.setNaam(node.getNodeName());&#xD;
-   itemAttribute.setValue(node.getNodeValue());&#xD;
-   itemAttributes.add(itemAttribute);&#xD;
-&#xD;
+   naam = node.getNodeName();&#xD;
+   value = node.getNodeValue();&#xD;
+   attribute = setAttribute(naam, value);&#xD;
+   attributes.add(attribute);&#xD;
  }&#xD;
- return itemAttributes;&#xD;
+ return this.getAttributes();&#xD;
   </body>
         </ownedBehavior>
-        <ownedOperation xmi:id="_iVdSMFpWEeqMoOHlbNi6Hg" name="getXMLAttributes" method="_iXDNoFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVdSMVpWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVd5QFpWEeqMoOHlbNi6Hg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVd5QVpWEeqMoOHlbNi6Hg" value="*"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_h9O08VwCEeqXF6Hs4tyljg" name="getAttributes" specification="_h9LxoFwCEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_h9O08lwCEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+            <name xsi:nil="true"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h9O081wCEeqXF6Hs4tyljg" value="*"/>
           </ownedParameter>
+          <language>java</language>
+          <body>return attributes;&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_cFODQFwDEeqXF6Hs4tyljg" name="setAttribute" specification="_cFMOEFwDEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_cFODQVwDEeqXF6Hs4tyljg" name="naam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_cFODQlwDEeqXF6Hs4tyljg" name="value">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_cFODQ1wDEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>Attribute attribute = new ItemAttribute();&#xD;
+ attribute.setNaam(naam);&#xD;
+ attribute.setValue(value);&#xD;
+ return attribute;&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="__BMI0FwBEeqXF6Hs4tyljg" name="AttributeXMLWrapper" method="__BNW8FwBEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="__BMI0VwBEeqXF6Hs4tyljg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="__BMI0lwBEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__BMI01wBEeqXF6Hs4tyljg" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_h9LxoFwCEeqXF6Hs4tyljg" name="getAttributes" method="_h9O08VwCEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_h9LxoVwCEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h9LxolwCEeqXF6Hs4tyljg" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_cFMOEFwDEeqXF6Hs4tyljg" name="setAttribute" method="_cFODQFwDEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_cFM1IFwDEeqXF6Hs4tyljg" name="naam">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_cFM1IVwDEeqXF6Hs4tyljg" name="value">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_cFNcMFwDEeqXF6Hs4tyljg" type="_iIPVkFpWEeqMoOHlbNi6Hg" direction="return"/>
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Interface" xmi:id="_iLW7AFpWEeqMoOHlbNi6Hg" name="XmlNode">
@@ -1449,680 +1400,187 @@
         </ownedAttribute>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iLYJIFpWEeqMoOHlbNi6Hg" name="XmlSlideHandler">
-        <interfaceRealization xmi:id="_iUm9oFpWEeqMoOHlbNi6Hg" client="_iLYJIFpWEeqMoOHlbNi6Hg" supplier="_iLL74FpWEeqMoOHlbNi6Hg" contract="_iLL74FpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXDNpFpWEeqMoOHlbNi6Hg" name="handleXmlSlide" specification="_iVegUFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKb_EFpnEeqXF6Hs4tyljg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_PKb_EVpnEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_PKb_ElpnEeqXF6Hs4tyljg" key="final"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_xq54J1rYEeqXF6Hs4tyljg" name="parse" specification="_xq4qAFrYEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_xq54KFrYEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_xq54KVrYEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_xq54KlrYEeqXF6Hs4tyljg" key="final"/>
             </eAnnotations>
           </ownedParameter>
-          <ownedParameter xmi:id="_PKb_E1pnEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_PKb_FFpnEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_PKb_FVpnEeqXF6Hs4tyljg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_PKb_FlpnEeqXF6Hs4tyljg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKb_F1pnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>Slide slide = new OrdinarySlide();&#xD;
- parse(doc, (Element) e, slide);&#xD;
- return slide;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXD0uFpWEeqMoOHlbNi6Hg" name="handleXmlSlideElement" specification="_iViKtFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKb_H1pnEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKcmIFpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>return null;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_pVEvsFpWEeqMoOHlbNi6Hg" name="parse" specification="_pUyb0FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKb_GFpnEeqXF6Hs4tyljg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_PKb_GVpnEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_PKb_GlpnEeqXF6Hs4tyljg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_PKb_G1pnEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_PKb_HFpnEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_PKb_HVpnEeqXF6Hs4tyljg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_PKb_HlpnEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
+          <ownedParameter xmi:id="_xq54K1rYEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
           <language>java</language>
           <body>final NodeList children = e.getChildNodes();&#xD;
 &#xD;
  for (int i = 0; i &lt; children.getLength(); i++) {&#xD;
    final Node n = children.item(i);&#xD;
    if (n.getNodeType() == Node.ELEMENT_NODE) {&#xD;
-	if (n.getNodeName().equals(xml.xmlenum.XMLType.XMLTypes.TITLE.toXMLLowerCaseValue())) {&#xD;
-	  slide.setNaam(new XmlTitle(n.getTextContent()).getTitle());&#xD;
+	XMLTypes nodeName = XMLTypes.valueOf(n.getNodeName().toUpperCase());&#xD;
+	switch (nodeName) {&#xD;
+	  case TITLE:&#xD;
+	  case ITEM:&#xD;
+	    slide.items().add((new XmlItem()).itemValueXMLWrapper(n));&#xD;
+	    break;&#xD;
+	  default:&#xD;
+	    break;&#xD;
 	}&#xD;
-	if (n.getNodeName().equals(xml.xmlenum.XMLType.XMLTypes.ITEM.toXMLLowerCaseValue())) {&#xD;
-	  slide.items().add((new XmlItem()).getItemValues(n));&#xD;
-	}&#xD;
-	parse(doc, (Element) n, slide);&#xD;
+	parse((Element) n, slide);&#xD;
    }&#xD;
  }&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_6J3QsFwFEeqXF6Hs4tyljg" name="handleXmlSlideWrapper" specification="_6JuGwFwFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6J3QsVwFEeqXF6Hs4tyljg" name="element" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_6J3QslwFEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_6J3Qs1wFEeqXF6Hs4tyljg" key="final"/>
+            </eAnnotations>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6J3QtFwFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6J3QtVwFEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>Slide slide = getSlide(isFirstSlide);&#xD;
+ SlideAbstractFactory slideAbstractFactory = getSlideAbstractFactory(isFirstSlide);&#xD;
+ &#xD;
+ parse(element, slide);&#xD;
+ slideAbstractFactory.createSlide(slide);&#xD;
+ return slideAbstractFactory;&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_6J3QulwFEeqXF6Hs4tyljg" name="getSlide" specification="_6Jut0FwFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6J3Qu1wFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6J3QvFwFEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>if (isFirstSlide) {&#xD;
+   return new TitleSlide();&#xD;
+ }&#xD;
+ return new OrdinarySlide();&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_6J3QvVwFEeqXF6Hs4tyljg" name="getSlideAbstractFactory" specification="_6Jut01wFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6J3QvlwFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6J3Qv1wFEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return">
+            <name xsi:nil="true"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>if (isFirstSlide) {&#xD;
+   return new TitleSlideFactory();&#xD;
+ }&#xD;
+ return new OrdinarySlideFactory();&#xD;
+  </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_NKGAYFwGEeqXF6Hs4tyljg" name="handleSlide" specification="_NKEyQFwGEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_NKGAYVwGEeqXF6Hs4tyljg" name="items" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_NKGAYlwGEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_NKGAY1wGEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return"/>
+          <language>java</language>
+          <body>Slide slide = getSlide(isFirstSlide);&#xD;
+ SlideAbstractFactory slideAbstractFactory = getSlideAbstractFactory(isFirstSlide);&#xD;
 &#xD;
+ slide.items().addAll(items);&#xD;
+&#xD;
+ slideAbstractFactory.createSlide(slide);&#xD;
+ return slideAbstractFactory;&#xD;
   </body>
         </ownedBehavior>
-        <ownedOperation xmi:id="_iVegUFpWEeqMoOHlbNi6Hg" name="handleXmlSlide" method="_iXDNpFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVfHYFpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iVfucVpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iVfuclpWEeqMoOHlbNi6Hg" key="final"/>
+        <ownedOperation xmi:id="_xq4qAFrYEeqXF6Hs4tyljg" name="parse" visibility="private" method="_xq54J1rYEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_xq4qAVrYEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_xq4qA1rYEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_xq4qBFrYEeqXF6Hs4tyljg" key="final"/>
             </eAnnotations>
           </ownedParameter>
-          <ownedParameter xmi:id="_iVfHYVpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_iVfuc1pWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_iVfudFpWEeqMoOHlbNi6Hg" key="final"/>
-            </eAnnotations>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iVfHYlpWEeqMoOHlbNi6Hg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVfHY1pWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+          <ownedParameter xmi:id="_xq4qAlrYEeqXF6Hs4tyljg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_iViKtFpWEeqMoOHlbNi6Hg" name="handleXmlSlideElement" method="_iXD0uFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVixwFpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVixwVpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedOperation xmi:id="_6JuGwFwFEeqXF6Hs4tyljg" name="handleXmlSlideWrapper" method="_6J3QsFwFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6JuGwVwFEeqXF6Hs4tyljg" name="element" type="_iUgP8FpWEeqMoOHlbNi6Hg">
+            <eAnnotations xmi:id="_6JuGxFwFEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+              <details xmi:id="_6JuGxVwFEeqXF6Hs4tyljg" key="final"/>
+            </eAnnotations>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6JuGwlwFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_6JuGw1wFEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_pUyb0FpWEeqMoOHlbNi6Hg" name="parse" visibility="private" method="_pVEvsFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_pUyb0VpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_pUzC4VpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_pUzC4lpWEeqMoOHlbNi6Hg" key="final"/>
-            </eAnnotations>
+        <ownedOperation xmi:id="_6Jut0FwFEeqXF6Hs4tyljg" name="getSlide" visibility="private" method="_6J3QulwFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6Jut0VwFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pUyb0lpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg">
-            <eAnnotations xmi:id="_pUzC41pWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-              <details xmi:id="_pUzC5FpWEeqMoOHlbNi6Hg" key="final"/>
-            </eAnnotations>
+          <ownedParameter xmi:id="_6Jut0lwFEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_6Jut01wFEeqXF6Hs4tyljg" name="getSlideAbstractFactory" visibility="private" method="_6J3QvVwFEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_6Jut1FwFEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pUzC4FpWEeqMoOHlbNi6Hg" name="slide" type="_PJZdQFpnEeqXF6Hs4tyljg"/>
+          <ownedParameter xmi:id="_6Jut1VwFEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_NKEyQFwGEeqXF6Hs4tyljg" name="handleSlide" method="_NKGAYFwGEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_NKEyQVwGEeqXF6Hs4tyljg" name="items" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_NKEyQlwGEeqXF6Hs4tyljg" name="isFirstSlide">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_NKFZUFwGEeqXF6Hs4tyljg" type="_iKYDkFpWEeqMoOHlbNi6Hg" direction="return"/>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLbzgFpWEeqMoOHlbNi6Hg" name="XmlTitle">
-        <ownedAttribute xmi:id="_iWa7gFpWEeqMoOHlbNi6Hg" name="title" visibility="package">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWa7gVpWEeqMoOHlbNi6Hg" value="null"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWbikFpWEeqMoOHlbNi6Hg" name="subTitle" visibility="package">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWbikVpWEeqMoOHlbNi6Hg" value="null"/>
-        </ownedAttribute>
-        <interfaceRealization xmi:id="_iUoy0FpWEeqMoOHlbNi6Hg" client="_iLbzgFpWEeqMoOHlbNi6Hg" supplier="_iLW7AFpWEeqMoOHlbNi6Hg" contract="_iLW7AFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXEbwFpWEeqMoOHlbNi6Hg" name="XmlTitle" specification="_iLdBoFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXEbwVpWEeqMoOHlbNi6Hg" name="title">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iXEbwlpWEeqMoOHlbNi6Hg" type="_iLbzgFpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>super();&#xD;
- this.title = title;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXEbw1pWEeqMoOHlbNi6Hg" name="getTitle" specification="_iLdos1pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXEbxFpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return title;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXFC0FpWEeqMoOHlbNi6Hg" name="getSubTitle" specification="_iLePwVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXFC0VpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>return subTitle;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXFC0lpWEeqMoOHlbNi6Hg" name="setSubTitle" specification="_iLe20FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXFC01pWEeqMoOHlbNi6Hg" name="subTitle">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>this.subTitle = subTitle;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXFC1FpWEeqMoOHlbNi6Hg" name="toString" specification="_iLfd4FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXFC1VpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>StringBuilder builder = new StringBuilder();&#xD;
- builder.append(&quot;XmlTitle [title=&quot;);&#xD;
- builder.append(title);&#xD;
- builder.append(&quot;, subTitle=&quot;);&#xD;
- builder.append(subTitle);&#xD;
- builder.append(&quot;]&quot;);&#xD;
- return builder.toString();&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iLdBoFpWEeqMoOHlbNi6Hg" name="XmlTitle" method="_iXEbwFpWEeqMoOHlbNi6Hg">
-          <eAnnotations xmi:id="_iLdosFpWEeqMoOHlbNi6Hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-            <details xmi:id="_iLdosVpWEeqMoOHlbNi6Hg" key="create"/>
-          </eAnnotations>
-          <ownedParameter xmi:id="_iLdBoVpWEeqMoOHlbNi6Hg" name="title">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_iLdoslpWEeqMoOHlbNi6Hg" type="_iLbzgFpWEeqMoOHlbNi6Hg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iLdos1pWEeqMoOHlbNi6Hg" name="getTitle" method="_iXEbw1pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLePwFpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iLePwVpWEeqMoOHlbNi6Hg" name="getSubTitle" method="_iXFC0FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLePwlpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iLe20FpWEeqMoOHlbNi6Hg" name="setSubTitle" method="_iXFC0lpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLe20VpWEeqMoOHlbNi6Hg" name="subTitle">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iLfd4FpWEeqMoOHlbNi6Hg" name="toString" method="_iXFC1FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLfd4VpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
+      <packagedElement xmi:type="uml:Association" xmi:id="_iXmnQVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXmnQlpWEeqMoOHlbNi6Hg _iWYfQFpWEeqMoOHlbNi6Hg">
+        <ownedEnd xmi:id="_iXmnQlpWEeqMoOHlbNi6Hg" name="" type="_iLF1QFpWEeqMoOHlbNi6Hg" association="_iXmnQVpWEeqMoOHlbNi6Hg"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLhTEFpWEeqMoOHlbNi6Hg" name="XmlTitleSlideHandler">
-        <interfaceRealization xmi:id="_iUpZ4FpWEeqMoOHlbNi6Hg" client="_iLhTEFpWEeqMoOHlbNi6Hg" supplier="_iLL74FpWEeqMoOHlbNi6Hg" contract="_iLL74FpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXFC1lpWEeqMoOHlbNi6Hg" name="handleXmlSlideElement" specification="_iVj_4FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKcmIVpnEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKcmIlpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_MaTRwFq_EeqXF6Hs4tyljg" name="XmlTitleSlideHandler">
+        <interfaceRealization xmi:id="_MaTRwVq_EeqXF6Hs4tyljg" client="_MaTRwFq_EeqXF6Hs4tyljg" supplier="_iLL74FpWEeqMoOHlbNi6Hg" contract="_iLL74FpWEeqMoOHlbNi6Hg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_MaVG81q_EeqXF6Hs4tyljg" name="handleXmlSlideElement" specification="_MaT40Fq_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_MaVG9Fq_EeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaVG9Vq_EeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
           <language>java</language>
           <body>Slide slide = new TitleSlide();&#xD;
  slide.setNaam(new XmlTitle(e.getTextContent()).getTitle());&#xD;
  return slide;&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXFp4FpWEeqMoOHlbNi6Hg" name="handleXmlSlide" specification="_iVl1EFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKcmI1pnEeqXF6Hs4tyljg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKcmJFpnEeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKcmJVpnEeqXF6Hs4tyljg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKcmJlpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_MaVuAFq_EeqXF6Hs4tyljg" name="handleXmlSlide" specification="_MaUf4lq_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_MaVuAVq_EeqXF6Hs4tyljg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaVuAlq_EeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaVuA1q_EeqXF6Hs4tyljg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaVuBFq_EeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
           <language>java</language>
           <body>return null;&#xD;
   </body>
         </ownedBehavior>
-        <ownedOperation xmi:id="_iVj_4FpWEeqMoOHlbNi6Hg" name="handleXmlSlideElement" method="_iXFC1lpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVj_4VpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVkm8FpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedOperation xmi:id="_MaT40Fq_EeqXF6Hs4tyljg" name="handleXmlSlideElement" method="_MaVG81q_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_MaT40Vq_EeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaT40lq_EeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_iVl1EFpWEeqMoOHlbNi6Hg" name="handleXmlSlide" method="_iXFp4FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVl1EVpWEeqMoOHlbNi6Hg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVl1ElpWEeqMoOHlbNi6Hg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVl1E1pWEeqMoOHlbNi6Hg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVmcIFpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
+        <ownedOperation xmi:id="_MaUf4lq_EeqXF6Hs4tyljg" name="handleXmlSlide" method="_MaVuAFq_EeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_MaUf41q_EeqXF6Hs4tyljg" name="doc" type="_iUS0kVpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaUf5Fq_EeqXF6Hs4tyljg" name="e" type="_iUgP8FpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaUf5Vq_EeqXF6Hs4tyljg" name="slideAbstractFactories" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
+          <ownedParameter xmi:id="_MaUf5lq_EeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXmnQVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXmnQlpWEeqMoOHlbNi6Hg _iWYfQFpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXmnQlpWEeqMoOHlbNi6Hg" name="" type="_iLF1QFpWEeqMoOHlbNi6Hg" association="_iXmnQVpWEeqMoOHlbNi6Hg"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_pfrGoFrZEeqXF6Hs4tyljg" name="" memberEnd="_pfrGoVrZEeqXF6Hs4tyljg _pfp4gFrZEeqXF6Hs4tyljg">
+        <ownedEnd xmi:id="_pfrGoVrZEeqXF6Hs4tyljg" name="" type="_iLOYIFpWEeqMoOHlbNi6Hg" association="_pfrGoFrZEeqXF6Hs4tyljg"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXn1YFpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXn1YVpWEeqMoOHlbNi6Hg _iWZtYFpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXn1YVpWEeqMoOHlbNi6Hg" name="" type="_iLVF0FpWEeqMoOHlbNi6Hg" association="_iXn1YFpWEeqMoOHlbNi6Hg"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_h9PcAFwCEeqXF6Hs4tyljg" name="" memberEnd="_h9PcAVwCEeqXF6Hs4tyljg _h9ON4FwCEeqXF6Hs4tyljg">
+        <ownedEnd xmi:id="_h9PcAVwCEeqXF6Hs4tyljg" name="" type="_iLVF0FpWEeqMoOHlbNi6Hg" association="_h9PcAFwCEeqXF6Hs4tyljg"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_6J1bgFwFEeqXF6Hs4tyljg" name="List"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_iGoMAFpWEeqMoOHlbNi6Hg" name="zz_archive">
-      <packagedElement xmi:type="uml:Interface" xmi:id="_iLuHYFpWEeqMoOHlbNi6Hg" name="IXMLSlideNode">
-        <ownedOperation xmi:id="_iLuucFpWEeqMoOHlbNi6Hg" name="readXMLLine">
-          <ownedParameter xmi:id="_iUvggFpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLvVgFpWEeqMoOHlbNi6Hg" name="ItemXmlSlideNode">
-        <interfaceRealization xmi:id="_iUvggVpWEeqMoOHlbNi6Hg" client="_iLvVgFpWEeqMoOHlbNi6Hg" supplier="_iLuHYFpWEeqMoOHlbNi6Hg" contract="_iLuHYFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXGQ91pWEeqMoOHlbNi6Hg" name="readXMLLine" specification="_iLv8kFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKdNM1pnEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iLv8kFpWEeqMoOHlbNi6Hg" name="readXMLLine" method="_iXGQ91pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iUwHkFpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLxxwFpWEeqMoOHlbNi6Hg" name="OrdinarySlideReadXMLNodeItem">
-        <interfaceRealization xmi:id="_iUwHkVpWEeqMoOHlbNi6Hg" client="_iLxxwFpWEeqMoOHlbNi6Hg" supplier="_iL_0MFpWEeqMoOHlbNi6Hg" contract="_iL_0MFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXG4AFpWEeqMoOHlbNi6Hg" name="SlideNode" specification="_iVqGgFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXG4AVpWEeqMoOHlbNi6Hg" name="node" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iXG4AlpWEeqMoOHlbNi6Hg" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXG4A1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>List&lt;ItemAttribute> atts = new ArrayList&lt;>();&#xD;
- if (node.hasAttributes()) {&#xD;
-   // get attributes names and values&#xD;
-   XmlNodeAttribute xmlNodeAttribute = new XmlNodeAttribute();&#xD;
-   atts.addAll(xmlNodeAttribute.getXMLAttributes(node));&#xD;
-   System.out.println(getClass() + &quot; 1-> &quot; + atts);&#xD;
-   System.out.println(getClass() + &quot; 2-> &quot; + node.getNodeName());&#xD;
-   System.out.println(getClass() + &quot; 3-> &quot; + node.getTextContent());&#xD;
-   //System.exit(0);&#xD;
- }&#xD;
- return atts;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVqGgFpWEeqMoOHlbNi6Hg" name="SlideNode" method="_iXG4AFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVqGgVpWEeqMoOHlbNi6Hg" name="node" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVqGglpWEeqMoOHlbNi6Hg" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVqGg1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLy_4FpWEeqMoOHlbNi6Hg" name="Presentationx">
-        <ownedAttribute xmi:id="_iWcwsFpWEeqMoOHlbNi6Hg" name="showtitle">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWcwsVpWEeqMoOHlbNi6Hg" name="slide">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWcwslpWEeqMoOHlbNi6Hg" name="title">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_iWdXwFpWEeqMoOHlbNi6Hg" name="item">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXG4BFpWEeqMoOHlbNi6Hg" name="toString" specification="_iL0OAFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXG4BVpWEeqMoOHlbNi6Hg" direction="return">
-            <name xsi:nil="true"/>
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>StringBuilder builder = new StringBuilder();&#xD;
-		builder.append(&quot;Presentation [showtitle=&quot;);&#xD;
-		builder.append(showtitle);&#xD;
-		builder.append(&quot;, slide=&quot;);&#xD;
-		builder.append(slide);&#xD;
-		builder.append(&quot;, title=&quot;);&#xD;
-		builder.append(title);&#xD;
-		builder.append(&quot;, item=&quot;);&#xD;
-		builder.append(item);&#xD;
-		builder.append(&quot;]&quot;);&#xD;
-		return builder.toString();&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iL0OAFpWEeqMoOHlbNi6Hg" name="toString" method="_iXG4BFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iL01EFpWEeqMoOHlbNi6Hg" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iL2qQFpWEeqMoOHlbNi6Hg" name="PrintXml">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXG4BlpWEeqMoOHlbNi6Hg" name="transForm" specification="_iVsiwFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXG4B1pWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <language>java</language>
-          <body>DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();&#xD;
- DocumentBuilder builder = factory.newDocumentBuilder();&#xD;
- Document document = builder.parse((InputStream) nodeList);&#xD;
- &#xD;
- Transformer tform = TransformerFactory.newInstance().newTransformer();&#xD;
- tform.setOutputProperty(OutputKeys.INDENT, &quot;yes&quot;);&#xD;
- tform.setOutputProperty(document.getTextContent(), &quot;2&quot;);&#xD;
- tform.transform(new DOMSource(document), new StreamResult(System.out));&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVsiwFpWEeqMoOHlbNi6Hg" name="transForm" method="_iXG4BlpWEeqMoOHlbNi6Hg" raisedException="_iUx8wVpWEeqMoOHlbNi6Hg _iUclkVpWEeqMoOHlbNi6Hg _iTgKYVpWEeqMoOHlbNi6Hg _iTeVMVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVsiwVpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iL4fcFpWEeqMoOHlbNi6Hg" name="ReadXMLByLoopingNodeData">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXG4CFpWEeqMoOHlbNi6Hg" name="explodeNode" specification="_iVtJ0FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXG4CVpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iXG4ClpWEeqMoOHlbNi6Hg" name="slideList" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iXG4C1pWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXG4DFpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>SlideAbstractFactory factory;&#xD;
-		//Slide slide;&#xD;
-		for (int i = 0; i &lt; nodeList.getLength(); i++) {&#xD;
-			Node tempNode = nodeList.item(i);&#xD;
-			// Ensure that the node is Element node&#xD;
-			if (tempNode.getNodeType() == Node.ELEMENT_NODE) {&#xD;
-&#xD;
-				if (tempNode.getNodeName().toLowerCase().equals(XMLTypes.SHOWTITLE.toXMLLowerCaseValue())) {&#xD;
-					ElementNode elementNode = new TitleSlideReadXMLNodeItem();&#xD;
-					factory = (SlideAbstractFactory) elementNode.factory(tempNode);&#xD;
-				} else {&#xD;
-					ElementNode elementNode = new OrdinarySlideReadXMLNodeItem();&#xD;
-					factory = (SlideAbstractFactory) elementNode.factory(tempNode);&#xD;
-				}&#xD;
-				slideList.add(factory);&#xD;
-			}&#xD;
-&#xD;
-			if (tempNode.hasChildNodes()) {&#xD;
-&#xD;
-				// Check if child nodes present.&#xD;
-				readXMLNode(tempNode.getChildNodes(), slideList);&#xD;
-&#xD;
-			}&#xD;
-&#xD;
-			System.out.println(&quot;Node Name :- &quot; + tempNode.getNodeName() + &quot; ENDS&quot;);&#xD;
-&#xD;
-		}&#xD;
-&#xD;
-		return slideList;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVtJ0FpWEeqMoOHlbNi6Hg" name="explodeNode" method="_iXG4CFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVtw4FpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVtw4VpWEeqMoOHlbNi6Hg" name="slideList" type="_iRQusFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVtw4lpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVtw41pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iL6UoFpWEeqMoOHlbNi6Hg" name="TitleSlideReadXMLNodeItem">
-        <interfaceRealization xmi:id="_iU1nIFpWEeqMoOHlbNi6Hg" client="_iL6UoFpWEeqMoOHlbNi6Hg" supplier="_iL_0MFpWEeqMoOHlbNi6Hg" contract="_iL_0MFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXHfEFpWEeqMoOHlbNi6Hg" name="SlideNode" specification="_iVvmEFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKdNNFpnEeqXF6Hs4tyljg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKdNNVpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>SlideAbstractFactory factory = new TitleSlideFactory();&#xD;
-&#xD;
-		String naam = XMLTypes.TITLE.toXMLLowerCaseValue();&#xD;
-		TitleSlide titleSlide = new TitleSlide();&#xD;
-		titleSlide.setNaam(naam);&#xD;
-		//System.out.println(tempNode.getTextContent());&#xD;
-		titleSlide.items().add(new TextItem(tempNode.getTextContent()));&#xD;
-		// titleSlide.setSubNaam(subNaam);&#xD;
-		Slide slide = factory.createSlide(titleSlide);&#xD;
-&#xD;
-		//System.out.println(&quot;\nNode Name =&quot; + tempNode.getNodeName() + &quot; STARTS&quot;);&#xD;
-		//System.out.println(&quot;Node Value =&quot; + tempNode.getTextContent());&#xD;
-&#xD;
-		/*&#xD;
-		 * Item item = new TextItem(tempNode.getTextContent());&#xD;
-		 * &#xD;
-		 * slide.items().add(item);&#xD;
-		 */&#xD;
-&#xD;
-		if (tempNode.hasAttributes()) {&#xD;
-			// get attributes names and values&#xD;
-			XmlNodeAttribute xmlNodeAttribute = new XmlNodeAttribute();&#xD;
-			Item item = xmlNodeAttribute.getXMLAttributes(tempNode);&#xD;
-			//System.out.println(item);&#xD;
-			// NamedNodeMap nodeMap= getXMLAttributes(tempNode);&#xD;
-			slide.items().add(item);&#xD;
-		}&#xD;
-		return titleSlide;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXHfE1pWEeqMoOHlbNi6Hg" name="Node" specification="_iVwNIlpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKdNNlpnEeqXF6Hs4tyljg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKdNN1pnEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>return null;&#xD;
-		&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVvmEFpWEeqMoOHlbNi6Hg" name="SlideNode" method="_iXHfEFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVvmEVpWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVvmElpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_iVwNIlpWEeqMoOHlbNi6Hg" name="Node" method="_iXHfE1pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVwNI1pWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVw0MFpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iL8J0FpWEeqMoOHlbNi6Hg" name="TitleXmlSlideNode">
-        <interfaceRealization xmi:id="_iU2OMFpWEeqMoOHlbNi6Hg" client="_iL8J0FpWEeqMoOHlbNi6Hg" supplier="_iLuHYFpWEeqMoOHlbNi6Hg" contract="_iLuHYFpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXHfFlpWEeqMoOHlbNi6Hg" name="readXMLLine" specification="_iL9X8FpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKd0QFpnEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-          <language>java</language>
-          <body>return null;&#xD;
-	</body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iL9X8FpWEeqMoOHlbNi6Hg" name="readXMLLine" method="_iXHfFlpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iU21QFpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" direction="return"/>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iL-mEFpWEeqMoOHlbNi6Hg" name="XmlElementNode">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXHfGFpWEeqMoOHlbNi6Hg" name="xmlElementNode" specification="_iVxbQFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKd0QVpnEeqXF6Hs4tyljg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKd0QlpnEeqXF6Hs4tyljg" type="_PGdeAVpnEeqXF6Hs4tyljg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PKd0Q1pnEeqXF6Hs4tyljg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>List&lt;Item> items = new ArrayList&lt;>();&#xD;
- List&lt;ItemAttribute> itemAtts = new ArrayList&lt;ItemAttribute>();&#xD;
- for (int i = 0; i &lt; nodeList.getLength(); i++) {&#xD;
-   Node tempNode = nodeList.item(i);&#xD;
-&#xD;
-   // Ensure that the node is Element node&#xD;
-   if (tempNode.getNodeType() == Node.ELEMENT_NODE) {&#xD;
-	System.out.println(&quot;Node Name :- &quot; + tempNode.getNodeName() + &quot; STARTS&quot;);&#xD;
-	System.out.println(&quot;Node Value :- &quot; + tempNode.getTextContent() + &quot; STARTS&quot;);&#xD;
-	// PrintXml printXml = new PrintXml();&#xD;
-	// printXml.transForm(nodeList);&#xD;
-&#xD;
-	XmlElementNodeItem readXMLNodeItem = new OrdinarySlideReadXMLNodeItem();&#xD;
-	itemAtts = readXMLNodeItem.SlideNode(tempNode);&#xD;
-	// System.out.println(getClass() + &quot; 1=> &quot; + itemAtts);&#xD;
-	if (!itemAtts.isEmpty()) {&#xD;
-	  // System.out.println(getClass() + &quot; 2=> &quot; + itemAtts);&#xD;
-&#xD;
-	  // System.out.println(itemAtts.size());&#xD;
-&#xD;
-	  Item item = new TextItem();&#xD;
-	  // System.out.println(getClass() + &quot; 2a=> &quot; + itemAtt);&#xD;
-	  item.setItemNaam(&quot;test&quot;);&#xD;
-	  System.out.println(&quot;item:&quot; + item);&#xD;
-	  // System.out.println(item.itemAttributes());&#xD;
-&#xD;
-	  // item.itemAttributes().addAll(itemAtts);&#xD;
-	  item.setItemAttributes(itemAtts);&#xD;
-	  // item.setItemNaam(tempNode.getTextContent());&#xD;
-	  item.setLine(tempNode.getTextContent());&#xD;
-	  // item.itemAttributes().addAll(itemAtts);&#xD;
-&#xD;
-	  // item.ItemAttributes().addAll(itemAtts);&#xD;
-	  // System.out.println(getClass() + &quot;3->&#xD;
-	  // item.ItemAttributes().add(itemAtts.get(0));item: &quot; + item);&#xD;
-	  items.add(item);&#xD;
-	  System.out.println(item.itemAttributes());&#xD;
-	  System.out.println(item);&#xD;
-&#xD;
-	  // System.exit(3);&#xD;
-	}&#xD;
-&#xD;
-   }&#xD;
-&#xD;
-   if (tempNode.hasChildNodes()) {&#xD;
-	// Check if child nodes present.&#xD;
-	xmlElementNode(tempNode.getChildNodes());&#xD;
-&#xD;
-   }&#xD;
-   // System.exit(3);&#xD;
- }&#xD;
- System.out.println(getClass() + &quot; => &quot; + items.size());&#xD;
- System.out.println();&#xD;
- //System.out.println(items);&#xD;
- //System.exit(0);&#xD;
- return items;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVxbQFpWEeqMoOHlbNi6Hg" name="xmlElementNode" method="_iXHfGFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVxbQVpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVxbQlpWEeqMoOHlbNi6Hg" type="_PGdeAVpnEeqXF6Hs4tyljg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVxbQ1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Interface" xmi:id="_iL_0MFpWEeqMoOHlbNi6Hg" name="XmlElementNodeItem">
-        <ownedOperation xmi:id="_iVyCUFpWEeqMoOHlbNi6Hg" name="SlideNode">
-          <ownedParameter xmi:id="_iVyCUVpWEeqMoOHlbNi6Hg" name="node" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVyCUlpWEeqMoOHlbNi6Hg" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVyCU1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iMBCUFpWEeqMoOHlbNi6Hg" name="XmlFile">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXIGIFpWEeqMoOHlbNi6Hg" name="readXML" specification="_iMBpYFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXIGIVpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXIGIlpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>List&lt;SlideAbstractFactory> slideListAbstractFactory = new ArrayList&lt;>();&#xD;
- try {&#xD;
-   Document document = ConvertToXmlDocument.convertFileToXMLDocument();&#xD;
-&#xD;
-   if (document.hasChildNodes()) {&#xD;
-	System.out.println(getClass()+&quot; => childnodes&quot;);&#xD;
-	XmlSlideNode readXMLNode = new XmlSlideNode();&#xD;
-	List&lt;Slide> slideList =  readXMLNode.xmlSlideNode(document.getChildNodes());&#xD;
-&#xD;
-	//*****&#xD;
-	// System.out.println(slideList);&#xD;
-	int i = 0;&#xD;
-	for (Slide slide : slideList) {&#xD;
-&#xD;
-	  System.out.println(getClass() + &quot; => &quot; + slide);&#xD;
-&#xD;
-	 // if (slide.getClass().getTypeName() == &quot;slide.OrdinarySlide&quot;) {&#xD;
-	    SlideAbstractFactory slideAbstractFactory = new OrdinarySlideFactory();&#xD;
-	    slideAbstractFactory.createSlide(slide);&#xD;
-	    // System.out.println(&quot;slide items&quot; + slide.items());&#xD;
-	    // slideListAbstractFactory.add(new OrdinarySlideFactory());&#xD;
-	    slideListAbstractFactory.add(slideAbstractFactory);&#xD;
-	    //System.out.println(&quot;slideListAbstractFactory1->&quot; + slideListAbstractFactory.get(i).getSlide().getItem(0));&#xD;
-	   // System.out.println(&quot;slideListAbstractFactory2->&quot;&#xD;
-	//	+ slideListAbstractFactory.get(i).getSlide().getItem(0).getItemAttribute(0));&#xD;
-	   // i++;&#xD;
-	 // }&#xD;
-	}&#xD;
-&#xD;
-   }&#xD;
-&#xD;
- }&#xD;
- catch (Exception e) {&#xD;
-   e.printStackTrace();&#xD;
- }&#xD;
- // System.out.println(slideListAbstractFactory);&#xD;
- return slideListAbstractFactory;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iMBpYFpWEeqMoOHlbNi6Hg" name="readXML" method="_iXIGIFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iMBpYVpWEeqMoOHlbNi6Hg" type="_iKYDkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iMBpYlpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iMCQcFpWEeqMoOHlbNi6Hg" name="XmlNodeAttribute">
-        <ownedAttribute xmi:id="_iWd-0FpWEeqMoOHlbNi6Hg" name="itemAttributes" visibility="package" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" association="_iXoccVpWEeqMoOHlbNi6Hg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iWd-0VpWEeqMoOHlbNi6Hg" value="*"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWd-0lpWEeqMoOHlbNi6Hg" value="new ArrayList&lt;>()"/>
-        </ownedAttribute>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXIGI1pWEeqMoOHlbNi6Hg" name="getXMLAttributes" specification="_iVzQcFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXIGJFpWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iXIGJVpWEeqMoOHlbNi6Hg" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <name xsi:nil="true"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXIGJlpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>NamedNodeMap nodeMap = tempNode.getAttributes();&#xD;
-&#xD;
- for (int j = 0; j &lt; nodeMap.getLength(); j++) {&#xD;
-   ItemAttribute itemAttribute = new ItemAttribute();&#xD;
-   Node node = nodeMap.item(j);&#xD;
-   //System.out.println(&quot;Attribute Name : &quot; + node.getNodeName());&#xD;
-   //System.out.println(&quot;Attribute Value : &quot; + node.getNodeValue());&#xD;
-&#xD;
-   itemAttribute.setNaam(node.getNodeName());&#xD;
-   itemAttribute.setValue(node.getNodeValue());&#xD;
-   itemAttributes.add(itemAttribute);&#xD;
-&#xD;
- }&#xD;
- //System.out.println(getClass()+&quot; -> &quot;+itemAttributes);&#xD;
- return itemAttributes;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVzQcFpWEeqMoOHlbNi6Hg" name="getXMLAttributes" method="_iXIGI1pWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVzQcVpWEeqMoOHlbNi6Hg" name="tempNode" type="_iUV34FpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVzQclpWEeqMoOHlbNi6Hg" type="_iJAKkFpWEeqMoOHlbNi6Hg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVzQc1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iMEFoFpWEeqMoOHlbNi6Hg" name="XmlSlideNode">
-        <ownedAttribute xmi:id="_iWel4VpWEeqMoOHlbNi6Hg" name="slide" visibility="package" type="_PJZdQFpnEeqXF6Hs4tyljg" association="_iXpDgVpWEeqMoOHlbNi6Hg"/>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXItMFpWEeqMoOHlbNi6Hg" name="xmlSlideNode" specification="_iVz3gFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKd0RFpnEeqXF6Hs4tyljg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKd0RVpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PKd0RlpnEeqXF6Hs4tyljg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>List&lt;Slide> slideList = new ArrayList&lt;>();&#xD;
- List&lt;Item> items = new ArrayList&lt;>();&#xD;
-&#xD;
- for (int i = 0; i &lt; nodeList.getLength(); i++) {&#xD;
-   Node tempNode = nodeList.item(i);&#xD;
-   if (tempNode.getNodeName().toLowerCase().equals(XMLTypes.SLIDE.toXMLLowerCaseValue())) {&#xD;
-	System.out.println(&quot;Node Name :- &quot; + tempNode.getNodeName() + &quot; STARTS&quot;);&#xD;
-	System.out.println(&quot;Node Value :- &quot; + tempNode.getTextContent() + &quot; STARTS&quot;);&#xD;
-	XmlElementNode readXMLNode = new XmlElementNode();&#xD;
-	items = readXMLNode.xmlElementNode(nodeList);&#xD;
-	//if (items != null) {&#xD;
-	  if (!items.isEmpty()) {&#xD;
-	    //items = readXMLNode.xmlElementNode(nodeList);&#xD;
-	    slide.setItems(items);&#xD;
-	    //System.exit(0);&#xD;
-	// }&#xD;
-	}&#xD;
-   }&#xD;
-&#xD;
-   if (tempNode.hasChildNodes()) {&#xD;
-	// Check if child nodes present.&#xD;
-	System.out.println(&quot;volgend niveau&quot;);&#xD;
-	System.out.println(tempNode.getChildNodes());&#xD;
-	xmlSlideNode(tempNode.getChildNodes());&#xD;
-	    //System.exit(0);&#xD;
-&#xD;
-   }&#xD;
-   System.out.println(&quot;Node Name :- &quot; + tempNode.getNodeName() + &quot; ENDS&quot;);&#xD;
-   System.out.println(&quot;slidelist size:&quot; + slideList.size());&#xD;
-   slideList.add(slide);&#xD;
-   System.out.println(&quot;--&quot; + i + &quot; &quot; + nodeList.getLength());&#xD;
-   System.out.println();&#xD;
-	    //System.exit(0);&#xD;
-&#xD;
- }&#xD;
- System.out.println(&quot;stopt&quot;);&#xD;
- System.exit(0);&#xD;
-&#xD;
- return slideList;&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iVz3gFpWEeqMoOHlbNi6Hg" name="xmlSlideNode" method="_iXItMFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVz3gVpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVz3glpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" isOrdered="true" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iVz3g1pWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXoccVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXocclpWEeqMoOHlbNi6Hg _iWd-0FpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXocclpWEeqMoOHlbNi6Hg" name="" type="_iMCQcFpWEeqMoOHlbNi6Hg" association="_iXoccVpWEeqMoOHlbNi6Hg"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_iXpDgVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXpDglpWEeqMoOHlbNi6Hg _iWel4VpWEeqMoOHlbNi6Hg">
-        <ownedEnd xmi:id="_iXpDglpWEeqMoOHlbNi6Hg" name="" type="_iMEFoFpWEeqMoOHlbNi6Hg" association="_iXpDgVpWEeqMoOHlbNi6Hg"/>
-      </packagedElement>
-    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_iGoMAFpWEeqMoOHlbNi6Hg" name="zz_archive"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_iGpaIFpWEeqMoOHlbNi6Hg" name="test">
       <packagedElement xmi:type="uml:Class" xmi:id="_iKgmcFpWEeqMoOHlbNi6Hg" name="ReadXMLNodeTest" visibility="package">
         <ownedAttribute xmi:id="_iWPVUVpWEeqMoOHlbNi6Hg" name="xmlStr" visibility="package" isLeaf="true" isReadOnly="true">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWP8YFpWEeqMoOHlbNi6Hg" value="&quot;&lt;?xml version=\&quot;1.0\&quot;?>&quot; &#xD;&#xA;      + &quot;&lt;!DOCTYPE presentation SYSTEM \&quot;jabberpoint.dtd\&quot;>&quot;&#xD;&#xA;      + &quot;&lt;presentation>&quot; &#xD;&#xA;      + &quot;     &lt;showtitle>XML-Based Presentation for Jabberpoint&lt;/showtitle>&quot; &#xD;&#xA;      + &quot;     &lt;slide>&quot;&#xD;&#xA;      + &quot;          &lt;title>title for Jabberpoint2&lt;/title>&quot; &#xD;&#xA;      + &quot;          &lt;item>item1 for Jabberpoint2&lt;/item>&quot;&#xD;&#xA;      + &quot;          &lt;item kind=\&quot;text\&quot;  level=\&quot;1\&quot;>item2 for Jabberpoint3&lt;/item>&quot; &#xD;&#xA;      + &quot;     &lt;/slide>&quot; &#xD;&#xA;      + &quot;&lt;/presentation>&quot;"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_iWQjcFpWEeqMoOHlbNi6Hg" name="node" visibility="package" type="_iMEFoFpWEeqMoOHlbNi6Hg" association="_iXkyEVpWEeqMoOHlbNi6Hg">
+        <ownedAttribute xmi:id="_iWQjcFpWEeqMoOHlbNi6Hg" name="node" visibility="package" association="_iXkyEVpWEeqMoOHlbNi6Hg">
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWQjcVpWEeqMoOHlbNi6Hg" value="new XmlSlideNode()"/>
         </ownedAttribute>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW-VJVpWEeqMoOHlbNi6Hg" name="testReadXMLNode" specification="_iKibo1pWEeqMoOHlbNi6Hg">
@@ -2171,7 +1629,7 @@
         <ownedOperation xmi:id="_iK3LwlpWEeqMoOHlbNi6Hg" name="testGetSlide" visibility="package" method="_iW-8MVpWEeqMoOHlbNi6Hg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_iK4Z4FpWEeqMoOHlbNi6Hg" name="TitleSlideReadXMLNodeItemTest" visibility="package">
-        <ownedAttribute xmi:id="_iWRxkVpWEeqMoOHlbNi6Hg" name="ti" visibility="package" type="_iL_0MFpWEeqMoOHlbNi6Hg" association="_iXlZI1pWEeqMoOHlbNi6Hg">
+        <ownedAttribute xmi:id="_iWRxkVpWEeqMoOHlbNi6Hg" name="ti" visibility="package" association="_iXlZI1pWEeqMoOHlbNi6Hg">
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWSYoFpWEeqMoOHlbNi6Hg" value="new TitleSlideReadXMLNodeItem()"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_iWSYolpWEeqMoOHlbNi6Hg" name="xmlStr1" visibility="package" isLeaf="true" isReadOnly="true">
@@ -2210,24 +1668,26 @@
         <ownedAttribute xmi:id="_iWWDAFpWEeqMoOHlbNi6Hg" name="titleSlide" visibility="package" type="_iKJaEFpWEeqMoOHlbNi6Hg" association="_iXmAMVpWEeqMoOHlbNi6Hg">
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_iWWDAVpWEeqMoOHlbNi6Hg" value="new TitleSlide()"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_iWWqEVpWEeqMoOHlbNi6Hg" name="naam" visibility="package">
+        <ownedAttribute xmi:id="_iWWqEVpWEeqMoOHlbNi6Hg" name="naam" visibility="public">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="__vTN0FvGEeqXF6Hs4tyljg" value="getClass() + &quot; naam&quot;"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_iWXRIFpWEeqMoOHlbNi6Hg" name="subNaam" visibility="package">
+        <ownedAttribute xmi:id="_iWXRIFpWEeqMoOHlbNi6Hg" name="subNaam" visibility="public">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="__vTN0VvGEeqXF6Hs4tyljg" value="getClass() + &quot; subNaam&quot;"/>
         </ownedAttribute>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iW_jQlpWEeqMoOHlbNi6Hg" name="testGetNaam" specification="_iLAVslpWEeqMoOHlbNi6Hg">
           <language>java</language>
           <body>assertNull(titleSlide.getNaam());&#xD;
  titleSlide.setNaam(naam);&#xD;
- assertEquals(&quot;test&quot;, titleSlide.getNaam());&#xD;
+ assertEquals(naam, titleSlide.getNaam());&#xD;
   </body>
         </ownedBehavior>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXAKUFpWEeqMoOHlbNi6Hg" name="testGetSubNaam" specification="_iLA8w1pWEeqMoOHlbNi6Hg">
           <language>java</language>
           <body>assertNull(titleSlide.getSubNaam());&#xD;
- titleSlide.setSubNaam(naam);&#xD;
- assertEquals(&quot;test&quot;, titleSlide.getSubNaam());&#xD;
+ titleSlide.setSubNaam(subNaam);&#xD;
+ assertEquals(subNaam, titleSlide.getSubNaam());&#xD;
   </body>
         </ownedBehavior>
         <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXAKUVpWEeqMoOHlbNi6Hg" name="testItems" specification="_iLBj01pWEeqMoOHlbNi6Hg">
@@ -2240,22 +1700,11 @@
  assertEquals(line, titleSlide.items().get(0).getLine(), &quot;gelijk&quot;);&#xD;
   </body>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXAKUlpWEeqMoOHlbNi6Hg" name="testTitleSlideSlide" specification="_iLCK41pWEeqMoOHlbNi6Hg">
-          <language>java</language>
-          <body>Slide slide = new TitleSlide();&#xD;
- slide.setNaam(naam);&#xD;
- slide.setSubNaam(subNaam);&#xD;
- Slide slideNew = new TitleSlide(slide);&#xD;
- // System.out.println(slideNew);&#xD;
- assertEquals(&quot;TitleSlide [subNaam=testSubNaam, naam=test, text=[]]&quot;, slideNew.toString());&#xD;
-  </body>
-        </ownedBehavior>
         <ownedOperation xmi:id="_iK-ggFpWEeqMoOHlbNi6Hg" name="setUpBeforeClass" visibility="package" isStatic="true" raisedException="_iVS6IVpWEeqMoOHlbNi6Hg"/>
         <ownedOperation xmi:id="_iK_uoVpWEeqMoOHlbNi6Hg" name="setUp" visibility="package" raisedException="_iVS6IVpWEeqMoOHlbNi6Hg"/>
         <ownedOperation xmi:id="_iLAVslpWEeqMoOHlbNi6Hg" name="testGetNaam" visibility="package" method="_iW_jQlpWEeqMoOHlbNi6Hg"/>
         <ownedOperation xmi:id="_iLA8w1pWEeqMoOHlbNi6Hg" name="testGetSubNaam" visibility="package" method="_iXAKUFpWEeqMoOHlbNi6Hg"/>
         <ownedOperation xmi:id="_iLBj01pWEeqMoOHlbNi6Hg" name="testItems" visibility="package" method="_iXAKUVpWEeqMoOHlbNi6Hg"/>
-        <ownedOperation xmi:id="_iLCK41pWEeqMoOHlbNi6Hg" name="testTitleSlideSlide" visibility="package" method="_iXAKUlpWEeqMoOHlbNi6Hg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_iXkyEVpWEeqMoOHlbNi6Hg" name="" memberEnd="_iXkyElpWEeqMoOHlbNi6Hg _iWQjcFpWEeqMoOHlbNi6Hg">
         <ownedEnd xmi:id="_iXkyElpWEeqMoOHlbNi6Hg" name="" type="_iKgmcFpWEeqMoOHlbNi6Hg" association="_iXkyEVpWEeqMoOHlbNi6Hg"/>
@@ -2270,146 +1719,144 @@
         <ownedEnd xmi:id="_iXmAMlpWEeqMoOHlbNi6Hg" name="" type="_iK95cFpWEeqMoOHlbNi6Hg" association="_iXmAMVpWEeqMoOHlbNi6Hg"/>
       </packagedElement>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_iHJJYFpWEeqMoOHlbNi6Hg" name="xpath">
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLrEEFpWEeqMoOHlbNi6Hg" name="XPathExample">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXGQ8FpWEeqMoOHlbNi6Hg" name="main" specification="_iLrrIFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iXGQ8VpWEeqMoOHlbNi6Hg" name="args">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iXGQ8lpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-          <language>java</language>
-          <body>String xmlFile = &quot;test.xml&quot;;&#xD;
-&#xD;
- // Get DOM&#xD;
- DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();&#xD;
- DocumentBuilder db = dbf.newDocumentBuilder();&#xD;
- Document xml = db.parse(xmlFile);&#xD;
-&#xD;
- // Get XPath&#xD;
- XPathFactory xpf = XPathFactory.newInstance();&#xD;
- XPath xpath = xpf.newXPath();&#xD;
-&#xD;
- /*&#xD;
-  * // 1) Get book titles written after 2001 XPathExpression expr =&#xD;
-  * xpath.compile(&quot;//presentation/slide/item/text()&quot;); Object result =&#xD;
-  * expr.evaluate(db, XPathConstants.NODESET); NodeList nodes3 = (NodeList)&#xD;
-  * result; for (int i = 0; i &lt; nodes3.getLength(); i++) {&#xD;
-  * System.out.println(nodes3.item(i).getNodeValue()); }&#xD;
-  */&#xD;
-&#xD;
- // Get first match&#xD;
- String name = (String) xpath.evaluate(&quot;/presentation/showtitle&quot;, xml, XPathConstants.STRING);&#xD;
-&#xD;
-// System.out.println(name); // Lokesh&#xD;
-&#xD;
- // Get all matches&#xD;
- NodeList nodes = (NodeList) xpath.evaluate(&quot;/presentation/slide/item/@level&quot;, xml, XPathConstants.NODESET);&#xD;
- NodeList nodes2 = (NodeList) xpath.evaluate(&quot;/presentation/slide/*&quot;, xml, XPathConstants.NODESET);&#xD;
- Node node = (Node) xpath.evaluate(&quot;/presentation/slide/title&quot;, xml, XPathConstants.NODE);&#xD;
-&#xD;
- // System.out.println(nodes);&#xD;
-&#xD;
- for (int i = 0; i &lt; nodes.getLength(); i++) {&#xD;
-   // System.out.println(nodes.item(i).getNodeValue()); // 1 2&#xD;
-   // System.out.println(nodes2.item(i).getTextContent()); // 1 2&#xD;
-   // System.out.println(nodes2.item(i).getAttributes().getNamedItem(&quot;kind&quot;)); // 1&#xD;
-   // 2&#xD;
-&#xD;
-   // System.out.println(node.getTextContent());&#xD;
-&#xD;
- }&#xD;
- Document document = ConvertToXmlDocument.convertFileToXMLDocument();&#xD;
-&#xD;
- if (document.hasChildNodes()) {&#xD;
-   System.out.println(&quot;childnodes&quot;);&#xD;
-   XpathSlide xp = new XpathSlide();&#xD;
- &#xD;
-   xp.xPathSlideNode(document.getChildNodes(),0);&#xD;
- }&#xD;
-  </body>
-        </ownedBehavior>
-        <ownedOperation xmi:id="_iLrrIFpWEeqMoOHlbNi6Hg" name="main" isStatic="true" method="_iXGQ8FpWEeqMoOHlbNi6Hg" raisedException="_iVS6IVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iLrrIVpWEeqMoOHlbNi6Hg" name="args">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iLrrIlpWEeqMoOHlbNi6Hg" value="*"/>
-          </ownedParameter>
-        </ownedOperation>
+    <packagedElement xmi:type="uml:Package" xmi:id="_iHJJYFpWEeqMoOHlbNi6Hg" name="xpath"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_aMLpEFrGEeqXF6Hs4tyljg" name="slideShow">
+      <packagedElement xmi:type="uml:Class" xmi:id="_aMgZMFrGEeqXF6Hs4tyljg" name="SlideShow"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_4ZE-IFrJEeqXF6Hs4tyljg" name="slideshow">
+      <packagedElement xmi:type="uml:Class" xmi:id="_4ZJPkFrJEeqXF6Hs4tyljg" name="SlideShow"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_3ppYYFrhEeqXF6Hs4tyljg" name="SlideShowSave"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_AJgEIFrjEeqXF6Hs4tyljg" name="com">
+      <packagedElement xmi:type="uml:Package" xmi:id="_AJgEIVrjEeqXF6Hs4tyljg" name="fasterxml">
+        <packagedElement xmi:type="uml:Package" xmi:id="_AJgEIlrjEeqXF6Hs4tyljg" name="jackson">
+          <packagedElement xmi:type="uml:Package" xmi:id="_AJgEI1rjEeqXF6Hs4tyljg" name="core">
+            <packagedElement xmi:type="uml:Class" xmi:id="_AJkVkFrjEeqXF6Hs4tyljg" name="JsonProcessingException"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="_SMx0oFrpEeqXF6Hs4tyljg" name="annotation">
+            <packagedElement xmi:type="uml:Interface" xmi:id="_SM0Q4FrpEeqXF6Hs4tyljg" name="JsonProperty"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="_rni-0FrpEeqXF6Hs4tyljg" name="dataformat">
+            <packagedElement xmi:type="uml:Package" xmi:id="_rni-0VrpEeqXF6Hs4tyljg" name="xml">
+              <packagedElement xmi:type="uml:Package" xmi:id="_rnjl4FrpEeqXF6Hs4tyljg" name="annotation">
+                <packagedElement xmi:type="uml:Interface" xmi:id="_rnmCIFrpEeqXF6Hs4tyljg" name="JacksonXmlProperty"/>
+                <packagedElement xmi:type="uml:Interface" xmi:id="_HTlBAFrqEeqXF6Hs4tyljg" name="JacksonXmlElementWrapper"/>
+              </packagedElement>
+            </packagedElement>
+          </packagedElement>
+        </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_iLsSMFpWEeqMoOHlbNi6Hg" name="XpathSlide">
-        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_iXGQ81pWEeqMoOHlbNi6Hg" name="xPathSlideNode" specification="_iVo4YFpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_PKdNMFpnEeqXF6Hs4tyljg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_PKdNMVpnEeqXF6Hs4tyljg" name="k">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_18LmkFvJEeqXF6Hs4tyljg" name="demo">
+      <packagedElement xmi:type="uml:Class" xmi:id="_Bm6DEFygEeqXF6Hs4tyljg" name="DemoPresentation"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_qFu-IFynEeqXF6Hs4tyljg" name="style">
+      <packagedElement xmi:type="uml:Class" xmi:id="_qFyogFynEeqXF6Hs4tyljg" name="Color">
+        <generalization xmi:id="_qF1EwlynEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_qF8ZgFynEeqXF6Hs4tyljg" name="getLine" specification="_qFzPkFynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF8ZgVynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_PKdNMlpnEeqXF6Hs4tyljg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
           <language>java</language>
-          <body>// String xmlFile = &quot;test.xml&quot;;&#xD;
- // Document document = ConvertToXmlDocument.convertFileToXMLDocument();&#xD;
-&#xD;
- // Get DOM&#xD;
- /*&#xD;
-  * DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();&#xD;
-  * DocumentBuilder db = dbf.newDocumentBuilder(); Document xml =&#xD;
-  * db.parse(nodeList); //Document xml=db. .adoptNode(nodeList);&#xD;
-  */&#xD;
- System.out.println(&quot;k=&quot;+k);&#xD;
- int j= 0;&#xD;
- for (int i = 0; i &lt; nodeList.getLength(); i++) {&#xD;
-   Node tempNode = nodeList.item(i);&#xD;
-   System.out.println(&quot;checkslide:&quot;+tempNode.getNodeName());&#xD;
-   if (tempNode.getNodeName().equalsIgnoreCase(&quot;Slide&quot;)) {&#xD;
-	 NodeList tempNodeList = tempNode.getChildNodes();&#xD;
-	break;&#xD;
-   }&#xD;
-&#xD;
-   if (tempNode.hasChildNodes()) {&#xD;
-	j++;&#xD;
-	xPathSlideNode(tempNode.getChildNodes(),j);&#xD;
-   }&#xD;
-   Node tN = tempNode.getNextSibling();&#xD;
-   System.out.println(&quot;nextslide:&quot;+tN.getNodeValue());&#xD;
-   tempNode.getNextSibling();&#xD;
-   System.out.println(&quot;nextslide:&quot;+tN.getNodeValue());&#xD;
- }&#xD;
- System.exit(0);&#xD;
-&#xD;
- // Get XPath&#xD;
- XPathFactory xpf = XPathFactory.newInstance();&#xD;
- XPath xpath = xpf.newXPath();&#xD;
-&#xD;
- // Get first match&#xD;
- String name = (String) xpath.evaluate(&quot;/presentation/showtitle&quot;, nodeList, XPathConstants.STRING);&#xD;
-&#xD;
- System.out.println(name); // Lokesh&#xD;
-&#xD;
- // Get all matches&#xD;
- NodeList nodes = (NodeList) xpath.evaluate(&quot;/presentation/slide/item/@level&quot;, nodeList, XPathConstants.NODESET);&#xD;
- NodeList nodes2 = (NodeList) xpath.evaluate(&quot;/slide/item&quot;, nodeList, XPathConstants.NODESET);&#xD;
- Node node = (Node) xpath.evaluate(&quot;/presentation/slide/title&quot;, nodeList, XPathConstants.NODE);&#xD;
-&#xD;
- System.out.println(nodes2);&#xD;
- System.out.println(nodeList);&#xD;
-&#xD;
-&#xD;
- for (int i = 0; i &lt; nodes.getLength(); i++) {&#xD;
-   // System.out.println(nodes.item(i).getNodeValue()); // 1 2&#xD;
-   System.out.println(nodes2.item(i).getTextContent()); // 1 2&#xD;
-   // System.out.println(nodes2.item(i).getAttributes().getNamedItem(&quot;kind&quot;)); // 1&#xD;
-   // 2&#xD;
-System.exit(0);&#xD;
-   // System.out.println(node.getTextContent());&#xD;
-&#xD;
- }&#xD;
- return null;&#xD;
-  </body>
+          <body>return null;&#xD;
+	</body>
         </ownedBehavior>
-        <ownedOperation xmi:id="_iVo4YFpWEeqMoOHlbNi6Hg" name="xPathSlideNode" method="_iXGQ81pWEeqMoOHlbNi6Hg" raisedException="_iVS6IVpWEeqMoOHlbNi6Hg">
-          <ownedParameter xmi:id="_iVo4YVpWEeqMoOHlbNi6Hg" name="nodeList" type="_iUiFIFpWEeqMoOHlbNi6Hg"/>
-          <ownedParameter xmi:id="_iVo4YlpWEeqMoOHlbNi6Hg" name="k">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        <ownedOperation xmi:id="_qFzPkFynEeqXF6Hs4tyljg" name="getLine" method="_qF8ZgFynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qFz2oFynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_iVpfcFpWEeqMoOHlbNi6Hg" type="_PJZdQFpnEeqXF6Hs4tyljg" direction="return"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_qF0dslynEeqXF6Hs4tyljg" name="writeLine"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_qF1Ew1ynEeqXF6Hs4tyljg" name="Font">
+        <generalization xmi:id="_qF2S5FynEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_qF8ZglynEeqXF6Hs4tyljg" name="getLine" specification="_qF1ExFynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF8Zg1ynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return null;&#xD;
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_qF1ExFynEeqXF6Hs4tyljg" name="getLine" method="_qF8ZglynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF1r0FynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_qF2S4FynEeqXF6Hs4tyljg" name="writeLine"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_qF258FynEeqXF6Hs4tyljg" name="FontSize">
+        <generalization xmi:id="_qF4IEFynEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_qF8ZhFynEeqXF6Hs4tyljg" name="getLine" specification="_qF258VynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF8ZhVynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return null;&#xD;
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_qF258VynEeqXF6Hs4tyljg" name="getLine" method="_qF8ZhFynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF258lynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_qF3hAlynEeqXF6Hs4tyljg" name="writeLine"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_qF4IEVynEeqXF6Hs4tyljg" name="Indent">
+        <generalization xmi:id="_qF5WMVynEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_qF8ZhlynEeqXF6Hs4tyljg" name="getLine" specification="_qF4IElynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF8Zh1ynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return null;&#xD;
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_qF4IElynEeqXF6Hs4tyljg" name="getLine" method="_qF8ZhlynEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_qF4IE1ynEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_qF4vI1ynEeqXF6Hs4tyljg" name="writeLine"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_H0ee8FyoEeqXF6Hs4tyljg" name="Level">
+        <generalization xmi:id="_H0gUJFyoEeqXF6Hs4tyljg" general="_PGdeAVpnEeqXF6Hs4tyljg"/>
+        <ownedAttribute xmi:id="_H0hiQFyoEeqXF6Hs4tyljg" name="value" visibility="package">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_H0iJUVyoEeqXF6Hs4tyljg" name="Level" specification="_H0fGAFyoEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_H0iJUlyoEeqXF6Hs4tyljg" name="value">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_H0iJU1yoEeqXF6Hs4tyljg" type="_H0ee8FyoEeqXF6Hs4tyljg" direction="return"/>
+          <language>java</language>
+          <body>super();&#xD;
+		this.value = value;&#xD;
+	</body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_H0iJVFyoEeqXF6Hs4tyljg" name="getLine" specification="_H0fGBVyoEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_H0iJVVyoEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return value;&#xD;
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_H0fGAFyoEeqXF6Hs4tyljg" name="Level" method="_H0iJUVyoEeqXF6Hs4tyljg">
+          <eAnnotations xmi:id="_H0fGAlyoEeqXF6Hs4tyljg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+            <details xmi:id="_H0fGA1yoEeqXF6Hs4tyljg" key="create"/>
+          </eAnnotations>
+          <ownedParameter xmi:id="_H0fGAVyoEeqXF6Hs4tyljg" name="value">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_H0fGBFyoEeqXF6Hs4tyljg" type="_H0ee8FyoEeqXF6Hs4tyljg" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_H0fGBVyoEeqXF6Hs4tyljg" name="getLine" method="_H0iJVFyoEeqXF6Hs4tyljg">
+          <ownedParameter xmi:id="_H0ftEFyoEeqXF6Hs4tyljg" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_H0gUIFyoEeqXF6Hs4tyljg" name="writeLine"/>
       </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_hWGG8FpWEeqMoOHlbNi6Hg">
@@ -2422,30 +1869,6 @@ System.exit(0);&#xD;
   <UMLLabProfile:TargetLanguage xmi:id="_hWRtIFpWEeqMoOHlbNi6Hg" base_Package="_eiy44FpWEeqMoOHlbNi6Hg">
     <languageName>java</languageName>
   </UMLLabProfile:TargetLanguage>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIXRYVpWEeqMoOHlbNi6Hg" base_Element="_iIVcMFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIYfgFpWEeqMoOHlbNi6Hg" base_Element="_iIVcMFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIYfgVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIZGkVpWEeqMoOHlbNi6Hg" base_Element="_iIZGkFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIZtoFpWEeqMoOHlbNi6Hg" base_Element="_iIZGkFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIZtoVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIbi0VpWEeqMoOHlbNi6Hg" base_Element="_iIa7wFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIcJ4FpWEeqMoOHlbNi6Hg" base_Element="_iIa7wFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIcJ4VpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIcw8FpWEeqMoOHlbNi6Hg" base_Element="_iIcJ4lpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIcw8VpWEeqMoOHlbNi6Hg" base_Element="_iIcJ4lpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIcw8lpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIemIVpWEeqMoOHlbNi6Hg" base_Element="_iId_EFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIfNMFpWEeqMoOHlbNi6Hg" base_Element="_iId_EFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIfNMVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIf0QFpWEeqMoOHlbNi6Hg" base_Element="_iIfNMlpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iIf0QVpWEeqMoOHlbNi6Hg" base_Element="_iIfNMlpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iIf0QlpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iIkswFpWEeqMoOHlbNi6Hg" base_Element="_iIkFs1pWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_iIlT0FpWEeqMoOHlbNi6Hg" base_Element="_iIkFs1pWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iIlT0VpWEeqMoOHlbNi6Hg" name="Override"/>
@@ -2462,25 +1885,9 @@ System.exit(0);&#xD;
   <UMLLabProfile:Annotations xmi:id="_iIracFpWEeqMoOHlbNi6Hg" base_Element="_iIqMUFpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iIracVpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iIz9UVpWEeqMoOHlbNi6Hg" base_Element="_iIzWQFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iI0kYFpWEeqMoOHlbNi6Hg" base_Element="_iIzWQFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iI0kYVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iI1LcFpWEeqMoOHlbNi6Hg" base_Element="_iI0kYlpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iI1LcVpWEeqMoOHlbNi6Hg" base_Element="_iI0kYlpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iI1LclpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iJCm0FpWEeqMoOHlbNi6Hg" base_Element="_iJB_wFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_iJCm0VpWEeqMoOHlbNi6Hg" base_Element="_iJB_wFpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iJCm0lpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iJG4QFpWEeqMoOHlbNi6Hg" base_Element="_iJGRMFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iJG4QVpWEeqMoOHlbNi6Hg" base_Element="_iJGRMFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iJG4QlpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iJHfUFpWEeqMoOHlbNi6Hg" base_Element="_iJG4Q1pWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iJIGYFpWEeqMoOHlbNi6Hg" base_Element="_iJG4Q1pWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iJIGYVpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iJMX0FpWEeqMoOHlbNi6Hg" base_Element="_iJLwwFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iJONAVpWEeqMoOHlbNi6Hg" base_Element="_iJNl8FpWEeqMoOHlbNi6Hg"/>
@@ -2495,24 +1902,6 @@ System.exit(0);&#xD;
   <UMLLabProfile:Annotations xmi:id="_iJboYFpWEeqMoOHlbNi6Hg" base_Element="_iJaaQFpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iJboYVpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iJnOkFpWEeqMoOHlbNi6Hg" base_Element="_iJmAcFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iJocsFpWEeqMoOHlbNi6Hg" base_Element="_iJn1oFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iJocsVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:Annotations xmi:id="_iJpq0FpWEeqMoOHlbNi6Hg" base_Element="_iJpDwFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iJpq0VpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:StyledElement xmi:id="_iJqR4FpWEeqMoOHlbNi6Hg" base_Element="_iJpq0lpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:StyledElement xmi:id="_iJrgAFpWEeqMoOHlbNi6Hg" base_Element="_iJq48FpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:StyledElement xmi:id="_iJsHEFpWEeqMoOHlbNi6Hg" base_Element="_iJrgAVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:StyledElement xmi:id="_iJsuIVpWEeqMoOHlbNi6Hg" base_Element="_iJsuIFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iJtVMFpWEeqMoOHlbNi6Hg" base_Element="_iJmAcFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iJtVMVpWEeqMoOHlbNi6Hg" name="XmlRootElement">
-      <annotationParameters xmi:id="_iJt8QFpWEeqMoOHlbNi6Hg" name="name" skipArray="true">
-        <valueSpecifications xmi:type="uml:LiteralString" xmi:id="_s4h7cFpuEeqXF6Hs4tyljg" value="&quot;presentation&quot;"/>
-      </annotationParameters>
-    </annotations>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iJy0wFpWEeqMoOHlbNi6Hg" base_Element="_iJyNsFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iJ3GMVpWEeqMoOHlbNi6Hg" base_Element="_iJ2fIlpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_iJ3tQFpWEeqMoOHlbNi6Hg" base_Element="_iJ2fIlpWEeqMoOHlbNi6Hg">
@@ -2523,10 +1912,6 @@ System.exit(0);&#xD;
     <annotations xmi:id="_iKIL8lpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iKL2UVpWEeqMoOHlbNi6Hg" base_Element="_iKLPQFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iKNrgVpWEeqMoOHlbNi6Hg" base_Element="_iKNEcFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iKOSkFpWEeqMoOHlbNi6Hg" base_Element="_iKNEcFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iKOSkVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iKR88lpWEeqMoOHlbNi6Hg" base_Element="_iKR88FpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_iKSkAFpWEeqMoOHlbNi6Hg" base_Element="_iKR88FpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iKSkAVpWEeqMoOHlbNi6Hg" name="Override"/>
@@ -2611,28 +1996,8 @@ System.exit(0);&#xD;
   <UMLLabProfile:Annotations xmi:id="_iLCK4VpWEeqMoOHlbNi6Hg" base_Element="_iLBj01pWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iLCK4lpWEeqMoOHlbNi6Hg" name="Test"/>
   </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iLCx8FpWEeqMoOHlbNi6Hg" base_Element="_iLCK41pWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iLCx8VpWEeqMoOHlbNi6Hg" base_Element="_iLCK41pWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iLCx8lpWEeqMoOHlbNi6Hg" name="Test"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iLHqcFpWEeqMoOHlbNi6Hg" base_Element="_iLHDYFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Array xmi:id="_iLHqclpWEeqMoOHlbNi6Hg" dimensions="1" base_Element="_iLHDYVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iLgE8FpWEeqMoOHlbNi6Hg" base_Element="_iLfd4FpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iLgE8VpWEeqMoOHlbNi6Hg" base_Element="_iLfd4FpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iLgE8lpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iLv8kVpWEeqMoOHlbNi6Hg" base_Element="_iLv8kFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iLwjoFpWEeqMoOHlbNi6Hg" base_Element="_iLv8kFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iLwjoVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iL01EVpWEeqMoOHlbNi6Hg" base_Element="_iL0OAFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iL1cIFpWEeqMoOHlbNi6Hg" base_Element="_iL0OAFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iL1cIVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iL9X8VpWEeqMoOHlbNi6Hg" base_Element="_iL9X8FpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iL9_AFpWEeqMoOHlbNi6Hg" base_Element="_iL9X8FpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iL9_AVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:Reference xmi:id="_iRR80FpWEeqMoOHlbNi6Hg" base_Element="_iRQusFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iTduIVpWEeqMoOHlbNi6Hg" base_Element="_iTduIFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iTe8QFpWEeqMoOHlbNi6Hg" base_Element="_iTeVMVpWEeqMoOHlbNi6Hg"/>
@@ -2672,37 +2037,7 @@ System.exit(0);&#xD;
   <UMLLabProfile:Annotations xmi:id="_iVEQoVpWEeqMoOHlbNi6Hg" base_Element="_iVCbcFpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_iVE3sFpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
-  <UMLLabProfile:Generics xmi:id="_iVK-UFpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVJwMVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iVThMFpWEeqMoOHlbNi6Hg" base_Element="_iVS6IVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Generics xmi:id="_iVZn0FpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVZAwVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Generics xmi:id="_iVcEEFpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVbdAFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVfucFpWEeqMoOHlbNi6Hg" base_Element="_iVegUFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Generics xmi:id="_iVgVgFpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVfHYlpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVg8kFpWEeqMoOHlbNi6Hg" base_Element="_iVegUFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVg8kVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVixwlpWEeqMoOHlbNi6Hg" base_Element="_iViKtFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVjY0FpWEeqMoOHlbNi6Hg" base_Element="_iViKtFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVjY0VpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVkm8VpWEeqMoOHlbNi6Hg" base_Element="_iVj_4FpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVlOAFpWEeqMoOHlbNi6Hg" base_Element="_iVj_4FpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVlOAVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVmcIVpWEeqMoOHlbNi6Hg" base_Element="_iVl1EFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Generics xmi:id="_iVnDMFpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVl1E1pWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVnqQFpWEeqMoOHlbNi6Hg" base_Element="_iVl1EFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVnqQVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVqtkFpWEeqMoOHlbNi6Hg" base_Element="_iVqGgFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVqtkVpWEeqMoOHlbNi6Hg" base_Element="_iVqGgFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVrUoFpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:Generics xmi:id="_iVu_AFpWEeqMoOHlbNi6Hg" genericsValue="SlideAbstractFactory" base_Element="_iVtw4VpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iVvmE1pWEeqMoOHlbNi6Hg" base_Element="_iVvmEFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_iVwNIFpWEeqMoOHlbNi6Hg" base_Element="_iVvmEFpWEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_iVwNIVpWEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iV6lMFpWEeqMoOHlbNi6Hg" base_Element="_iV5-IFpWEeqMoOHlbNi6Hg">
     <associatedElement xmi:type="uml:Operation" xmi:id="_okKZsFpiEeqMoOHlbNi6Hg" name="getLine" method="_okLn0FpiEeqMoOHlbNi6Hg">
       <ownedParameter xmi:id="_okLAwFpiEeqMoOHlbNi6Hg" direction="return">
@@ -2717,7 +2052,6 @@ System.exit(0);&#xD;
   </UMLLabProfile:LegacyStyledElement>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iV7MQFpWEeqMoOHlbNi6Hg" base_Element="_iV6lMVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iV7zUFpWEeqMoOHlbNi6Hg" base_Element="_iV7MQVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iV-2oFpWEeqMoOHlbNi6Hg" base_Element="_iV-PkFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWAEwFpWEeqMoOHlbNi6Hg" base_Element="_iV_dsVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWAEw1pWEeqMoOHlbNi6Hg" base_Element="_iWAEwVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWGLYFpWEeqMoOHlbNi6Hg" base_Element="_iWFkUFpWEeqMoOHlbNi6Hg">
@@ -2771,11 +2105,6 @@ System.exit(0);&#xD;
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWWqElpWEeqMoOHlbNi6Hg" base_Element="_iWWqEVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWXRIVpWEeqMoOHlbNi6Hg" base_Element="_iWXRIFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_iWYfQVpWEeqMoOHlbNi6Hg" base_Element="_iWYfQFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iWaUcFpWEeqMoOHlbNi6Hg" base_Element="_iWZtYFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iWa7glpWEeqMoOHlbNi6Hg" base_Element="_iWa7gFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iWbiklpWEeqMoOHlbNi6Hg" base_Element="_iWbikFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iWel4FpWEeqMoOHlbNi6Hg" base_Element="_iWd-0FpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:LegacyStyledElement xmi:id="_iWfM8FpWEeqMoOHlbNi6Hg" base_Element="_iWel4VpWEeqMoOHlbNi6Hg"/>
   <uml:OpaqueBehavior xmi:id="_iW5coFpWEeqMoOHlbNi6Hg" name="getNaam" specification="_iWGLYVpWEeqMoOHlbNi6Hg">
     <ownedParameter xmi:id="_iW5coVpWEeqMoOHlbNi6Hg" direction="return">
       <name xsi:nil="true"/>
@@ -2814,31 +2143,9 @@ System.exit(0);&#xD;
     <body>return naam;&#xD;
   </body>
   </uml:OpaqueBehavior>
-  <uml:OpaqueBehavior xmi:id="_iXFp5VpWEeqMoOHlbNi6Hg" name="toXMLLowerCaseValue" specification="_iLpO5FpWEeqMoOHlbNi6Hg">
-    <ownedParameter xmi:id="_iXFp5lpWEeqMoOHlbNi6Hg" direction="return">
-      <name xsi:nil="true"/>
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-    </ownedParameter>
-    <language>java</language>
-    <body>return this.name().toLowerCase();&#xD;
- </body>
-  </uml:OpaqueBehavior>
-  <uml:OpaqueBehavior xmi:id="_iXFp51pWEeqMoOHlbNi6Hg" name="from" specification="_iLp18VpWEeqMoOHlbNi6Hg">
-    <ownedParameter xmi:id="_pVFWxlpWEeqMoOHlbNi6Hg" name="status">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-    </ownedParameter>
-    <ownedParameter xmi:id="_pVFWx1pWEeqMoOHlbNi6Hg" type="_iUjTQFpWEeqMoOHlbNi6Hg" direction="return">
-      <name xsi:nil="true"/>
-    </ownedParameter>
-    <language>java</language>
-    <body>return XMLTypes.valueOf(status.toUpperCase());&#xD;
- </body>
-  </uml:OpaqueBehavior>
   <UMLLabProfile:Reference xmi:id="_iXf5kFpWEeqMoOHlbNi6Hg" base_Element="_iXfSgFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXf5k1pWEeqMoOHlbNi6Hg" base_Element="_iXf5kVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXhHsFpWEeqMoOHlbNi6Hg" base_Element="_iXggo1pWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Reference xmi:id="_iXhuw1pWEeqMoOHlbNi6Hg" base_Element="_iXhuwVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Reference xmi:id="_iXiV0FpWEeqMoOHlbNi6Hg" base_Element="_iXhuxFpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXi84FpWEeqMoOHlbNi6Hg" base_Element="_iXiV0VpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXi841pWEeqMoOHlbNi6Hg" base_Element="_iXi84VpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXjj8lpWEeqMoOHlbNi6Hg" base_Element="_iXjj8FpWEeqMoOHlbNi6Hg"/>
@@ -2849,9 +2156,6 @@ System.exit(0);&#xD;
   <UMLLabProfile:Reference xmi:id="_iXmAMFpWEeqMoOHlbNi6Hg" base_Element="_iXlZI1pWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXmnQFpWEeqMoOHlbNi6Hg" base_Element="_iXmAMVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Reference xmi:id="_iXnOUFpWEeqMoOHlbNi6Hg" base_Element="_iXmnQVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Reference xmi:id="_iXoccFpWEeqMoOHlbNi6Hg" base_Element="_iXn1YFpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Reference xmi:id="_iXpDgFpWEeqMoOHlbNi6Hg" base_Element="_iXoccVpWEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Reference xmi:id="_iXpqkFpWEeqMoOHlbNi6Hg" base_Element="_iXpDgVpWEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_pOqlsFpWEeqMoOHlbNi6Hg" base_Element="_pOp-oFpWEeqMoOHlbNi6Hg">
     <annotations xmi:id="_pOqlsVpWEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
@@ -2881,10 +2185,6 @@ System.exit(0);&#xD;
     <annotations xmi:id="_Zs7xoVpgEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
   <UMLLabProfile:LegacyStyledElement xmi:id="_Zs8YsFpgEeqMoOHlbNi6Hg" base_Element="_Zs6jgFpgEeqMoOHlbNi6Hg"/>
-  <UMLLabProfile:Annotations xmi:id="_m07tMVphEeqMoOHlbNi6Hg" base_Element="_m07tMFphEeqMoOHlbNi6Hg">
-    <annotations xmi:id="_m07tMlphEeqMoOHlbNi6Hg" name="Override"/>
-  </UMLLabProfile:Annotations>
-  <UMLLabProfile:StyledElement xmi:id="_m087UFphEeqMoOHlbNi6Hg" base_Element="_m07GIFphEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Annotations xmi:id="_okKZsVpiEeqMoOHlbNi6Hg" base_Element="_okKZsFpiEeqMoOHlbNi6Hg">
     <annotations xmi:id="_okKZslpiEeqMoOHlbNi6Hg" name="Override"/>
   </UMLLabProfile:Annotations>
@@ -2918,27 +2218,7 @@ System.exit(0);&#xD;
   <UMLLabProfile:LegacyStyledElement xmi:id="_GiP2sFpmEeqMoOHlbNi6Hg" base_Element="_GiPPoFpmEeqMoOHlbNi6Hg"/>
   <UMLLabProfile:Generics xmi:id="_-2MCkFpoEeqXF6Hs4tyljg" genericsValue="Attribute" base_Element="_-2LbgVpoEeqXF6Hs4tyljg"/>
   <UMLLabProfile:LegacyStyledElement xmi:id="_wyELEFppEeqXF6Hs4tyljg" base_Element="_iWEWMVpWEeqMoOHlbNi6Hg"/>
-  <uml:OpaqueBehavior xmi:id="_AAFigFpsEeqXF6Hs4tyljg" name="toXMLLowerCaseValue" specification="_AAEUYFpsEeqXF6Hs4tyljg">
-    <ownedParameter xmi:id="_AAFigVpsEeqXF6Hs4tyljg" direction="return">
-      <name xsi:nil="true"/>
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-    </ownedParameter>
-    <language>java</language>
-    <body>return this.name().toLowerCase();&#xD;
-  </body>
-  </uml:OpaqueBehavior>
-  <uml:OpaqueBehavior xmi:id="_AAFiglpsEeqXF6Hs4tyljg" name="from" specification="_AAE7cVpsEeqXF6Hs4tyljg">
-    <ownedParameter xmi:id="_AAFig1psEeqXF6Hs4tyljg" name="status">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-    </ownedParameter>
-    <ownedParameter xmi:id="_AAFihFpsEeqXF6Hs4tyljg" type="_iUjTQFpWEeqMoOHlbNi6Hg" direction="return">
-      <name xsi:nil="true"/>
-    </ownedParameter>
-    <language>java</language>
-    <body>return XMLTypes.valueOf(status.toUpperCase());&#xD;
-  </body>
-  </uml:OpaqueBehavior>
-  <uml:OpaqueBehavior xmi:id="_Zd_gQFpsEeqXF6Hs4tyljg" name="toXMLLowerCaseValue" specification="_Zd-SIFpsEeqXF6Hs4tyljg">
+  <uml:OpaqueBehavior xmi:id="_Zd_gQFpsEeqXF6Hs4tyljg" name="toXMLLowerCaseValue">
     <ownedParameter xmi:id="_Zd_gQVpsEeqXF6Hs4tyljg" direction="return">
       <name xsi:nil="true"/>
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -2947,7 +2227,7 @@ System.exit(0);&#xD;
     <body>return this.name().toLowerCase();&#xD;
   </body>
   </uml:OpaqueBehavior>
-  <uml:OpaqueBehavior xmi:id="_Zd_gQlpsEeqXF6Hs4tyljg" name="from" specification="_Zd-5MVpsEeqXF6Hs4tyljg">
+  <uml:OpaqueBehavior xmi:id="_Zd_gQlpsEeqXF6Hs4tyljg" name="from">
     <ownedParameter xmi:id="_Zd_gQ1psEeqXF6Hs4tyljg" name="status">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
     </ownedParameter>
@@ -2985,4 +2265,149 @@ System.exit(0);&#xD;
     <body>return null;&#xD;
   </body>
   </uml:OpaqueBehavior>
+  <UMLLabProfile:Annotations xmi:id="_C828Ylq-EeqXF6Hs4tyljg" base_Element="_C828YFq-EeqXF6Hs4tyljg">
+    <annotations xmi:id="_C828Y1q-EeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:Annotations xmi:id="_C85Yo1q-EeqXF6Hs4tyljg" base_Element="_C81uQFq-EeqXF6Hs4tyljg">
+    <annotations xmi:id="_C85YpFq-EeqXF6Hs4tyljg" name="XmlRootElement">
+      <annotationParameters xmi:id="_C85YpVq-EeqXF6Hs4tyljg" name="name" skipArray="true">
+        <valueSpecifications xmi:type="uml:LiteralString" xmi:id="_C8-4Olq-EeqXF6Hs4tyljg" value="&quot;presentation&quot;"/>
+      </annotationParameters>
+    </annotations>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_MaT401q_EeqXF6Hs4tyljg" base_Element="_MaT40Fq_EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_MaUf4Fq_EeqXF6Hs4tyljg" base_Element="_MaT40Fq_EeqXF6Hs4tyljg">
+    <annotations xmi:id="_MaUf4Vq_EeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_MaUf51q_EeqXF6Hs4tyljg" base_Element="_MaUf4lq_EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Generics xmi:id="_MaVG8Fq_EeqXF6Hs4tyljg" genericsValue="SlideAbstractFactory" base_Element="_MaUf5Vq_EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_MaVG8Vq_EeqXF6Hs4tyljg" base_Element="_MaUf4lq_EeqXF6Hs4tyljg">
+    <annotations xmi:id="_MaVG8lq_EeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <uml:OpaqueBehavior xmi:id="_wdmg4Vq_EeqXF6Hs4tyljg" name="toXMLLowerCaseValue" specification="_wdkrslq_EeqXF6Hs4tyljg">
+    <ownedParameter xmi:id="_wdmg4lq_EeqXF6Hs4tyljg" direction="return">
+      <name xsi:nil="true"/>
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedParameter>
+    <language>java</language>
+    <body>return this.name().toLowerCase();&#xD;
+ </body>
+  </uml:OpaqueBehavior>
+  <uml:OpaqueBehavior xmi:id="_wdmg41q_EeqXF6Hs4tyljg" name="from" specification="_wdlSwFq_EeqXF6Hs4tyljg">
+    <ownedParameter xmi:id="_wdmg5Fq_EeqXF6Hs4tyljg" name="status">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedParameter>
+    <ownedParameter xmi:id="_wdmg5Vq_EeqXF6Hs4tyljg" type="_wdkEoFq_EeqXF6Hs4tyljg" direction="return">
+      <name xsi:nil="true"/>
+    </ownedParameter>
+    <language>java</language>
+    <body>return XMLAttributes.valueOf(status.toUpperCase());&#xD;
+ </body>
+  </uml:OpaqueBehavior>
+  <UMLLabProfile:Reference xmi:id="_aMgZMVrGEeqXF6Hs4tyljg" base_Element="_aMgZMFrGEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_Q7n8UFrJEeqXF6Hs4tyljg" base_Element="_C83jclq-EeqXF6Hs4tyljg">
+    <annotations xmi:id="_Q7n8UVrJEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_Q7ojYFrJEeqXF6Hs4tyljg" base_Element="_C828YFq-EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_Q7pKcFrJEeqXF6Hs4tyljg" base_Element="_C83jclq-EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_Q7sNwVrJEeqXF6Hs4tyljg" base_Element="_Q7sNwFrJEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_4ZJ2oFrJEeqXF6Hs4tyljg" base_Element="_4ZJPkFrJEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_SJqnUVrKEeqXF6Hs4tyljg" base_Element="_SJqnUFrKEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_pfqfklrZEeqXF6Hs4tyljg" base_Element="_pfp4gFrZEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_pfrGolrZEeqXF6Hs4tyljg" base_Element="_pfrGoFrZEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_2NNwQlrZEeqXF6Hs4tyljg" base_Element="_2NNwQFrZEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_3pm8IVrhEeqXF6Hs4tyljg" base_Element="_3pmVEFrhEeqXF6Hs4tyljg">
+    <annotations xmi:id="_3pm8IlrhEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_3pm8I1rhEeqXF6Hs4tyljg" base_Element="_3pmVEFrhEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_3prNkFrhEeqXF6Hs4tyljg" base_Element="_3ppYYFrhEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_AJkVkVrjEeqXF6Hs4tyljg" base_Element="_AJkVkFrjEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_SMybsFrpEeqXF6Hs4tyljg" base_Element="_iWMSAFpWEeqMoOHlbNi6Hg">
+    <annotations xmi:id="_SMybsVrpEeqXF6Hs4tyljg" name="JsonProperty">
+      <annotationParameters xmi:id="_SMybslrpEeqXF6Hs4tyljg" skipName="true" skipArray="true">
+        <valueSpecifications xmi:type="uml:LiteralString" xmi:id="_SM038VrpEeqXF6Hs4tyljg" value="&quot;slide&quot;"/>
+      </annotationParameters>
+    </annotations>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:Reference xmi:id="_SM038FrpEeqXF6Hs4tyljg" base_Element="_SM0Q4FrpEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_rnmpMFrpEeqXF6Hs4tyljg" base_Element="_rnmCIFrpEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_HTe6YFrqEeqXF6Hs4tyljg" base_Element="_iWIAkFpWEeqMoOHlbNi6Hg">
+    <annotations xmi:id="_HTfhcFrqEeqXF6Hs4tyljg" name="JacksonXmlProperty"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:Reference xmi:id="_HTlBAVrqEeqXF6Hs4tyljg" base_Element="_HTlBAFrqEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Generics xmi:id="_tplQUFufEeqXF6Hs4tyljg" genericsValue="Attribute" base_Element="_tpkpQVufEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_tpo6sFufEeqXF6Hs4tyljg" base_Element="_tpoToFufEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_V5je8lvGEeqXF6Hs4tyljg" base_Element="_V5je8FvGEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_V5je81vGEeqXF6Hs4tyljg" base_Element="_V5je8FvGEeqXF6Hs4tyljg">
+    <annotations xmi:id="_V5kGAFvGEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:Reference xmi:id="__vcXwFvGEeqXF6Hs4tyljg" base_Element="__vbwsFvGEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_aQ8HMVvMEeqXF6Hs4tyljg" base_Element="_aQ8HMFvMEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_HM6AIVvNEeqXF6Hs4tyljg" base_Element="_HM6AIFvNEeqXF6Hs4tyljg">
+    <associatedElement xmi:type="uml:Operation" xmi:id="_HM6AIlvNEeqXF6Hs4tyljg" name="getType" method="_HM6nMVvNEeqXF6Hs4tyljg">
+      <ownedParameter xmi:id="_HM6nMFvNEeqXF6Hs4tyljg" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </associatedElement>
+  </UMLLabProfile:LegacyStyledElement>
+  <uml:OpaqueBehavior xmi:id="_HM6nMVvNEeqXF6Hs4tyljg" name="getType" specification="_HM6AIlvNEeqXF6Hs4tyljg">
+    <ownedParameter xmi:id="_HM6nMlvNEeqXF6Hs4tyljg" direction="return">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedParameter>
+    <language>java</language>
+    <body>return this.naam;&#xD;
+  </body>
+  </uml:OpaqueBehavior>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_wfewgVvNEeqXF6Hs4tyljg" base_Element="_wfewgFvNEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_3tOwoFvNEeqXF6Hs4tyljg" base_Element="_75i1gFvMEeqXF6Hs4tyljg">
+    <annotations xmi:id="_3tOwoVvNEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_3tP-wFvNEeqXF6Hs4tyljg" base_Element="_75i1gFvMEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Generics xmi:id="_UBIN0Fv_EeqXF6Hs4tyljg" genericsValue="Attribute" base_Element="_UBHmwVv_EeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_h9O08FwCEeqXF6Hs4tyljg" base_Element="_h9ON4FwCEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_h9QDEFwCEeqXF6Hs4tyljg" base_Element="_h9PcAFwCEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_6J2CkFwFEeqXF6Hs4tyljg" base_Element="_6J1bgFwFEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Generics xmi:id="_NKFZUVwGEeqXF6Hs4tyljg" genericsValue="Item" base_Element="_NKEyQVwGEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Reference xmi:id="_Bm6qIFygEeqXF6Hs4tyljg" base_Element="_Bm6DEFygEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qFz2oVynEeqXF6Hs4tyljg" base_Element="_qFzPkFynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF0dsFynEeqXF6Hs4tyljg" base_Element="_qFzPkFynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF0dsVynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF0ds1ynEeqXF6Hs4tyljg" base_Element="_qF0dslynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF1EwFynEeqXF6Hs4tyljg" base_Element="_qF0dslynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF1EwVynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF1r0VynEeqXF6Hs4tyljg" base_Element="_qF1ExFynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF1r0lynEeqXF6Hs4tyljg" base_Element="_qF1ExFynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF1r01ynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF2S4VynEeqXF6Hs4tyljg" base_Element="_qF2S4FynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF2S4lynEeqXF6Hs4tyljg" base_Element="_qF2S4FynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF2S41ynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF2581ynEeqXF6Hs4tyljg" base_Element="_qF258VynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF3hAFynEeqXF6Hs4tyljg" base_Element="_qF258VynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF3hAVynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF3hA1ynEeqXF6Hs4tyljg" base_Element="_qF3hAlynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF3hBFynEeqXF6Hs4tyljg" base_Element="_qF3hAlynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF3hBVynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF4vIFynEeqXF6Hs4tyljg" base_Element="_qF4IElynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF4vIVynEeqXF6Hs4tyljg" base_Element="_qF4IElynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF4vIlynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_qF4vJFynEeqXF6Hs4tyljg" base_Element="_qF4vI1ynEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_qF4vJVynEeqXF6Hs4tyljg" base_Element="_qF4vI1ynEeqXF6Hs4tyljg">
+    <annotations xmi:id="_qF5WMFynEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_H0ftEVyoEeqXF6Hs4tyljg" base_Element="_H0fGBVyoEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_H0ftElyoEeqXF6Hs4tyljg" base_Element="_H0fGBVyoEeqXF6Hs4tyljg">
+    <annotations xmi:id="_H0ftE1yoEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_H0gUIVyoEeqXF6Hs4tyljg" base_Element="_H0gUIFyoEeqXF6Hs4tyljg"/>
+  <UMLLabProfile:Annotations xmi:id="_H0gUIlyoEeqXF6Hs4tyljg" base_Element="_H0gUIFyoEeqXF6Hs4tyljg">
+    <annotations xmi:id="_H0gUI1yoEeqXF6Hs4tyljg" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_H0iJUFyoEeqXF6Hs4tyljg" base_Element="_H0hiQFyoEeqXF6Hs4tyljg"/>
 </xmi:XMI>

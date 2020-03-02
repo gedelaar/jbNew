@@ -1,10 +1,12 @@
-package item;
+package style;
 
-public class LevelItem extends Item {
+import item.Item;
+
+public class Level extends Item {
 
 	String value;
 
-	public LevelItem(String value) {
+	public Level(String value) {
 		super();
 		this.value = value;
 	}

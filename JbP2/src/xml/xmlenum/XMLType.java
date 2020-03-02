@@ -2,15 +2,8 @@ package xml.xmlenum;
 
 public class XMLType {
   public enum XMLTypes {
-    PRESENTATION, SHOWTITLE, SLIDE, TITLE, ITEM;
+    PRESENTATION, SHOWTITLE, SLIDE, TITLE, ITEM, DATE, SHOWSUBTITLE, PRESENTER;
 
-    public String toXMLLowerCaseValue() {
-      return this.name().toLowerCase();
-    }
-
-    public XMLTypes from(String status) {
-      return XMLTypes.valueOf(status.toUpperCase());
-    }
-
+   
   }
 }

@@ -78,11 +78,18 @@
 			<artifactId>jaxb-runtime</artifactId>
 			<version>2.3.0-b170127.1453</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+			<version>2.10.2</version>
+		</dependency>
+
 	</dependencies>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
-			
+
 			<plugin>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.22.2</version>

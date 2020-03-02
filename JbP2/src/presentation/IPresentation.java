@@ -1,18 +1,16 @@
 package presentation;
 
-import java.util.List;
-
-import slideFactory.SlideAbstractFactory;
+import slideshow.SlideShow;
 
 public interface IPresentation {
-	
-	
-	IPresentation load();
 
-	void save();
+  SlideShow load();
 
-	List<SlideAbstractFactory> open();
-	
-	
+  //void save();
+
+  // List<SlideAbstractFactory> open();
+  SlideShow open();
+
+  void save(SlideShow slideShow);
 
 }

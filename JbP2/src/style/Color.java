@@ -1,6 +1,9 @@
-package item;
+package style;
 
-public class FontSize extends Item {
+import item.Item;
+
+public class Color extends Item
+{
 
 	@Override
 	public String getLine() {

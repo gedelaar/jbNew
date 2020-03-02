@@ -2,10 +2,14 @@ package item;
 
 import java.util.List;
 
+import xml.xmlenum.XMLType.XMLTypes;
+
 public class TextItem extends Item {
   private String line;
   private String naam;
   private List<Attribute> itemAttributes;
+  private String type;
+ 
 
   public TextItem(String line) {
     super();
@@ -13,7 +17,7 @@ public class TextItem extends Item {
   }
 
   public TextItem() {
-  }
+  } 
 
   public String getLine() {
     return line;
@@ -46,6 +50,8 @@ public class TextItem extends Item {
     return itemAttributes;
   }
 
+  
+  
   @Override
   public String toString() {
     StringBuilder builder = new StringBuilder();
@@ -55,8 +61,14 @@ public class TextItem extends Item {
     builder.append(naam);
     builder.append(", itemAttributes=");
     builder.append(itemAttributes);
+    builder.append(", type=");
+    builder.append(type);
     builder.append("]");
     return builder.toString();
   }
 
+  @Override
+  public String setItemType(XMLTypes ITEM) {
+    return this.type = ITEM.toString().toLowerCase();
+  };
 }

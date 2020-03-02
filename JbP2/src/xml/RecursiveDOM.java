@@ -10,50 +10,53 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import slide.Slide;
-import slideFactory.OrdinarySlideFactory;
 import slideFactory.SlideAbstractFactory;
-import slideFactory.TitleSlideFactory;
+import slideshow.SlideShow;
 import xml.xmlenum.XMLType.XMLTypes;
 
 public class RecursiveDOM {
+  List<SlideAbstractFactory> slideAbstractFactories = new ArrayList<>();
+  boolean isFirstSlide = true;
 
-  public List<SlideAbstractFactory> recursiveDOM() throws SAXException, IOException {
+
+  public SlideShow recursiveDOM() throws SAXException, IOException {
 
     Document doc = ConvertToXmlDocument.convertFileToXMLDocument();
-    List<SlideAbstractFactory> slideAbstractFactories = new ArrayList<>();
-    parse(doc, doc.getDocumentElement(), slideAbstractFactories);
+    SlideShow slideShow = new SlideShow();
+    parse(doc.getDocumentElement(), slideShow);
+    slideShow.slideAbstractFactories().addAll(slideAbstractFactories);
 
-    return slideAbstractFactories;
+    return slideShow;
   }
-
-  private void parse(final Document doc, final Element e, List<SlideAbstractFactory> slideAbstractFactories) {
+ 
+  private void parse(final Element e, SlideShow slideShow) {
     final NodeList children = e.getChildNodes();
-    XMLTypes slideType = xml.xmlenum.XMLType.XMLTypes.SLIDE;
-    XMLTypes showtitleType = xml.xmlenum.XMLType.XMLTypes.SHOWTITLE;
 
     for (int i = 0; i < children.getLength(); i++) {
       final Node n = children.item(i);
       if (n.getNodeType() == Node.ELEMENT_NODE) {
 
-	if (n.getNodeName().equals(slideType.toXMLLowerCaseValue())) {
-	  Slide slide = (new XmlSlideHandler()).handleXmlSlide(doc, (Element) n, slideAbstractFactories);
-	  if (null != slide) {
-	    SlideAbstractFactory ordinarySlideFactory = new OrdinarySlideFactory();
-	    ordinarySlideFactory.createSlide(slide);
-	    slideAbstractFactories.add(ordinarySlideFactory);
-	  }
-	}
+	XMLTypes nodeName = XMLTypes.valueOf(n.getNodeName().toUpperCase());
+	switch (nodeName) {
+	  case SLIDE:
+	    SlideAbstractFactory slideAbstractFactory = (new XmlSlideHandler()).handleXmlSlideWrapper((Element) n,
+		isFirstSlide);
+	    if (null != slideAbstractFactory) {
+	      isFirstSlide = false;
+	      slideAbstractFactories.add(slideAbstractFactory);
+	    }
+	    break;
+	  case SHOWTITLE:
+	    slideShow.setShowTitle(n.getTextContent());
+	    break;
+	  case SHOWSUBTITLE:
+	    slideShow.setShowTitle(n.getTextContent());
+	    break;
 
-	if (n.getNodeName().equals(showtitleType.toXMLLowerCaseValue())) {
-	  Slide slide = (new XmlTitleSlideHandler()).handleXmlSlideElement((Element) n);
-	  if (null != slide) {
-	    SlideAbstractFactory titleSlideFactory = new TitleSlideFactory();
-	    titleSlideFactory.createSlide(slide);
-	    slideAbstractFactories.add(titleSlideFactory);
-	  }
+	  default:
+	    break;
 	}
-	parse(doc, (Element) n, slideAbstractFactories);
+	parse((Element) n, slideShow);
       }
     }
   }

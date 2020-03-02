@@ -10,20 +10,33 @@ import item.Attribute;
 import item.ItemAttribute;
 
 public class XmlItemAttribute {
-  List<Attribute> itemAttributes = new ArrayList<>();
+  List<Attribute> attributes = new ArrayList<>();
 
-  public List<Attribute> getXMLAttributes(Node tempNode) {
+  public List<Attribute> AttributeXMLWrapper(Node tempNode) {
+    String naam = null;
+    String value = null;
     NamedNodeMap nodeMap = tempNode.getAttributes();
 
     for (int j = 0; j < nodeMap.getLength(); j++) {
-      ItemAttribute itemAttribute = new ItemAttribute();
+      Attribute attribute;
       Node node = nodeMap.item(j);
 
-      itemAttribute.setNaam(node.getNodeName());
-      itemAttribute.setValue(node.getNodeValue());
-      itemAttributes.add(itemAttribute);
-
+      naam = node.getNodeName();
+      value = node.getNodeValue();
+      attribute = setAttribute(naam, value);
+      attributes.add(attribute);
     }
-    return itemAttributes;
+    return this.getAttributes();
+  }
+
+  public Attribute setAttribute(String naam, String value) {
+    Attribute attribute = new ItemAttribute();
+    attribute.setNaam(naam);
+    attribute.setValue(value);
+    return attribute;
+  }
+
+  public List<Attribute> getAttributes() {
+    return attributes;
   }
 }

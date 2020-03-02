@@ -6,6 +6,7 @@ import java.util.List;
 import item.Item;
 
 public class TitleSlide extends Slide {
+
   private String subNaam;
   private String naam;
   private List<Item> items = new ArrayList<>();
@@ -30,7 +31,7 @@ public class TitleSlide extends Slide {
 
   @Override
   public void setSubNaam(String subNaam) {
-    this.subNaam=subNaam;
+    this.subNaam = subNaam;
   }
 
   public String getSubNaam() {

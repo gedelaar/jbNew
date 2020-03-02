@@ -1,6 +1,8 @@
-package item;
+package style;
 
-public class Indent extends Item{
+import item.Item;
+
+public class Font extends Item {
 
 	@Override
 	public String getLine() {

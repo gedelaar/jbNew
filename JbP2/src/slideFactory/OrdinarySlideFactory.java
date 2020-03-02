@@ -1,10 +1,13 @@
 package slideFactory;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import slide.OrdinarySlide;
 import slide.Slide;
 
 public class OrdinarySlideFactory implements SlideAbstractFactory {
 
+  @JsonProperty("slide")
   Slide ordinarySlide = new OrdinarySlide();
 
   @Override
