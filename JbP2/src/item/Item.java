@@ -2,30 +2,23 @@ package item;
 
 import java.util.List;
 
-import xml.xmlenum.XMLType.XMLTypes;
+import itemAttribute.Attribute;
+import itemAttribute.Line;
 
 public abstract class Item {
-  private String naam;
-  private String type;
+  
+  public abstract void setLine(Line line);
 
-  public abstract void setLine(String line);
-
-  public abstract String getLine();
+  public abstract Line getLine();
 
   public abstract void writeLine();
 
-  public abstract void setItemNaam(String naam);
+  public abstract void setNaam(String naam);
 
-  public abstract String getItemNaam();
+  public abstract String getNaam();
 
   public abstract void setItemAttributes(List<Attribute> itemAttributes);
 
   public abstract List<Attribute> itemAttributes();
-
-  public abstract String setItemType(XMLTypes ITEM);
-
-  public String getType() {
-    return this.naam;
-  };
 
 }

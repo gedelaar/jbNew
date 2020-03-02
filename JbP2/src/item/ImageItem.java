@@ -1,19 +1,24 @@
 package item;
 
+import java.awt.Image;
 import java.util.List;
 
+import itemAttribute.Attribute;
+import itemAttribute.Line;
+
 public class ImageItem extends Item {
-  private String line;
+  private Line line;
   private String naam;
+  private Image image;
   private List<Attribute> itemAttributes;
 
   @Override
-  public String getLine() {
+  public Line getLine() {
     return this.line;
   }
 
   @Override
-  public void setLine(String line) {
+  public void setLine(Line line) {
     this.line = line;
   }
 
@@ -22,12 +27,12 @@ public class ImageItem extends Item {
   }
 
   @Override
-  public void setItemNaam(String naam) {
+  public void setNaam(String naam) {
     this.naam = naam;
   }
 
   @Override
-  public String getItemNaam() {
+  public String getNaam() {
     return this.naam;
   }
 
@@ -52,6 +57,14 @@ public class ImageItem extends Item {
     builder.append(itemAttributes);
     builder.append("]");
     return builder.toString();
+  }
+
+  public Image getImage() {
+    return image;
+  }
+
+  public void setImage(Image image) {
+    this.image = image;
   }
 
 }

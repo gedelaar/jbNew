@@ -1,4 +1,4 @@
-package item;
+package itemAttribute;
 
 public class ItemAttribute implements Attribute {
   private String naam;

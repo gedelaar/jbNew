@@ -4,17 +4,18 @@ import java.util.List;
 
 import org.w3c.dom.Node;
 
-import item.Attribute;
 import item.ImageItem;
 import item.Item;
 import item.TextItem;
+import itemAttribute.Attribute;
+import itemAttribute.Line;
 import xml.xmlenum.XMLAttributeValue.XMLAttributeValues;
 
 public class XmlItem {
 
   public Item itemValueXMLWrapper(Node node) {
     String naam = node.getNodeName();
-    String line = node.getTextContent();
+    Line line = new Line(node.getTextContent());
 
     List<Attribute> attributes = null;
     XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
@@ -31,7 +32,7 @@ public class XmlItem {
 
   }
 
-  public Item setItemValues(String naam, String line, List<Attribute> attributes) {
+  public Item setItemValues(String naam, Line line, List<Attribute> attributes) {
     Item item = null;
 
     if (null != attributes) {
@@ -42,7 +43,7 @@ public class XmlItem {
     if (null == item) {
       item = new TextItem();
     }
-    item.setItemNaam(naam);
+    item.setNaam(naam);
     item.setLine(line);
     return item;
   }

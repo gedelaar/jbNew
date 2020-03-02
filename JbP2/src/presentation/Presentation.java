@@ -5,8 +5,8 @@ import java.io.IOException;
 import org.xml.sax.SAXException;
 
 import demo.DemoPresentation;
-import item.Attribute;
 import item.Item;
+import itemAttribute.Attribute;
 import slideFactory.SlideAbstractFactory;
 import slideshow.SlideShow;
 import slideshow.SlideShowSave;

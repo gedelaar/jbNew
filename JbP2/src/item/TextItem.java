@@ -2,47 +2,44 @@ package item;
 
 import java.util.List;
 
-import xml.xmlenum.XMLType.XMLTypes;
+import itemAttribute.Attribute;
+import itemAttribute.Line;
 
 public class TextItem extends Item {
-  private String line;
+  private Line line;
   private String naam;
   private List<Attribute> itemAttributes;
-  private String type;
- 
 
-  public TextItem(String line) {
+  public TextItem(Line line) {
     super();
     this.line = line;
   }
 
   public TextItem() {
-  } 
-
-  public String getLine() {
-    return line;
-  }
-
-  public void writeLine() {
-  }
-
-  public void setItemNaam(String naam) {
-    this.naam = naam;
-  }
-
-  public String getItemNaam() {
-    return this.naam;
   }
 
   @Override
-  public void setLine(String line) {
-    this.line = line;
+  public Line getLine() {
+    return line;
+  }
+
+  @Override
+  public void writeLine() {
+  }
+
+  @Override
+  public void setNaam(String naam) {
+    this.naam = naam;
+  }
+
+  @Override
+  public String getNaam() {
+    return this.naam;
   }
 
   @Override
   public void setItemAttributes(List<Attribute> itemAttributes) {
     this.itemAttributes = itemAttributes;
-
   }
 
   @Override
@@ -50,8 +47,6 @@ public class TextItem extends Item {
     return itemAttributes;
   }
 
-  
-  
   @Override
   public String toString() {
     StringBuilder builder = new StringBuilder();
@@ -61,14 +56,13 @@ public class TextItem extends Item {
     builder.append(naam);
     builder.append(", itemAttributes=");
     builder.append(itemAttributes);
-    builder.append(", type=");
-    builder.append(type);
     builder.append("]");
     return builder.toString();
   }
 
   @Override
-  public String setItemType(XMLTypes ITEM) {
-    return this.type = ITEM.toString().toLowerCase();
-  };
+  public void setLine(Line line) {
+    
+    this.line = line;
+  }
 }

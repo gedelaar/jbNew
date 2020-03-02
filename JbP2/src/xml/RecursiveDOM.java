@@ -18,7 +18,7 @@ public class RecursiveDOM {
   List<SlideAbstractFactory> slideAbstractFactories = new ArrayList<>();
   boolean isFirstSlide = true;
 
-
+ 
   public SlideShow recursiveDOM() throws SAXException, IOException {
 
     Document doc = ConvertToXmlDocument.convertFileToXMLDocument();

@@ -3,8 +3,9 @@ package demo;
 import java.util.ArrayList;
 import java.util.List;
 
-import item.Attribute;
 import item.Item;
+import itemAttribute.Attribute;
+import itemAttribute.Line;
 import slideshow.SlideShow;
 import xml.XmlItem;
 import xml.XmlItemAttribute;
@@ -80,10 +81,11 @@ public class DemoPresentation {
     return attributes;
   }
 
-  private Item createItem(String node, String line, String kind, String level) {
+  private Item createItem(String node, String strline, String kind, String level) {
+    Line line = new Line(strline);
     if (null != kind || null != level) {
       List<Attribute> attributes = setAttributes(kind, level);
-      return xmlItem.setItemValues(node, line, attributes);
+      return xmlItem.setItemValues(node, line , attributes);
     }
     return xmlItem.setItemValues(node, line, null);
 

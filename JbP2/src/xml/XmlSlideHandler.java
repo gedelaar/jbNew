@@ -25,7 +25,7 @@ public class XmlSlideHandler {
     slideAbstractFactory.createSlide(slide);
     return slideAbstractFactory;
   }
-
+ 
   public SlideAbstractFactory handleSlide(List<Item> items, boolean isFirstSlide) {
 
     Slide slide = getSlide(isFirstSlide);

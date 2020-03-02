@@ -1,4 +1,4 @@
-package item;
+package itemAttribute;
 
 public interface Attribute {
 

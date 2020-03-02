@@ -6,8 +6,8 @@ import java.util.List;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 
-import item.Attribute;
-import item.ItemAttribute;
+import itemAttribute.Attribute;
+import itemAttribute.ItemAttribute;
 
 public class XmlItemAttribute {
   List<Attribute> attributes = new ArrayList<>();

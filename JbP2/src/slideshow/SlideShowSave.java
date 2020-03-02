@@ -16,8 +16,8 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Attr;
 
-import item.Attribute;
 import item.Item;
+import itemAttribute.Attribute;
 import slideFactory.SlideAbstractFactory;
 
 public class SlideShowSave {
@@ -45,9 +45,9 @@ public class SlideShowSave {
 
       // item elements
       for (Item item : slideAbF.getSlide().items()) {
-	Element nodeItem = doc.createElement(item.getItemNaam());
+	Element nodeItem = doc.createElement(item.getNaam());
 	slide.appendChild(nodeItem);
-	nodeItem.appendChild(doc.createTextNode(item.getLine()));
+	nodeItem.appendChild(doc.createTextNode(item.getLine().getLine()));
 
 	if (null != item.itemAttributes()) {
 	  for (Attribute attribute : item.itemAttributes()) {

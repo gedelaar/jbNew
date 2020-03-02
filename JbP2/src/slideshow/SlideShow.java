@@ -3,25 +3,15 @@ package slideshow;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
-
 import slideFactory.SlideAbstractFactory;
 
-@JacksonXmlRootElement(localName = "presentation")
 public class SlideShow implements ISlideShow {
 
-  @JacksonXmlElementWrapper()
   private List<SlideAbstractFactory> slideAbstractFactories = new ArrayList<>();
 
-  @JacksonXmlProperty(localName="showtitle")
   private String showTitle;
-  @JacksonXmlProperty
   private String showSubTitle;
-  @JacksonXmlProperty
   private String date;
-  @JacksonXmlProperty
   private String presenterName;
 
   public String getShowTitle() {
@@ -66,8 +56,7 @@ public class SlideShow implements ISlideShow {
   public List<SlideAbstractFactory> slideAbstractFactories() {
     return slideAbstractFactories;
   }
-  
-  
+
   public void setDate(String date) {
     this.date = date;
   }
