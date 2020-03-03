@@ -1,6 +1,6 @@
-package xml.xmlenum;
+package itemAttribute;
 
-public class XMLAttributeValue {
+public class EnumAttributeValue {
   public enum XMLAttributeValues {
     TEXT, IMAGE;
 

@@ -6,37 +6,43 @@ import java.util.List;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 
-import itemAttribute.Attribute;
-import itemAttribute.ItemAttribute;
+import itemAttribute.AttributeAdapter;
+import itemAttribute.AttributeKind;
+import itemAttribute.AttributeLevel;
 
 public class XmlItemAttribute {
-  List<Attribute> attributes = new ArrayList<>();
+  List<AttributeAdapter> attributes = new ArrayList<>();
 
-  public List<Attribute> AttributeXMLWrapper(Node tempNode) {
-    String naam = null;
-    String value = null;
+  public List<AttributeAdapter> AttributeXMLWrapper(Node tempNode) {
     NamedNodeMap nodeMap = tempNode.getAttributes();
 
     for (int j = 0; j < nodeMap.getLength(); j++) {
-      Attribute attribute;
+      AttributeAdapter attribute;
       Node node = nodeMap.item(j);
 
-      naam = node.getNodeName();
-      value = node.getNodeValue();
-      attribute = setAttribute(naam, value);
-      attributes.add(attribute);
+      AttributeKind attributeKind = new AttributeKind(node.getNodeValue());
+      if (attributeKind != null) {
+	attributes.add(attributeKind);
+      }
+      AttributeLevel attributeLevel = new AttributeLevel(node.getNodeValue());
+      if (attributeLevel != null) {
+	attributes.add(attributeLevel);
+      }
     }
     return this.getAttributes();
   }
 
-  public Attribute setAttribute(String naam, String value) {
-    Attribute attribute = new ItemAttribute();
-    attribute.setNaam(naam);
-    attribute.setValue(value);
+  public AttributeAdapter setAttributeKind(String kind) {
+    AttributeAdapter attribute = new AttributeKind(kind);
     return attribute;
   }
 
-  public List<Attribute> getAttributes() {
+  public AttributeAdapter setAttributeLevel(String level) {
+    AttributeAdapter attribute = new AttributeLevel(level);
+    return attribute;
+  }
+
+  public List<AttributeAdapter> getAttributes() {
     return attributes;
   }
 }

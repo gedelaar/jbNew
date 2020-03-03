@@ -2,11 +2,11 @@ package itemAttribute;
 
 public interface Attribute {
 
-  String getNaam();
+  AttributeKind getAttributeKey();
 
-  void setNaam(String naam);
+  void setAttributeKey(AttributeKind attributeKey);
 
-  String getValue();
+  AttributeValue getAttributeValue();
 
-  void setValue(String value);
+  void setAttributeValue(AttributeValue attributeValue);
 }

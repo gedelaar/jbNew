@@ -1,5 +1,6 @@
 package xml;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.w3c.dom.Node;
@@ -8,8 +9,9 @@ import item.ImageItem;
 import item.Item;
 import item.TextItem;
 import itemAttribute.Attribute;
+import itemAttribute.AttributeAdapter;
 import itemAttribute.Line;
-import xml.xmlenum.XMLAttributeValue.XMLAttributeValues;
+import itemAttribute.EnumAttributeValue.XMLAttributeValues;
 
 public class XmlItem {
 
@@ -17,14 +19,13 @@ public class XmlItem {
     String naam = node.getNodeName();
     Line line = new Line(node.getTextContent());
 
-    List<Attribute> attributes = null;
+    List<AttributeAdapter> attributes = new ArrayList<>();
     XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
     Item item = null;
 
     if (node.hasAttributes()) {
       attributes = xmlItemAttribute.AttributeXMLWrapper(node);
       item = getItemType(attributes);
-      item.setItemAttributes(attributes);
     }
 
     item = setItemValues(naam, line, attributes);
@@ -32,12 +33,14 @@ public class XmlItem {
 
   }
 
-  public Item setItemValues(String naam, Line line, List<Attribute> attributes) {
+  public Item setItemValues(String naam, Line line, List<AttributeAdapter> attributes) {
     Item item = null;
+    List<AttributeAdapter> listAttributes = new ArrayList<>();
+    listAttributes = attributes;
 
     if (null != attributes) {
       item = getItemType(attributes);
-      item.setItemAttributes(attributes);
+      item.itemAttributes().addAll(listAttributes);
     }
 
     if (null == item) {
@@ -48,9 +51,11 @@ public class XmlItem {
     return item;
   }
 
-  private Item getItemType(List<Attribute> attributes) {
+  private Item getItemType(List<AttributeAdapter> attributes) {
     for (int i = 0; i < attributes.size(); i++) {
-      XMLAttributeValues attrValue = XMLAttributeValues.valueOf(attributes.get(i).getValue().toUpperCase());
+      XMLAttributeValues attrValue = XMLAttributeValues.valueOf(attributes.get(i).getKey());
+      // attributes.get(i).getKey()
+
       switch (attrValue) {
 	case IMAGE:
 	  return new ImageItem();

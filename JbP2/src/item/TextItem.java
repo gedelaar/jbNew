@@ -1,14 +1,16 @@
 package item;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import itemAttribute.Attribute;
+import itemAttribute.AttributeAdapter;
 import itemAttribute.Line;
 
 public class TextItem extends Item {
   private Line line;
   private String naam;
-  private List<Attribute> itemAttributes;
+  private List<AttributeAdapter> itemAttributes = new ArrayList<>();
 
   public TextItem(Line line) {
     super();
@@ -38,12 +40,7 @@ public class TextItem extends Item {
   }
 
   @Override
-  public void setItemAttributes(List<Attribute> itemAttributes) {
-    this.itemAttributes = itemAttributes;
-  }
-
-  @Override
-  public List<Attribute> itemAttributes() {
+  public List<AttributeAdapter> itemAttributes() {
     return itemAttributes;
   }
 
@@ -62,7 +59,7 @@ public class TextItem extends Item {
 
   @Override
   public void setLine(Line line) {
-    
+
     this.line = line;
   }
 }

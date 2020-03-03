@@ -8,6 +8,10 @@ import org.junit.jupiter.api.Test;
 
 import item.Item;
 import item.TextItem;
+import itemAttribute.Attribute;
+import itemAttribute.AttributeAdapter;
+import itemAttribute.AttributeKind;
+import itemAttribute.ItemAttribute;
 import itemAttribute.Line;
 
 class TextItemTest {
@@ -21,11 +25,19 @@ class TextItemTest {
   }
 
   @Test
-  void test() {
+  void InterfaceTest() {
     String strLine = "tekst";
-     Item item = new TextItem(new Line(strLine));
-     assertEquals(strLine,item.getLine().getLine());
-    
+    Item item = new TextItem(new Line(strLine));
+    assertEquals(strLine, item.getLine().getLine());
   }
 
+  @Test
+  void test() {
+    String strLine = "tekst";
+    TextItem textItem = new TextItem();
+    textItem.setLine(new Line(strLine));
+    AttributeAdapter attributeAdapter = new AttributeKind("text");
+    textItem.itemAttributes().add(attributeAdapter);
+
+  }
 }

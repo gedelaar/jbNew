@@ -1,16 +1,18 @@
 package item;
 
 import java.awt.Image;
+import java.util.ArrayList;
 import java.util.List;
 
 import itemAttribute.Attribute;
+import itemAttribute.AttributeAdapter;
 import itemAttribute.Line;
 
 public class ImageItem extends Item {
   private Line line;
   private String naam;
   private Image image;
-  private List<Attribute> itemAttributes;
+  private List<AttributeAdapter> itemAttributes = new ArrayList<>();
 
   @Override
   public Line getLine() {
@@ -37,13 +39,8 @@ public class ImageItem extends Item {
   }
 
   @Override
-  public List<Attribute> itemAttributes() {
+  public List<AttributeAdapter> itemAttributes() {
     return itemAttributes;
-  }
-
-  @Override
-  public void setItemAttributes(List<Attribute> itemAttributes) {
-    this.itemAttributes = itemAttributes;
   }
 
   @Override

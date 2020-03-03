@@ -1,32 +1,32 @@
 package itemAttribute;
 
 public class ItemAttribute implements Attribute {
-  private String naam;
-  private String value;
+  private AttributeKind attributeKey;
+  private AttributeValue attributeValue;
 
-  public String getNaam() {
-    return naam;
+  public AttributeKind getAttributeKey() {
+    return attributeKey;
   }
 
-  public void setNaam(String naam) {
-    this.naam = naam;
+  public void setAttributeKey(AttributeKind attributeKey) {
+    this.attributeKey = attributeKey;
   }
 
-  public String getValue() {
-    return value;
+  public AttributeValue getAttributeValue() {
+    return attributeValue;
   }
 
-  public void setValue(String value) {
-    this.value = value;
+  public void setAttributeValue(AttributeValue attributeValue) {
+    this.attributeValue = attributeValue;
   }
 
   @Override
   public String toString() {
     StringBuilder builder = new StringBuilder();
     builder.append("ItemAttribute [naam=");
-    builder.append(naam);
+    builder.append(attributeKey);
     builder.append(", value=");
-    builder.append(value);
+    builder.append(attributeValue);
     builder.append("]");
     return builder.toString();
   }

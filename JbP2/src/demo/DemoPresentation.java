@@ -5,6 +5,10 @@ import java.util.List;
 
 import item.Item;
 import itemAttribute.Attribute;
+import itemAttribute.AttributeAdapter;
+import itemAttribute.AttributeKey;
+import itemAttribute.AttributeKind;
+import itemAttribute.AttributeLevel;
 import itemAttribute.Line;
 import slideshow.SlideShow;
 import xml.XmlItem;
@@ -31,7 +35,7 @@ public class DemoPresentation {
   private boolean isFirstSlide = true;
   private SlideShow slideShow = new SlideShow();
   private List<Item> items = new ArrayList<>();
-  private List<Attribute> attributes;
+  private List<AttributeAdapter> attributes;
 
   public SlideShow loadFile() {
 
@@ -74,18 +78,21 @@ public class DemoPresentation {
     return slideShow;
   }
 
-  private List<Attribute> setAttributes(String kind, String level) {
+  private List<AttributeAdapter> setAttributes(String kind, String level) {
+    AttributeKind attrKind = new AttributeKind(kind);
+    AttributeLevel attrLevel = new AttributeLevel(level);
     attributes = new ArrayList<>();
-    attributes.add(xmlItemAttribute.setAttribute("kind", kind));
-    attributes.add(xmlItemAttribute.setAttribute("level", level));
+    attributes.add(attrKind);
+    attributes.add(attrLevel);
     return attributes;
   }
 
   private Item createItem(String node, String strline, String kind, String level) {
     Line line = new Line(strline);
     if (null != kind || null != level) {
-      List<Attribute> attributes = setAttributes(kind, level);
-      return xmlItem.setItemValues(node, line , attributes);
+      List<AttributeAdapter> attributes = setAttributes(kind, level);
+      return xmlItem.setItemValues(node, line, attributes);
+      //xmlItem..setAttributes(kind, level)
     }
     return xmlItem.setItemValues(node, line, null);
 
