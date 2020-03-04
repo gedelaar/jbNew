@@ -30,77 +30,76 @@ import xml.XmlSlideHandler;
 
 public class DemoPresentation {
 
-  private XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
-  private XmlItem xmlItem;
-  private boolean isFirstSlide = true;
-  private SlideShow slideShow = new SlideShow();
-  private List<Item> items = new ArrayList<>();
-  private List<AttributeAdapter> attributes;
+	private XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
+	private XmlItem xmlItem;
+	private boolean isFirstSlide = true;
+	private SlideShow slideShow = new SlideShow();
+	private List<Item> items = new ArrayList<>();
+	private List<AttributeAdapter> attributes;
 
-  public SlideShow loadFile() {
+	public SlideShow loadFile() {
 
-    xmlItem = new XmlItem();
-    slideShow.setShowTitle("Demo Presentation");
+		xmlItem = new XmlItem();
+		slideShow.setShowTitle("Demo Presentation");
 
-    items.add(createItem("title", "JabberPoint", null, null));
-    items.add(createItem("item", "Het Java Presentatie Tool", "text", "1"));
-    items.add(createItem("item", "Copyright (c) 1996-2000: Ian Darwin", "text", "2"));
-    items.add(createItem("item", "Copyright (c) 2000-now:", "text", "2"));
-    items.add(createItem("item", "Gert Florijn en Sylvia Stuurman", "text", "2"));
-    items.add(createItem("item", "JabberPoint aanroepen zonder bestandsnaam", "text", "4"));
-    items.add(createItem("item", "laat deze presentatie zien", "text", "4"));
-    items.add(createItem("item", "Navigeren:", "text", "1"));
-    items.add(createItem("item", "Volgende slide: PgDn of Enter", "text", "3"));
-    items.add(createItem("item", "Vorige slide: PgUp of up-arrow", "text", "3"));
-    items.add(createItem("item", "Stoppen: q or Q", "text", "3"));
-    items = createSlide(items);
+		items.add(createItem("title", "JabberPoint", null, null));
+		items.add(createItem("item", "Het Java Presentatie Tool", "text", "1"));
+		items.add(createItem("item", "Copyright (c) 1996-2000: Ian Darwin", "text", "2"));
+		items.add(createItem("item", "Copyright (c) 2000-now:", "text", "2"));
+		items.add(createItem("item", "Gert Florijn en Sylvia Stuurman", "text", "2"));
+		items.add(createItem("item", "JabberPoint aanroepen zonder bestandsnaam", "text", "4"));
+		items.add(createItem("item", "laat deze presentatie zien", "text", "4"));
+		items.add(createItem("item", "Navigeren:", "text", "1"));
+		items.add(createItem("item", "Volgende slide: PgDn of Enter", "text", "3"));
+		items.add(createItem("item", "Vorige slide: PgUp of up-arrow", "text", "3"));
+		items.add(createItem("item", "Stoppen: q or Q", "text", "3"));
+		items = createSlide(items);
 
-    // next slide
-    items.add(createItem("title", "Demonstratie van levels en stijlen", null, null));
-    items.add(createItem("item", "Level 1", "text", "1"));
-    items.add(createItem("item", "Level 2", "text", "2"));
-    items.add(createItem("item", "Nogmaals level 1", "text", "1"));
-    items.add(createItem("item", "Level 1 heeft stijl nummer 1", "text", "1"));
-    items.add(createItem("item", "Level 2 heeft stijl nummer 2", "text", "2"));
-    items.add(createItem("item", "Zo ziet level 3 er uit", "text", "3"));
-    items.add(createItem("item", "En dit is level 4", "text", "4"));
-    items = createSlide(items);
+		// next slide
+		items.add(createItem("title", "Demonstratie van levels en stijlen", null, null));
+		items.add(createItem("item", "Level 1", "text", "1"));
+		items.add(createItem("item", "Level 2", "text", "2"));
+		items.add(createItem("item", "Nogmaals level 1", "text", "1"));
+		items.add(createItem("item", "Level 1 heeft stijl nummer 1", "text", "1"));
+		items.add(createItem("item", "Level 2 heeft stijl nummer 2", "text", "2"));
+		items.add(createItem("item", "Zo ziet level 3 er uit", "text", "3"));
+		items.add(createItem("item", "En dit is level 4", "text", "4"));
+		items = createSlide(items);
 
-    // next slide
-    items.add(createItem("title", "De derde slide", null, null));
-    items.add(createItem("item", "Om een nieuwe presentatie te openen,", "text", "1"));
-    items.add(createItem("item", "gebruik File->Open uit het menu.", "text", "2"));
-    items.add(createItem("item", " ", "text", "1"));
-    items.add(createItem("item", "Dit is het einde van de presentatie.", "text", "1"));
-    items.add(createItem("item", "JabberPoint.jpg", "image", "1"));
-    items = createSlide(items);
+		// next slide
+		items.add(createItem("title", "De derde slide", null, null));
+		items.add(createItem("item", "Om een nieuwe presentatie te openen,", "text", "1"));
+		items.add(createItem("item", "gebruik File->Open uit het menu.", "text", "2"));
+		items.add(createItem("item", " ", "text", "1"));
+		items.add(createItem("item", "Dit is het einde van de presentatie.", "text", "1"));
+		items.add(createItem("item", "JabberPoint.jpg", "image", "1"));
+		items = createSlide(items);
 
-    return slideShow;
-  }
+		return slideShow;
+	}
 
-  private List<AttributeAdapter> setAttributes(String kind, String level) {
-    AttributeKind attrKind = new AttributeKind(kind);
-    AttributeLevel attrLevel = new AttributeLevel(level);
-    attributes = new ArrayList<>();
-    attributes.add(attrKind);
-    attributes.add(attrLevel);
-    return attributes;
-  }
+	private List<AttributeAdapter> setAttributes(String kind, String level) {
+		AttributeKind attrKind = new AttributeKind(kind);
+		AttributeLevel attrLevel = new AttributeLevel(level);
+		attributes = new ArrayList<>();
+		attributes.add(attrKind);
+		attributes.add(attrLevel);
+		return attributes;
+	}
 
-  private Item createItem(String node, String strline, String kind, String level) {
-    Line line = new Line(strline);
-    if (null != kind || null != level) {
-      List<AttributeAdapter> attributes = setAttributes(kind, level);
-      return xmlItem.setItemValues(node, line, attributes);
-      //xmlItem..setAttributes(kind, level)
-    }
-    return xmlItem.setItemValues(node, line, null);
+	private Item createItem(String node, String strline, String kind, String level) {
+		Line line = new Line(strline);
+		if (null != kind || null != level) {
+			List<AttributeAdapter> attributes = setAttributes(kind, level);
+			return xmlItem.setItemValues(node, line, attributes);
+		}
+		return xmlItem.setItemValues(node, line, null);
 
-  }
+	}
 
-  private List<Item> createSlide(List<Item> items) {
-    slideShow.slideAbstractFactories().add((new XmlSlideHandler()).handleSlide(items, isFirstSlide));
-    isFirstSlide = false;
-    return new ArrayList<>();
-  }
+	private List<Item> createSlide(List<Item> items) {
+		slideShow.slideAbstractFactories().add((new XmlSlideHandler()).handleSlide(items, isFirstSlide));
+		isFirstSlide = false;
+		return new ArrayList<>();
+	}
 }

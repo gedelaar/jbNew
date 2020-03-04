@@ -1,12 +1,11 @@
 package itemAttribute;
 
+import static itemAttribute.EnumAttributeKey.XMLAttributes.LEVEL;
+
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.Validate;
-
-import static itemAttribute.EnumAttributeKey.XMLAttributes.*;
-import static itemAttribute.EnumAttributeValue.XMLAttributeValues.*;
 
 public class AttributeLevel implements AttributeAdapter {
   private AttributeKey attributeKey;
@@ -25,6 +24,7 @@ public class AttributeLevel implements AttributeAdapter {
 
   @Override
   public boolean checkValue(String value) {
+	  System.out.println(getClass()+" Level "+ value);
     int i = Integer.parseInt(value);
     Validate.inclusiveBetween(1, 4, i);
     return true;
@@ -36,4 +36,9 @@ public class AttributeLevel implements AttributeAdapter {
       attributeValue = new AttributeValue(value);
     }
   }
+
+@Override
+public String getValue() {
+	return attributeValue.getValue().toLowerCase() ;
+}
 }
