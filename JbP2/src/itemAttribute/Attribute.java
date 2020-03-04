@@ -2,9 +2,9 @@ package itemAttribute;
 
 public interface Attribute {
 
-  AttributeKind getAttributeKey();
+  AttributeKeyKind getAttributeKey();
 
-  void setAttributeKey(AttributeKind attributeKey);
+  void setAttributeKey(AttributeKeyKind attributeKey);
 
   AttributeValue getAttributeValue();
 

@@ -7,8 +7,8 @@ import item.Item;
 import itemAttribute.Attribute;
 import itemAttribute.AttributeAdapter;
 import itemAttribute.AttributeKey;
-import itemAttribute.AttributeKind;
-import itemAttribute.AttributeLevel;
+import itemAttribute.AttributeKeyKind;
+import itemAttribute.AttributeKeyLevel;
 import itemAttribute.Line;
 import slideshow.SlideShow;
 import xml.XmlItem;
@@ -79,8 +79,8 @@ public class DemoPresentation {
 	}
 
 	private List<AttributeAdapter> setAttributes(String kind, String level) {
-		AttributeKind attrKind = new AttributeKind(kind);
-		AttributeLevel attrLevel = new AttributeLevel(level);
+		AttributeKeyKind attrKind = new AttributeKeyKind(kind);
+		AttributeKeyLevel attrLevel = new AttributeKeyLevel(level);
 		attributes = new ArrayList<>();
 		attributes.add(attrKind);
 		attributes.add(attrLevel);

@@ -1,14 +1,14 @@
 package itemAttribute;
 
 public class ItemAttribute implements Attribute {
-  private AttributeKind attributeKey;
+  private AttributeKeyKind attributeKey;
   private AttributeValue attributeValue;
 
-  public AttributeKind getAttributeKey() {
+  public AttributeKeyKind getAttributeKey() {
     return attributeKey;
   }
 
-  public void setAttributeKey(AttributeKind attributeKey) {
+  public void setAttributeKey(AttributeKeyKind attributeKey) {
     this.attributeKey = attributeKey;
   }
 

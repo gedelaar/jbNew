@@ -10,7 +10,7 @@ import item.Item;
 import item.TextItem;
 import itemAttribute.Attribute;
 import itemAttribute.AttributeAdapter;
-import itemAttribute.AttributeKind;
+import itemAttribute.AttributeKeyKind;
 import itemAttribute.ItemAttribute;
 import itemAttribute.Line;
 
@@ -36,7 +36,7 @@ class TextItemTest {
     String strLine = "tekst";
     TextItem textItem = new TextItem();
     textItem.setLine(new Line(strLine));
-    AttributeAdapter attributeAdapter = new AttributeKind("text");
+    AttributeAdapter attributeAdapter = new AttributeKeyKind("text");
     textItem.itemAttributes().add(attributeAdapter);
 
   }

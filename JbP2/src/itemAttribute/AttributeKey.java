@@ -1,7 +1,7 @@
 package itemAttribute;
 
 public class AttributeKey {
-  
+
   private String key;
 
   public AttributeKey(String key) {
@@ -12,6 +12,5 @@ public class AttributeKey {
   public String getKey() {
     return key;
   }
-  
-  
+
 }

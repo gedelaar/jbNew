@@ -7,12 +7,12 @@ import java.util.List;
 
 import org.apache.commons.lang3.Validate;
 
-public class AttributeLevel implements AttributeAdapter {
+public class AttributeKeyLevel implements AttributeAdapter {
   private AttributeKey attributeKey;
   private AttributeValue attributeValue = null;
   List<AttributeValue> attributeValues = new ArrayList<>();
 
-  public AttributeLevel(String value) {
+  public AttributeKeyLevel(String value) {
     attributeKey = new AttributeKey(LEVEL.toString());
     setAttributeValue(value);
   }
