@@ -22,7 +22,8 @@ public class XmlItem {
 		String naam = node.getNodeName();
 		Line line = new Line(node.getTextContent());
 
-		List<AttributeAdapter> attributes = new ArrayList<>();
+		//List<AttributeAdapter> attributes = new ArrayList<>();
+		List<AttributeAdapter> attributes = null;
 		XmlItemAttribute xmlItemAttribute = new XmlItemAttribute();
 		Item item = null;
 
@@ -41,9 +42,14 @@ public class XmlItem {
 		List<AttributeAdapter> listAttributes = new ArrayList<>();
 		listAttributes = attributes;
 
-		if (null != attributes) {
+		if (null != attributes && attributes.size()>0) {
 			item = getItemType(attributes);
-			item.itemAttributes().addAll(listAttributes);
+			try {
+				item.itemAttributes().addAll(listAttributes);
+			} catch (NullPointerException e) {
+				System.out.println(e.getMessage());
+				System.out.println(getClass()+" " + item.getLine().getLine());
+			}
 		}
 
 		if (null == item) {

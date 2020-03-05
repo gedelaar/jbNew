@@ -49,10 +49,10 @@ public class SlideShowSave {
 				slide.appendChild(nodeItem);
 				nodeItem.appendChild(doc.createTextNode(item.getLine().getLine()));
 
-				if (null != item.itemAttributes()) {
+				if (null != item.itemAttributes() && item.itemAttributes().size() > 0) {
 					for (AttributeAdapter attribute : item.itemAttributes()) {
-						//System.out.println("key: "+attribute.getKey());
-						//System.out.println("value: "+attribute.getValue());
+						// System.out.println("key: "+attribute.getKey());
+						// System.out.println("value: "+attribute.getValue());
 						Attr attr = doc.createAttribute(attribute.getKey());
 						attr.setValue(attribute.getValue());
 						nodeItem.setAttributeNode(attr);

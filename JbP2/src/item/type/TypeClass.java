@@ -2,13 +2,11 @@ package item.type;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
-
 import item.ImageItem;
 import item.Item;
 import item.TextItem;
 
-public class TypeClass implements KeyProcessor {
+public class TypeClass  {
 	private static final String TEXT = "TEXT";
 	private static final String IMAGE = "IMAGE";
 	public Map<String, KeyProcessor> d = new HashMap<>();
@@ -47,19 +45,5 @@ public class TypeClass implements KeyProcessor {
 		}
 	}
 
-//Get a set of the entries
-	// Set set = d.entrySet();
-
-	@Override
-	public Item getType() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public String getTypeValue() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 
 }
