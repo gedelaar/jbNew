@@ -33,7 +33,7 @@ public class XmlItemAttribute {
       }
       catch (Exception e) {
       }
-    }
+    } 
     return this.getAttributes();
   }
 
