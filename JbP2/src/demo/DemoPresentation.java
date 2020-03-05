@@ -4,9 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import item.Item;
-import itemAttribute.Attribute;
 import itemAttribute.AttributeAdapter;
-import itemAttribute.AttributeKey;
 import itemAttribute.AttributeKeyKind;
 import itemAttribute.AttributeKeyLevel;
 import itemAttribute.Line;

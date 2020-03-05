@@ -51,8 +51,8 @@ public class SlideShowSave {
 
 				if (null != item.itemAttributes()) {
 					for (AttributeAdapter attribute : item.itemAttributes()) {
-						System.out.println("key: "+attribute.getKey());
-						System.out.println("value: "+attribute.getValue());
+						//System.out.println("key: "+attribute.getKey());
+						//System.out.println("value: "+attribute.getValue());
 						Attr attr = doc.createAttribute(attribute.getKey());
 						attr.setValue(attribute.getValue());
 						nodeItem.setAttributeNode(attr);
